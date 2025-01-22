@@ -1821,4 +1821,196 @@ Cùng thiết bị đo đạc để đảm bảo tính chính xác trong trắc 
 •	Kinematic receiver: máy thu động
 •	Carrier phase: pha sóng tải
 •	Coordinatograph: máy chuyển tọa độ
+Surveying is the science of determining the relative positions of objects or points on the earth’s surface. These points may be any physical thing: a highway, culvert, ditch, storm drain inlet, or property corner. Distances and directions determine the horizontal positions of these points. The vertical positions are determined by differences in elevations measured from a reference location known as a benchmark.
+This manual presents basic principles and practices of surveying for highway construction and maintenance work. It discusses techniques for measuring horizontal distances and vertical elevations, construction staking and slopes, and gives a number of examples and exercises.
+Accuracy is very important in survey work. Some points must be located to the nearest
+0.01 foot. Others may be located to the nearest whole foot horizontally and nearest 0.1 foot vertically. Accuracy is also sometimes described in terms of a ratio such as 1/100 (one in one hundred). This means the measurements should be accurate to within one foot in 100 feet, or 10 feet over a distance of 1,000 feet, for example.
+Before choosing personnel and selecting survey equipment, it is important to determine the accuracy required for the job. Cut and fill slopes and ditches, for example, don’t require the same accuracy as drain inlets and finished pavement grades.
+No survey measurement is ever exact. Surveys are subject to error, so always check your work. It is better to take the time to do it right than having to find the time and money to correct mistakes.
+■	Measuring horizontal distances
+Horizontal distances may be determined by many methods. The survey tape is the most common, but other methods and devices are also used in highway work.
+-	Pacing Count the number of steps and multiply by the known length of each step. This is used to provide distance estimates when no measuring device is available or precision is not required. Experienced personnel may achieve a precision of 1/50.
+-	Measuring wheel On this commercial device, distance is measured by each rotation of a wheel and reported on a dial. It is commonly used to record distances such as curb length or paving quantities and can also be helpful for determining distances along a curve. Precision is usually 1/500
+-	Odometer Vehicle odometers are helpful in determining long distances such as for sign layout or checking vision at intersections. Precision of 1/20 is reasonable.
+-	Estimates Skilled people can often estimate distances with good results. This may be sufficient for some purposes.
+-	Electronic Modern surveying uses a variety of electronic equipment to measure distances. This quickly provides very precise measurements but requires experienced personnel and relatively expensive equipment.
+
+•	Pacing
+Pacing consists of counting the number of steps or paces in a required distance. Distances obtained by pacing are sufficiently accurate for many purposes in surveying. Pacing is also used to validate survey work and eliminate any taping blunders.
+Measuring your pace length requires a measured 100-foot distance. You then walk this distance and count the number of steps. It is best to repeat the process four times and average the results.
+It is possible to adjust your pace to an even three feet, but this should usually be avoided. It is very difficult to maintain an unnatural pace length over a long distance. Accurate pacing is done by using your natural pace, even if it is an uneven length such as 2.6 feet. It is difficult to maintain an even pace when going up hill or down hill.
+Using your natural pace will make this easier.
+Another error can occur if you are not consistent in starting with either the heel or toe of your shoe. If you place your toe at the start point, then also measure the end point with your toe. Starting with the heel and ending with the toe is a common mistake.
+Some surveyors prefer to count strides. A stride is two steps or paces. This reduces the counting but often requires using part of a stride to determine the total distance.
+Pacing is a valuable skill for surveyors. It requires some practice and concentration. Experienced pacers can measure distances within 1/50 to 1/100 in open and level terrain.
+•	Tapes
+Tapes come in many different materials and styles.
+-	Cloth Cloth tapes are common in construction surveys. They are 5/8 inch wide and made of high-grade linen or plastic.
+-	Metallic Metallic tapes are often either 50 feet or 100 feet in length and come on enclosed reel cases. Be careful when using metal tapes around electrical sources.
+-	Builders tapes Builders tapes are often narrower and lighter than surveyor’s tapes. They are also often shorter and come in enclosed cases. They may be in feet and inches rather than hundredths of feet.
+-	Surveyors/engineers tape These tapes are made of steel and are _ inch to 3/4 inch wide in 100, 200, and even 500 feet lengths. The 100-foot tape is common. They may be wound on an open or closed reel. Typically they are graduated at every foot and marked from 0 to 100. Some subtracting tapes have only the last foot at each end divided into tenths and hundredths. Others, called adding tapes, have an extra graduated foot beyond the zero mark.
+
+•	Historical surveyor’s chain
+Early surveyors in Wisconsin used the Gunter Chain to measure horizontal distances. This came from England and is named after the inventor, Edmund Gunter. It consisted of an actual chain made of individual links. Early chains were wood; later ones were made of iron.
+The early surveyor’s chain used the English length of 66 feet. There were 100 links, each 0.66 feet in length. While 66 feet seems unusual, it was used to keep the early chains from being too long and heavy. Sixty-six feet is proportional to our English mile and acre. There are 80 chain lengths to a mile, 40 chains to a half-mile, etc. One acre is measured as 10 chains long (660 feet) by one chain wide (66 feet), giving 43,560 square feet.
+chains, or 660 feet. A rod is 1/4 of a chain or 16.5 feet. Rods are commonly used in early highway right-of way descriptions. The Wisconsin Statutes still describe right-of- way as 3 or 4 rods.
+
+•	Taping methods
+It takes some skill to measure distances with a tape and produce accurate, consistent results. The following suggestions help avoid errors and sloppy work:
+Reading the tape. The first, often overlooked, step involves a review of the tape. Tapes may have several types of scales and gradations. First determine if the tape uses metric or English units. Then review the gradations. The most common surveying tape will have gradations in feet and hundredths of a foot. Often the even footmarks are in red with tenths marked in black numbers. The 0.05 gradation lines are usually longer than the hundredths (0.01) but shorter than the 0.10 marks.
+The end of the tape is another important item to inspect. You must locate the zero point. Some common cloth tapes have a hinged clip to aid in measuring distances by yourself. Often the zero point is at the end of the hinge. The point is to inspect and be sure you know where the zero point is on the tape you are using.
+When measuring a long distance of several tape lengths you must take care in lining up the measurements. An error is introduced if you do not measure in a straight line. A straight line is maintained by having the rear tape person direct the forward tape person so that he or she is in line with the finish point (called “lining in”). A range pole or some other device is used to mark the forward point. A considerable error can result if you are not careful to line in the measurements over a long distance.
+The tape must also be pulled tight when measuring a distance. Sagging will cause an error. Wind is also a problem that causes additional error. A tension in the range of 10 to 20 pounds is necessary. To maintain a steady pull, it is helpful to have leather thongs on the tape ends. Wrap one hand around the thong, keep the forearms against the body, and face at right angles to the line. Good communication between head and rear tape persons will avoid jerking the tape and will save time.
+Measuring over rough ground or areas of brush requires the tape to be held horizontal rather than laid on the ground. The tape is usually held near waist height and plumb- bobs are necessary to mark the end points. The tape is marked by placing the plumb- bob string over the proper tape graduation and securing it with one thumb. Survey pins or stakes may be used to mark points. A mark on the stake top or a tack may be used to mark the points being measured.
+Errors from improper lining, sag, wind, or uneven ground result in measurements that are too long; the recorded length is more than the actual distance. On the other hand, these errors cause the length between points being set in the field, to be short. For example, if the tape sag causes an error of 1 foot in a distance of 100 ft, then stakes being set 100 feet apart would only actually be 99 feet apart. If several of these factors are present the error accumulates and can be substantial. Accurate taping requires skill and attention to detail.
+
+•	Horizontal distances
+Surveying and highway construction practice use horizontal distances rather than slope distances. This is necessary because the horizontal distance between two points does not change even if the ground is disturbed. If the surveyor used slope distances, then the distance between objects and places would change every time the grade changed.
+
+Figure 3 shows the relationship between horizontal and slope distance. The slope distance is always greater than the horizontal distance. Obviously, the greater the slope, the greater the difference between horizontal and slope distance. If great precision is not required and the slopes are not steep, then you may use the slope distance. Naturally it is easier to lay the tape on the ground than to use plumb-bobs to measure distances. Table 1 shows the effect of using slope distances for various slopes.
+Horizontal Distance if Slope is:
+Taping on sloping ground often requires use of the “breaking tape” procedure. Where a 100-foot length cannot be held horizontal without plumbing above chest height, you must measure shorter distances. Figure 4 illustrates this procedure.
+In the example, the tape’s zero point is held at point A. The steep slope limits the first distance to about 30 feet. Measuring beyond this length required the tape to be held above the chest of the forward tape person. A point is set at 30 feet and the rear tape person moves to the 30-foot mark, with the tape on the ground. The forward tape person moves ahead until the tape is again about waist or chest high when held
+horizontal. In this example, the 45-foot mark is placed and the process is repeated for the final segment. The individual measurements must be totaled for the final measurement.
+If the total distance is likely to be less than 100 feet, then it is easier to let the tape do the adding. Placing the 30-foot mark on the tape at the ground 30-foot point does this. Then the next point would read on the tape as 75 feet. This eliminates the need to total the individual distances.
+
+Taping downhill is preferable to uphill, because the rear point is held steady on the ground, while the other end is plumbed. In taping uphill the forward point is set while the other end (being plumbed) may be wavering somewhat.
+•	Stationing
+Stationing is used to establish a reference in highway and building construction. This base line or reference can then be used to locate features along and adjacent to the base line.
+Figure 5 shows a typical centerline stationing. It may start at zero or, often, at 10 or 100 to avoid negative stations during future surveys. The stationing or distance increases along the line. By convention, highway stations increase from west to east and south to north.
+Stations are 100 feet apart. Points in between are measured from the last station and indicated as plus (+) distances. For example, a point 32.5 feet ahead for station 10 is called 10+32.5
+The stationing (baseline) can also be used to locate features adjacent to the baseline. For example a culvert inlet may be described as being at station 26+78, 30 feet Rt. (right). This means the inlet is 30 feet right of station 26+78. The offset is measured at a right angle to the centerline (or baseline). One must face in the direction of increasing stations when determining right or left.
+•	Right triangles
+Angles of 90 degrees, called right angles, are used commonly in surveying. Right triangles, which have one 90-degree angle, have some unique characteristics that are helpful to know and understand.
+
+Figure 6 illustrates some of these properties. If we know the length of any two sides of a right triangle, then we can calculate the length of the remaining side. This is known as the Pythagorean theorem. To use this property, you must determine the square root of a number, which is very easy with a hand calculator.
+It is also helpful to know the features of a special type of right triangle. If the sides are multiples of the 3:4:5 triangle, then the calculations are made easy.
+You can use the properties of right triangles to set right angles from a baseline. For example to locate a feature from the centerline, you can establish a 15ft:20ft:25ft triangle as shown in Figure 7.
+Another, more approximate method, is sometimes used in the field. You can stand on the centerline and point each hand in opposite directions down the centerline, then close your eyes and swing your hands together in front of you. Your hands will then be pointing approximately at right angles from the centerline.
+ 
+Vertical distances are measured from a point of known elevation called a benchmark. On local surveys the benchmark is usually set at an arbitrary elevation such as 100.0. On surveys for large projects the benchmark will likely be a federal, state or county benchmark. The US Coast Survey and Geodetic Survey have established a system of permanent benchmarks throughout the United States. These are made of concrete or steel with a brass disk on the top. The location and elevation are stamped on the disk.
+Elevations on federal or state benchmarks will be related to average sea level. The marked elevation is the vertical distance from average sea level to the top of the benchmark. For example elevations in Madison, Wisconsin, are about 850.0 feet.
+In setting local project benchmarks it is highly recommended that you make the arbitrary elevation large enough so that there is no need to use negative numbers in any part of the project. Negative elevations can be used, but they only complicate the math. An arbitrary benchmark elevation of 100.0 is common and works well as long as no part of the project is more than 100 feet below the benchmark.
+Level rods are used to measure vertical distances. They are available in English or metric units. The English unit rods may divide feet into either hundredths or inches. Highway projects may use either English or metric level rods have several features to make reading easier. The footmarks are in large red numbers and may be repeated in several places as a small red number. This helps because the level sight is often small and shows only several tenths of the rod at a time.
+Level rods in hundredths use alternating white and black bars for each one-hundredth (0.01). Every five one-hundredths (0.05) has a bar with a chisel point end. Therefore, every even tenth point and intermittent five-one-hundredth point also has a chisel point.
+It is essential that the level rod be held in a “true” vertical position, since it is measuring a vertical distance. If the rod is leaning, then the reading is not actually the true vertical distance. Leaning the rod forward, backward, or to the side will cause an error. Keeping the rod “plumb” is the rod person’s job because the person reading the measurements cannot readily tell if the rod is leaning.
+The hand level is a simple and inexpensive device. It is sufficient for many construction projects where great accuracy or long distances are not involved.
+The hand level is normally not magnified. It provides a line of sight with a bubble level attached. The observer sees the target and level bubble at the same time. The rod reading is made using the crosshair when the bubble is centered. Bracing the hand level on a staff or lath will make it much easier to steady and read.
+
+ 
+•	Leveling procedure
+The hand level and rod are used to establish and verify elevations. If you only want to determine the difference between two points, then you can make two direct readings as shown in Figure 10. The difference in rod readings (one subtracted from the other) is the difference in elevation between the points.
+
+If more than two points are involved, then a leveling procedure is used. The procedure involves starting at the benchmark, establishing the height of the instrument, and then taking rod readings on points where new elevations are to be established. Figure 11 illustrates the procedure.
+The back sight, an elevation reading to a known benchmark, allows you to calculate the height of the instrument. The term height of instrument means the height of the observer’s eye when using a hand level.
+
+When the level rod is next placed on a new point as shown in Figure 12, we can then calculate the elevation of this point. The elevation is calculated by subtracting the foresight rod reading from the height of instrument. A foresight is the elevation reading of a point of unknown elevation.
+
+The rod could be moved to other points as shown in Figure 13, and similar calculations would determine the elevations of these points.
+
+
+Most construction projects require covering an area too big to be done from a single instrument setup. The example below shows how to carry the elevations to other locations.
+The example in figure 14 starts with a known project benchmark of 100.0 (a spike in a tree). We want to determine the elevation of two other points TP1 and TR2. Surveyors use the term “turning point” (TP) for new points they use when carrying elevations to new location
+The surveyor sets up between the benchmark (BM) and TR1. A back sight (6.1) is taken to the BM. This lets you calculate the height of instrument (HI) as 106.1. The surveyor then turns and takes a foresight reading on TR1 of 5.5. This permits calculating the elevation of TP1 as 100.6.
+The surveyor then moves forward to a location between TP1 and TP2. A backsight reading on TP1 is 9.7. This allows a calculation of the new HI of 110.6 (100.6 + 9.7= 110.3).
+The surveyor then turns and takes a foresight reading on TP2 of 4.8. This allows the calculation of the elevation of TP2 as 105.5 (110.3 – 4.8 = 105.5)
+This procedure can be repeated to establish the elevation of other points. It is good practice to complete the level circuit by returning to a known benchmark. This could be another known project benchmark or back to the original benchmark. The surveyor will calculate the elevation of the benchmark just as though it is a new point. Then compare the calculated elevation with the known elevation. Hopefully they will be the same or within the accuracy range for the project. This checking technique will assure that there are no blunders or gross mistakes. If the check elevation varies more than acceptable tolerance for the project, the surveyor should redo the survey work until it checks correctly.
+•	Survey notes
+It is essential that the surveyor take clear field notes. This reduces mistakes and allows others to use the notes for future surveys. The format shown below is standard surveying technique.
+Field notes are arranged in five columns. Column 1 is for a description of the feature being surveyed. For example the benchmark (BM), turning point (TP), culvert invert, ditch bottom, etc.
+Column 2 is for the back sight (BS). This is always a reading on a point of known elevation. The column heading has a plus (+) sign. This indicates the surveyor should add this reading to the benchmark elevation in order to calculate the height of instrument (HI).
+Column 3 is the height of instrument (HI). It is calculated from the BS reading.
+Column 4 is the foresight (FS) reading. This is a rod reading taken on a point of unknown elevation. The column heading has a minus (–) sign. This indicates the reading is to be subtracted from the HI to calculate the elevation of the point.
+Column 5 is the elevation of the point. It is calculated from the HI minus the FS.
+Figure 10 shows a common placement of figures in the field notes. The HI is often placed a line below the BS. This makes it easier to find the HI. One can also visualize that the HI is located between the BS and the next FS point.
+An alternate is shown in Figure 15. This option has the back sight (BS) placed in the line below (next to the HI). Some find this easier because it indicates the BS is taken to calculate the HI and avoids two readings shown for one point.
+The leveling procedure will establish elevation at points of interest on project. The existing elevations can then be compared to finished grade elevations on a grading project. The required cut on fill is the calculated for each point of interest.
+In the example in Figure 17 the existing elevations are noted. The field notes below can be used to calculate the required cut on fill as shown.
+•	One Person Leveling
+There is often a need for one person to accomplish field surveying tasks. Examples include placing grade stakes, equipment operators resetting stakes during construction, etc. This requires special techniques, but many tasks can be accomplished alone once the surveyor understands the basics.
+One person cannot both hold a level rod on a distant point and take the elevation reading. Therefore the normal technique involves marking a known elevation with a line on a lath. In Figure 19 for example, a line is marked 3 feet above the known point of elevation. We now know this line is 3 feet above the known elevation.
+Then the surveyor moves to a new location and rests the hand level along side the level rod and shoots back at the marked lath. The hand level is adjusted until it is level with the marked line on the lath. The height of the hand level on the level rod is then noted. For example the hand level is at the 5-foot mark on the level rod, when it matches the line on the lath. For the example in figure 12 we now can calculate that the bottom of the level rod is 2 feet below the elevation of the point at the lath.
+
+Figure 20 illustrates another example. To determine the difference in elevation between points A and B, the lone surveyor marks the lath 2.0 feet above point A. The reading on the level rod is 4.6 feet when the hand level line of sight is on the marked lath. The difference is calculated as 2.6 feet. Therefore the elevation at point B is (89.0-2.6) 87.3 feet.
+Figure 21 shows the staking of the shoulder and ditch grade by using the centerline grade. Assume the existing centerline is at finished grade and the shoulder and ditch grades are to be lower by the amounts in Figure 21. The lone surveyor starts by making a lath at the centerline as 2.5 feet above the centerline. With the level rod reading at the shoulder of 2.3, we know the existing ground at the shoulder is 0.2 feet higher than the centerline. Therefore, we need to mark the grade stake with a cut of 0.5 feet (0.2 +0.3). In the same manner the cut marked at the ditch is (2.0-0.5) 1.5 feet.
+•	Adjustment of hand level
+Levels may go out of alignment. Use the following procedure to check and adjust if necessary. Two people are required for this procedure.
+Start with a pole or post, called pole 1 in Figure 22. Mark a point A and take a level reading with the level held on point A. Mark the level reading at point B on pole 2. Then move the level to pole 2. Hold the level on point B and shoot back at pole 1. If the level is in alignment, then the reading will be on point A and no adjustment is needed. If however the sight is not through point A, then mark the point as C. Adjust the level so that the sight from point 2 goes through a point half way between points A and C. This new point D is level with point B.
+•	Common leveling mistakes
+Common mistakes made while leveling are summarized below along with steps to avoid mistakes.
+-	Reading the wrong footmark Always read up from the footmark below. If the footmark below is not visible, have the rod person raise the rod slowly.
+-	Rod section skipped  Pull all out sections of the extendable rod fully before starting.
+-	Rod not vertical Stand directly behind the rod. Hold the rod with two hands, lightly grip and balance the rod with both hands.
+-	Rod held on wrong point Communicate clearly to rod person exactly where to place rod.
+-	Other tips·
+·	Try to set up so as to read at least one foot above surfaces that are warm to avoid heat waves.
+·	Set up to keep sights as short as possible.
+·	Set up to keep back sights and foresights nearly equal in length.
+·	Use solid benchmarks that can be easily found by others. Examples include: top nut on a fire hydrant, sewer inlet, top of curb with a chisel mark, spike in tree or pole, etc.
+■	Construction staking
+Stakes and lath are used to mark location and elevations (grades) in the field. They are a very important communication tool between the designer, the surveyor and the contractor. Practices in marking stakes will vary between agencies. Therefore, the surveyor must determine what practice is preferred and understood by others involved in the project. The information below is common on many projects.
+
+-	Station The stake is located along the reference or centerline. Stationing is commonly used.
+1+00
+7+25.45
+-	Offset distance The stake is located either right or left of the centerline. It is common to offset construction stakes because the construction will likely have to disturb the ground. Therefore, the stake is located several feet away in order to avoid being disturbed during construction. One must be facing up-station (in the direction of increasing stationing) to properly determine right or left.
+10 feet right (RT) 25 feet left (LT)
+-	Grade elevation Set the amount of cut or fill between the stake and the finished elevation. Some agencies prefer to mark a line on the stake and indicate the amount of cut (or fill) from the marked line. This has the advantage of giving the option to use even feet for the cut (or fill). Other agencies prefer to indicate the cut (or fill) from the ground elevation at the stake. This may be somewhat simpler to determine for the surveyor, but usually involves a cut (or fill) in uneven numbers (“cut 2.7 feet,” for example). A third option is to use the top of the stake rather than the ground. For example stakes for grading the subgrade or finished base may be placed with the top of stake at desired finished grade. These are often called red tops, for subgrade elevations or blue tops for base elevations because the stake tops are colored for increased visibility.
+Another option is to mark the finished grade on the stake. This only works if the finished grade elevation falls within the height of the stake.
+C 3.0 Indicates a cut of 3.0 feet from mark or ground F 2.5 Indicates a fill of 2.5 feet from mark or ground V Indicates finished grade at mark or ground.
+•	Calculating cut and fill
+Determining the amount of cut (or fill) to mark on the stake is often confusing to beginning surveyors. Figure 25 may help in visualizing the process.
+
+Normally the surveyor knows the finished elevation of the object (culvert, sewer, ditch, etc.). If you determine the elevation of the existing ground, then the problem is to calculate the cut or fill. If the stake indicates cut from the ground, then the difference in elevations (ground elevation minus the finished elevation) is the cut. If the stake is to be marked with a cut or fill line, then an additional calculation is required.
+First, determine the cut or fill from the ground. Next, measure up the stake from the ground an amount to make the cut or fill an even distance. For example, if the cut from the ground is 2.4 feet, then measure up 0.6 feet from the ground. This is the point where you could mark cut 3.0 feet. Sometimes you may want to mark all stakes with the same cut amount. In the previous example let assume you want to mark all stakes with a cut of 4.0 feet. Then the cut line would be marked 1.6 feet above the ground.
+■	Slopes and grades
+Designers are very concerned with establishing proper slopes and grades for their projects. Surveyors must be familiar with the various methods used to describe and calculate slopes and grades. There are several methods commonly used to determine slopes and set grades.
+
+•	Percent
+Road centerline profile, culvert, sewer, and ditch grades are normally described in terms of percent. Figure 26 illustrates how the calculations are made.
+The road steepness is measured by percent slope. This is calculated, as shown, by dividing the “rise” by the “run.” This amount is in decimal form. Convert it to a percent by multiplying the decimal by 100.
+
+•	Ratios
+Roadway side-slopes and back-slopes are usually describes in terms of a ratio such as 2 to 1, for example. The ratio is understood to mean a proportional horizontal distance and the associated change in vertical distance. For example 2 to 1 would refer to a slope with a vertical drop of 1 foot for every horizontal distance of 2 feet. Often the ratio is written as 2:1. Figure 27 shows example slopes of 1:1, 2:1, and 3:1.
+Older highway plans may use the inches per foot method to describe crown. Plans for buildings may also use this method. It is similar to the ratio method except the vertical dimension is expressed in inches and the horizontal dimension is one foot.
+
+The crown may be described as 1/4 inch per foot, for example. This means the crown is elevated 1/4 inch for every foot of pavement width. Thus, a 12-foot lane would have a total crown of 1/4 inch times 12 feet, or 3 inches. A 4 foot shoulder with a cross slope of 1/2 inch per foot would have 1/2 inch times 4 feet, or 2 inches, of crown.
+■	Field exercises, examples and solutions
+•	Field exercises
+
+AM Exercise - Pacing
+a)	Determine your individual pace length. Use the marked 100-foot course. Walk the course at least 4 times.
+•	Count the number of paces it takes to walk the 400-foot course. 	
+•	Calculate the average length of your pace by dividing the average number of paces into 400 feet. 400 / 	 = 	
+•	Record the average pace length of each team member.
+TIP: Use your natural pace, do not try to force an even pace length.
+b)	An additional course will be marked in the field. It may be several straight sections or a triangle. Pace the total length of all marked sections or of all three sides of the triangle. Calculate the total length by multiplying your individual pace length time the total number of paces. Record the total length for each team member 	
+c)	Calculate the volume of concrete (in cubic yards) it would take to build a 4-inch- thick sidewalk, five feet wide for the length you paced in b) above.
+
+PM Exercise 1 - Breaking tape
+a)	Measure and record the horizontal distance between stakes A and B, and between B and C. Measure the distance to the nearest 0.01-foot.
+b)	Measure the vertical distance between t A and B, and between B and C. Measure the distance to the nearest 0.1-foot.
+c)	Calculate the % slope from A to B and A to C.
+d)	Determine the slope ratio for AB and AC to the nearest whole numbers. For example, 2:1.
+e)	Set a new stake that will create a 	 slope from point A. Assume the new lower elevation the same as stake C.
+PM Exercise 3 - Ditch slope
+Stake the new ditch grade at 25-foot intervals. Start at the station 1+00 and head toward station 2+00. The new ditch will begin at the existing ground level at station 1+00. The new ditch grade is 1% sloping down toward station 2+00. Set at least the first three new ditch grade stakes. If time allows, set 10’ offset stakes.
+
+PM Exercise 4 - Ditch location
+A new ditch is to be constructed, with the bottom of the ditch 3.0 feet below the existing centerline. The new road will have a 12-foot lane with a crown of 1/4 inch per foot. The new shoulder is 6 feet in width and has a crown of 1/2 inch per foot. The side slope is 6:1.
+a)	Stake the location of the center of the ditch. Place one stake for each team member spaced 25 feet apart along the new ditch.
+b)	Mark the cut stakes (or fill) using a line on the stake. Mark cut (on fill) in even feet increments. Have each team member do their own stake assuming they are alone.
+c)	If time allows, set 10’-off set stakes.
+
+PM Exercise 5 - Culvert
+A new, 3-foot diameter culvert is to be installed at the marked location. The inlet and discharge elevations are to match the exiting ground elevations. The culvert is 30 feet in length.
+a)	Calculate the slope of the new culvert in %
+b)	Determine the amount of cover over the culvert at the center of the road.
+c)	Stake the culvert inlet location and grade with two, 10-foot offset stakes.
+
+PM Exercise 6 - Marking off-set grade stakes
+There are three grade stakes set in the field. The new grades for the storm sewer are marked on the stakes. They are measured from the ground next to the stake.
+Set two offset stakes for each existing stake. They should be 10 feet right and left of the existing stake to avoid disturbance during construction. Mark the grade on these stakes with a cut (or fill) line on the stake. Mark the cut (or fill) amount in equal foot increments.
+A new culvert is to be installed between T.P.2 and T.P.1. The inlet elevation of the new culvert at T.P.2. is 108.2. The outlet elevation at  T.P.1 is to be 106.2. How much cut or fill is required at each end in order to install the culvert.
+
 
