@@ -1346,3 +1346,317 @@ Explanatory notes or legends are often of assistance in interpreting a map.
 They should be as brief as circumstances will follow, but at the same time should include sufficient information as to leave no doubt in the mind of the person using the drawing.
 16.	How are objects represented on map?
 Objects are represented on a map by signs or symbols, many of which are conventional.
+1.	Surface: [‘sə:fis]: n: bề mặt
+2.	Angle: [‘æηgl]: n: góc
+3.	Define: [di’fain]: v: định nghĩa.
+4.	Numerically: [nju:’merikəli]: bằng kĩ thuật số
+5.	Position: [pə’zi∫n]: n: vị trí; lập trường, quan điểm
+6.	Measurement: [‘məʒəmənt]: n: sự đo lường, phép đo
+7.	Graphically: [‘græfikəli]: adv: bằng đồ thị
+8.	Location: [lou’kei∫n]: n: vị trí
+9.	Man made: do con người tạo ra, nhân tạo.
+10.	Feature: [‘fi:t∫ə]: n: điểm đặc trưng
+11.	Area: [‘eəriə]: n: vùng; diện tích
+12.	Presentation: [,prezen’tei∫n]: n: sự trình bày
+13.	Thus: [đʌs]: adv: theo cách đó, do vậy
+14.	Distance: [‘distəns]: n: khoảng cách
+15.	Relative: [‘relətiv]: adj: liên quan đến, tương đối
+16.	Portray: [pɔ:’trei]: v: miêu tả
+17.	Direction: [di’rek∫n]: n: hướng
+18.	Cross-section [‘krɔs’sek∫n]: n: mặt cắt ngang
+19.	Profile: [‘proufail]: n: tiểu sử, mặt cắt nghiêng, bản vẽ
+20.	Elevation: [,eli’vei∫n]: độ cao
+21.	Process [‘prouses]: n: quy trình / v: gia công, xử lí
+22.	Volume: [‘vɔlju:m]: n: thể tích
+23.	Field-work: [‘fi:ld,wə:kə]: n: công việc ngoại nghiệp
+24.	Determine [di’tә:min]: v: xác định, định rõ
+25.	Construction: [kən’strʌk∫n]: n: sự xây dựng
+26.	Necessary [‘nesisəri]: adj: cần thiết, thiết yếu
+27.	Diagram: [‘daiəgræm]: n: biểu đồ
+28.	Establish: [is’tæbli∫]: v: thành lập, thiết lập
+29.	Project [‘prədʒekt]: n: dự án
+30.	Base on (upon) sth: dựa trên một cái j
+31.	Straight: [streit]: adj: thẳng
+32.	Divide: [di’vaid]: v: chia ra
+33.	Office-work: [‘ɔfis,wə:kə]: n: công tác nội nghiệp
+34.	Aside [ə’said]: adv: sang một bên / pre: ngoài ra, trừ ra
+35.	Conception [kən’sep∫n]: n: quan niệm
+36.	Purpose: [‘pə:pəs]: n: mục đích / v: có mục đích
+37.	Horizontal: [,hɔri’zɔntl]: adj: thuộc chân trời; nằm ngang, ngang / n: đường nằm ngang
+38.	Within: [wi’đin]: pre: trong vòng, trong khoảng thời gian
+39.	Boundary: [‘baundəri]: n: biên giới
+40.	Magnitude: [‘mægnitju:d]: độ lớn
+41.	Conduct [‘kɔndʌkt]: v: hướng dẫn
+42.	Charting: [t∫ɑ:t]: n: biểu đồ / v: vẽ biểu đồ
+43.	Deposit: [di’pɔzit]: n: mỏ (khoáng sản)
+44.	Geodetic [,dʒi:ou’detik]: Geodetic Surveying: Trắc Địa Cao cấp
+45.	Explain [iks’plein]: v: giảng giải, giải thích
+46.	To greater or lesser: ít hay nhiều
+47.	Navigable: [‘nævigəbl]: adj: có thể đi lại được
+48.	Property: [‘prɔpəti]: n: sở hữu; của cải; thuộc tính, đặc tính
+49.	Distinguish [dis’tiηgwi∫]: v: phân biệt, chỉ ra sự khác biệt
+50.	Assistance [ə’sistəns]: n: sự giúp đỡ
+51.	Involve [in’vɔlv]: v: bao gồm
+52.	Execution [,eksi’kju:∫n]: n: sự thi hành, sự thực hiện
+53.	Reference [‘refərəns]: n: sự tham khảo, sự chỉ dẫn
+54.	Considered as = taken into account as = taken into consideration as
+55.	Shape [∫eip]: hình dạng, khuôn mẫu / v: định hướng
+56.	Polygon: [‘pɔligən]: n: đa giác
+57.	Variety [və’raiəti]: n: đa dạng
+58.	Precise [pri’sais]: adj: chính xác
+59.	Magnetism: [‘mægnitizm]: n: từ tính, trường trọng lực
+60.	Charting of coast lines: bản đồ đường bờ biển
+61.	Valuable: [‘væljuəbl]: adj: có giá trị
+62.	Stream: [stri:m]: n: suối
+63.	Angular: [‘æηgjulə]: adj: (thuộc)góc, có góc cạnh
+64.	Definite: [‘definit]: adj: xác định, định rõ
+65.	Canal: [kə’næl]: v: kênh
+66.	Topographic: [,tɔpə’græfik]: adj: Cách viết khác: topographical [,tɔpə’græfikl]: (thuộc) phép đo về địa hình, thuộc về địa hình
+67.	Throughout: [θru:’aut]: pre: trải dài / adv: khắp nơi
+68.	Regard: [ri’gɑ:d]: n, v: quan tâm, liên quan đến
+69.	Mineral: [‘minərəl]: adj: thuộc về khoáng sản / n: khoáng sản
+70.	Portion: [‘pɔ:∫n]: n: phân chia
+71.	Adjacent: [ə’dʒeisnt]: adj: gần  kề, kế  liền, sát ngay
+72.	Concerning: [kən’sə:niη]: pre: liên quan đến
+73.	Scattered: [‘skætəd]: adj: rải rác
+74.	Particularly: [pə,tikju’lærəli]: adv: một cách đặc biệt
+75.	Global positioning system: GPS: hệ thống định vị toàn cầu
+76.	Obtain: [əb’tein]: v: thu được, giành được
+77.	Satellite [‘sætəlait]: n: vệ tinh
+78.	Considerd: [kən’sidə]: v: xem xét đến
+79.	Include [in’klu:d]: v: bao gồm
+80.	Accuracy [‘ækjurəsi]: n: độ chính xác
+81.	Spheroidal: [sfiə’rɔidl]: adj: có dạng hình cầu
+82.	Neglect: [ni’glekt]: n: sự sao lãng, không chú ý / v: sao lãng, không chú ý
+83.	Mathematical: [,mæθə’mætikl]: adj: (thuộc) toán học
+84.	Plumb: [plʌm]: n: quả dọi
+85.	Parallel: [‘pærəlel]: adj: song song
+86.	Level line: đường chuẩn
+87.	Except: [ik’sept]: v: trừ ra, loại ra
+88.	Branch: [brɑ:nt∫]: n: nhánh, chi nhánh / v: phân nhánh
+89.	Technique: [tek’ni:k]: n : kĩ thuật, công nghệ
+90.	Curvature [‘kə:vət∫ə]: n: độ cong, sự uốn cong
+91.	Extensive: [iks’tensiv]: adj: rộng ng về diện tích; kéo dài ra xa
+92.	Framework [‘freimwə:k]: n: khung, sườn; lưới cơ sở
+93.	riangulation: [trai,æηgju’lei∫n]: n: lưới tam giác
+94.	Task [tɑ:sk]: n: nhiệm vụ, công việc / v: giao nhiệm vụ
+95.	Positional [pə’zi∫ənəl]: (thuộc) vị trí
+96.	Avoid: [ə’vɔid]: v: tránh, tránh xa, ngăn ngừa
+97.	Provide: [prə’vaid]: v: (to provide somebody with something; to provide something for somebody) cung cấp; cung ứng
+98.	Transmission [trænz’mi∫n]: n: sự truyền, sự phát
+99.	Unavoidable: [,ʌnə’vɔidəbl]: adj: không thể tránh được; tất yếu
+100.	Co-ordinate [kou’ɔ:dineit]: n: tọa độ
+101.	Hence [hens]: adv: kể từ đấy; do đó
+102.	Triangle: [‘traiæηgl]: n: hình tam giác
+103.	Arrangement: [ə’reindʒmənt]: n: sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt
+104.	Means: [mi:nz]: n: phương tiện, cách thức
+105.	Geometrical: [dʒiə’metrikəl] / Figure: [‘figə]
+106.	Similar: [‘similə]: adj: giống nhau, như nhau, tương tự, cùng loại, cùng hình dáng
+107.	Rather: [‘rɑ:đə]: adv: đúng hơn, hơn là
+108.	Vertex (pl. vertices, vertexes): [‘və:teks]: n: đỉnh , chỏm, chóp, ngọn, điểm cao nhất
+109.	Theoretical: [,θiə’retikl]: adj: (thuộc) lý thuyết; có tính chất lý thuyết
+110.	Absolute: [‘æbsəlu:t]: adj: tuyệt đối, hoàn toàn; thuần tuý, nguyên chất
+111.	Opposite: [‘ɔpəzit]: adj: (opposite to somebody / something) đối nhau, ngược nhau, ngược lại
+112.	Quantity: [‘kwɔntəti]: n: lượng, số lượng, khối lượng
+113.	Desirable: [di’zaiərəbl]: adj: mong muốn, ao ước
+114.	Secure: [si’kjuə]: adj: (secure about something) không có cảmm giác lo âu, nghi ngờ; an tâm; yên tâm; bảo đảm
+115.	Permit: [‘pə:mit]: n: giấy phép
+116.	Obviously [‘ɒbviəsli]: adj: rõ ràng; hiển nhiên
+117.	Afford: [ə’fɔ:d]: v: có thể, có đủ sức, có đủ khả năng, có đủu điều kiện / tạo cho, cấp cho, ban cho
+118.	Adjust: [ə’dʒʌst]: v: đặt lại cho đúng vị trí hoặc trật tự; điều chỉnh
+119.	Redundant: [ri’dʌndənt]: adj: thừa, dư
+120.	Geometrical Figure: đồ hình
+121.	Proportional: [prə’pɔ:∫ənl]: adj: (proportional to something) tương ứng về cỡ, số lượng hoặc mức độ (với cái gì); có tỷ lệ đúng; cân xứng
+122.	Condition: [kən’di∫n]: n: điều kiện
+123.	Therefore: [‘đeəfɔ:]: adv: bởi vậy, cho nên, vì thế, vậy thì
+124.	Adjusting: bình sai
+125.	Average: [‘ævəridʒ]: n; adj; v: trung bình
+126.	Probable: [‘prɔbəbl]: adj: có thể xảy ra hoặc có thể là như thế; chắc hẳn
+127.	Procedure: [prə’si:dʒə]: n: thủ tục
+128.	Characteristic: [,kæriktə’ristik]: adj: (characteristic of sb/sth) cấu thành bộ phận của tính cách một người; tiêu biểu
+129.	Improve: [im’pru:v]: v: cải tiến, cải thiện, cải tạo
+130.	Application: [,æpli’kei∫n]: n: sự gắn vào, sự áp vào / sự áp dụng
+131.	Customary: [‘kʌstəməri]: adj: theo phong tục thông thường
+132.	Require: [ri’kwaiə]: v: phụ thuộc vào ai/cái gì để đạt được kết quả; cần đến
+133.	Excellent: [‘eksələnt]: adj: xuất sắc, ưu tú
+134.	Satisfactory [,sætis’fæktəri]: adj: vừa ý; thoả đáng
+135.	Additional: [ə’di∫ənl]: adj: cộngng thêm; thêm vào
+136.	Scheme: [ski:m]: n: sự sắp xếp theo hệ thống; sự phối hợp / v: mưu đồ, bố trí
+137.	Additional (Redundant): trị đo thừa
+138.	Proper [‘prɔpə]: adj: thích hợp, thích đáng.
+139.	EDM: Electronic Distance Measurement: đo chiều dài điện tử.
+140.	Transmit: [trænz’mit]: v: (transmitted; transmitting): (to transmit something from…. to…..) truuyền, phát (tín hiệu, chương trình qua sóng (rađiô), qua đường dây điện tín….)
+141.	Economical: [,i:kə’nɔmikəl]: adj: tiết kiệm, kinh tế
+142.	Aid: [eid]: n: sự giúp đỡ, sự cứu giúp, sự viện trợ/phương tiện trợ giúp
+143.	Attention: [ə’ten∫n]: n: sự chú ý
+144.	Brace: [breis]: n:
+145.	Expansion: [iks’pæn∫n]: n: sự mở rộng, sự bành trướng, sự phát triển.
+146.	Lay out [‘leiaut]: n: cách bố trí, cách trình bày; sự sắp đặt
+147.	Thereby: [,đeə’bai]: adv: bằng cách ấy, theo cách ấy; do đó
+148.	Framework: [‘freimwə:k]: n: lưới cơ sở
+149.	Discuss: [dis’kʌs]: v: thảo luận
+150.	Cách viết khác : visualise [‘vi∫uəlaiz]: hình dung, mường tượng (vật không thấy trước mắt)
+151.	Instrument: [‘instrumənt]: n: dụng cụ; công cụ
+152.	Convention: [kən’ven∫n]: n: hội nghị, sự triệu tập/ quy ước
+153.	Suitable: [‘su:təbl]: adj: (suitable for / to something / somebody) phù hợp; thích hợp
+154.	Restrict: [ri’strikt]: v: hạn chế, giới hạn
+155.	Quadrilateral: [,kwɔdri’lætərəl]: adj: có bốn cạnh, tứ giác/ n: hình tứ giác
+156.	Contour: [‘kɔntuə]: n: đường đồng mức
+157.	Trilateration: [trailætə’rei∫n]: n: phép đo ba cạnh tam giác
+158.	Summarize: [‘sʌməraiz]: v
+159.	Trilateration framework: lưới tam giác đo cạnh
+160.	Cover: [‘kʌvə]: n: vỏ, vỏ bọc / v: che phủ, bao bọc
+161.	Exist: [ig’zist]: v: (to exist in / on something) là có thật hoặc thực sự; đã sống; tồn tại
+162.	Visible: [‘vizəbl]: adj: hữu hình, thấy được, có thể nhìn thấy, có thể  thấy; trong tầm mắt
+163.	Obstacle: [‘ɒbstəkl]: n: sự cản trở, sự trở ngại, chướng ngại vật; vật trở ngại
+164.	Energy: [‘enədʒi]: n: năng lượng
+165.	Visualize: [‘vi∫uəlaiz]: v
+166.	Due: [dju:]: n: quyền được hưởng; cái được hưởng
+167.	Compatible: [kəm’pætəbl]: adj: hợp nhau, tương hợp
+168.	Consideration: [kən,sidə’rei∫n]: n: sự cân nhắc, sự suy xét
+169.	Sufficient:: [sə’fi∫nt]: adj: (sufficient for somebody / something) đủ
+170.	Cách viết khác : summarise [‘sʌməraiz]: tóm tắt; tổng  kết
+171.	Ray: [rei]: n: tia
+172.	Refract: [ri’frækt]: v: (vật lý) khúc xạ(ánh sáng), hiện tượng chiết quang.
+173.	Equilateral: [,i:kwi’lætərəl]: adj: (nói về hình) có các cạnh bằng nhau / đều nhau
+174.	Bisection: [bai’sek∫n]: n: sự chia đôi, sự cắt đôi
+175.	Microwave: [‘maikrəweiv]: n: (rađiô) sóng cực ngắn, vi ba
+176.	Observation: [,ɑbzə’vei∫n]: n: sự quan sát, sự theo dõi
+177.	Reduce: [ri’dju:s]: v: đổi, biến đổi (sang một trạng thái, hình thức đơn giản hơn, kém hơn)
+178.	Slope: [sloup]: n: dốc, đường dốc, chỗ dốc; độ dốc / v: nghiêng, dốc
+179.	Plot: [plɔt]: n: âm mưu; mưu đồ/ v: vẽ sơ đồ, vẽ đồ thị, vẽ biểu đồ, dựng đồ án (một công trình xây dựng…); đánh dấu (cái gì) trên hải đồ, biểu đồ; vẽ đường đồ thị
+180.	Instrumentation: [,instrumen’tei∫n]: n: thiết bị đo đạc
+181.	Indirectly: [,indi’rektli]: adv: gián tiếp
+182.	Configuration: [kən,figju’rei∫n]: n: hình thể, hình dạng
+183.	Distinct: [dis’tiηkt]: adj: riêng, riêng biệt; khác biệt
+184.	Pin: [pin]: n: ghim sắt (để đánh dấu trong quá trình đo thước thép)
+185.	Theodolite: [θi’ɔdəlait]: n: máy kinh vĩ
+186.	Electro-optical: điện cơ
+187.	Equivalent: [i’kwivələnt]: adj: tương đương / n: vật tương đương, từ tương đương
+188.	Common: [‘kɔmən]: adj: thông thường, phổ biến
+189.	Projection: [prə’dʒek∫n]: n: sự chiếu, sự được chiếu; sự hiện hình, sự hình thành cụ thể (một ý nghĩ, một hình ảnh trong trí óc)
+190.	Head Chainman: người đi đầu (trong nhóm đo thước thép)
+191.	Hold: [hould]: n: sự cầm, sự nắm giữ, sự nắm chặt; vật để nắm lấy; vật đỡ; chỗ dựa / v: cầm, nắm, giữ, nắm giữ, giữ vững
+192.	Represent: [,repri’zent]: v: miêu tả, hình dung / trình bày
+193.	Interval: [‘intəvəl]: n: thời gian giữa hai sự kiện; khoảng thời gian / khoảng không gian giữa hai hoặc nhiều vật
+194.	Major: [‘meidʒə]: n: chuyên đề, chuyên ngành / adj: lớn (hơn), nhiều (hơn), trọng đại, chủ yếu
+195.	Follower: người đi theo.
+196.	Tape: [teip]: n: dây, dải (để gói, buộc, viền); băng / v: buộc; đo bằng thước dây
+197.	Advance: [əd’vɑ:ns]: n: sự chuyển động lên phía trước; sự tiến lên / v: giúp (ai) tiến bộ; thúc đẩy (kế hoạch); có tiến bộ / adj: đi trước người khác, tiến bộ
+198.	Device: [di’vais]: n: phương sách, phương kế; chước mưu; vật sáng chế ra (để dùng vào mục đích gì); thiết bị, dụng cụ, máy móc
+199.	Electromagnetic: [i’lektroumæg’netik]: adj: điện từ
+200.	Fractional part: phần lẻ
+201.	Electromagnetic energy: năng lượng điện từ
+202.	Optical plummet: bộ phận dọi quang học
+203.	Partial: [‘pɑ:∫l]: adj: về từng phần hoặc tạo thành bộ phận; không hoàn chỉnh; một phần
+204.	Classify: [‘klæsifai]: v: sắp xếp cho có hệ thống; phân loại
+205.	Depict: [di’pikt]: v: vẽ; mô tả, miêu tả
+206.	Category: [‘kætigəri]: n: hạng, loại / (triết học) phạm trù
+207.	Infrared: [,infrə’red]: n: viết tắt là IR: tia ngoài đỏ; tia hồng ngoại
+208.	Reference: [‘refərəns]: n: sự tham khảo, sự liên quan.
+209.	Express: [iks’pres]: adj: nhanh, hoả tốc, tốc hành; nhằm mục đích riêng biệt / adv: hoả tốc, tốc hành/ v: biểu lộ, bày tỏ (tình cảm…); phát biểu ý kiến
+210.	Wavelength: [‘weivleηθ]: n: (vật lý) bước sóng
+211.	Superimpose: [,su:pərim’pouz]: v: đặt lên trên cùng, để lên trên cùng, chồng lên; thêm vào
+212.	Onto: [‘ɔntu:]: pre: về phía trên, lên trên
+213.	Integral: [‘intigrəl]: adj: toàn bộ, trọn vẹn, đầy đủ
+214.	Plumb bob: quả dọi
+215.	Illustrate: [‘iləstreit]: v: cung cấp tranh, biểu đồ cho cái gì; minh hoạ
+216.	Frequency: [‘fri:kwənsi]: n: Cách viết khác: frequence [‘fri:kwəns]: tính thường xuyên, tính thường hay xảy ra
+217.	Multiple: [‘mʌltipl]: adj: nhiều, nhiều mối, phức tạp
+218.	Regulate: [‘regjuleit]: v: điều hòa, điều chỉnh
+219.	Modulate: [‘mɔdjuleit]: v: sửa lại cho đúng, điều chỉnh, điều biến
+220.	Sine wave: sóng hình sin
+221.	Display: [dis’plei]: n: sự bày ra, sự phô bày, sự trưng bày, sự hiển thị / v: bày ra, phô bày, trưng bày, hiển thị; phô trương, khoe khoang (kiến thức…)
+222.	Multiply: [‘mʌltiplai]: v: làm tăng lên nhiều lần
+223.	Tacheometer: [tæ’kimitə]: n: máy đo khoảng cách.
+224.	Principle: [‘prinsəpl]: n: gốc, nguồn gốc, yếu tố cơ bản; nguyên lý, nguyên tắc cấu tạo
+225.	Fractional: [‘fræk∫ənl]: adj: (thuộc) phân số / (hoá học) phân đoạn / bé li ti
+226.	Simultaneously: [,siml’teiniəsli]: adv: đồng thời, xảy ra cùng một lúc, làm cùng một lúc
+227.	Expect: [iks’pekt]: v: mong chờ; trông mong; trông đợi
+228.	Built-in: [‘bilt’in]: adj: gắn liền (vào máy chính, vào tường…)
+229.	Reflector: [ri’flektə]: n: gương phản xạ, vật phản xạ nhiệt, vật phản xạ ánh sáng; cái phản hồi âm thanh
+230.	Equation: [i’kwei∫n]: n: hành động làm cho bằng nhau hoặc coi như bằng nhau; phương trình, công thức.
+231.	Command: [kə’mɑ:nd]: n: lệnh, mệnh lệnh / v: ra lệnh, hạ lệnh
+232.	Combine: [kɔm’bain]: n: nhóm người hoặc công ty cùng hoạt động kinh doanh / v: (to combine with something) ( to combine A and B / A with B) kết hợp; phối hợp
+233.	Instantaneously: [,instən’teinjəsli]: adv: ngay lập tức, tức thời
+234.	Azimuth: [‘æziməθ]: n: (thiên văn học) vòm trời từ thiên đỉnh đến chân trời / (bản đồ học) góc giữa vòm ấy với bình tuyến; góc phương vị
+235.	Vertical: [‘və:tikl]: adj: thẳng đứng, đứng / n: mặt phẳng thẳng đứng
+236.	Automatically: [,ɔ:tə’mætikəli]: adv: tự động
+237.	Immediately: [i’mi:djətli]: adv: ngay lập tức, tức thì / trực tiếp
+238.	Upon: [ə’pɔn]: pre: trên, ở trên
+239.	Store: [stɔ:]: n: cửa hang; sự tích trữ / v: chứa, đựng, tích
+240.	Component: [kəm’pounənt]: adj: hợp thành, cấu thành (Compose: [kəm’pouz]: v)
+241.	Occupy: [‘ɒkjʊpai]: v: chiếm đóng, chiếm lĩnh, chiếm cứ
+242.	Eliminate: [i’limineit]: v: loại ra, loại trừ
+243.	Tremendous: [tri’mendəs]: adj: ghê gớm, kinh khủng, khủng khiếp, dữ dội / rất lớn, bao la
+244.	Input: [‘input]: n: hành động đưa cái gì vào
+245.	Capable: [‘keipəbl]: adj: có khả năng; có năng lực; thạo; giỏi
+246.	Directly: [di’rektli]:adv: lập tức; ngay tức khắc
+247.	Vertical angle: góc đứng
+248.	Collector: [kə’lektə]: n: người thu thập, người sưu tầm; người thu (thuế, tiền…)
+249.	Vertical plane: mặt phẳng thẳng đứng
+250.	Manual: [‘mænjuəl]: adj: (thuộc) tay; làm bằng tay hoặc điều khiển bằng tay; thủ công / n: sách chỉ dẫn thực hành, sách giáo khoa
+251.	Vertical circle: bàn độ đứng
+252.	Vertical hair: chỉ đứng
+253.	Versatile: [‘və:sətail]: adj: nhiều tác dụng; đa năng (dụng cụ, máy…) / linh hoạt; nhiều tài; tháo vát
+254.	Circle right: bàn độ phải
+255.	Telescope: [‘teliskoup] :n : kính viễn vọng, kính thiên văn / v: trở nên ngắn hơn
+256.	Horizontal angle: góc bằng
+257.	Setting-out: bố trí, cắm (các yếu tổ công trình)
+258.	Horizontal plane: mặt phẳng nằm ngang
+259.	Horizontal circle: bàn độ ngang
+260.	Plumbing: chiếu điểm
+261.	Horizontal hair: chỉ ngang
+262.	Circle left: bàn độ trái
+263.	Observe: [ə’bzə:v]: v: quan sát, theo dõi / tiến hành
+264.	Range: [reindʒ]: n: phạm vi, lĩnh vực; trình độ / v: xếp loại, đứng về phía
+265.	Trunnion: [‘trʌniən]: n: trục quay
+266.	Levelling: [‘levliη]: đo cao, đo thủy chuẩn
+267.	Shaft: [∫ɑ:ft]: n: giếng mỏ, hầm lò
+268.	Trunnion axis: trục quay ống kính
+269.	Observation: [,ɑbzə’vei∫n]: n: sự quan sát, sự theo dõi
+270.	Underside: [‘ʌndəsaid]: n: mặt bên dưới, cạnh bên dưới; đáy
+271.	Approximately: [ə’prɔksimitli]: adv: khoảng chừng, độ chừng
+272.	i.e.: [,ai ‘i:]: viết tắt: tức là; nghĩa là ( Id est)
+273.	Setting up: đặt máy
+274.	Axix: [‘æksis]: n, pl. axes: trục
+275.	Bolt: [boult]: n: bulông, then, chốt
+276.	Gunsight: đầu ruồi (trên ống kính để ngắm sơ bộ)
+277.	Barrel: [‘bærəl]: n: ống kính, ống ngắm
+278.	Fairly: [‘feəli]: adv: công bằng, không thiên vị; chính đáng; ngay thẳng / rõ ràng, rõ rệt
+279.	Tripod: [‘traipɔd]: n: giá ba chân, kiềng ba chân
+280.	Clamp: [klæmp]: n: ốc hãm; cái kẹp, bàn kẹp / v: cặp, chặt lại; kẹp chặt lại, giữ chặt lại
+281.	Roughly: [‘rʌfli]: adv: ráp, xù xì, gồ ghề, không bằng phẳng, bờm xờm, lởm chởm
+282.	Attach: [ə’tæt∫]: v: tham gia, liên kết với / gắn với
+283.	Bubble: [‘bʌbl]:n: bong bóng, bọt, tăm
+284.	Holding bolt: ốc nối
+285.	Bubble tube: ống thủy
+286.	Former: [‘fɔ:mə]: adj: trước, cũ, xưa
+287.	Release: [ri’li:s]: n: sự giải thoát, sự thoát khỏi (điều lo lắng, sầu muộn, bệnh tật…); sự thả, sự phóng thích / v: sự phóng thích, sự tha nợ, sự tháo ra, tách ra
+288.	Thumb: [θʌm]: n: ngón tay cái
+289.	Loosen: [‘lu:sn]: v: nới ra, nới lỏng
+290.	Levelling-up: cân bằng máy
+291.	Inner axis: trục đứng
+292.	Tube: [tju:b]: n: ống
+293.	Arbitrary: [‘ɑ:bitrəri]: adj: tùy ý
+294.	Diaphragm: [‘daiəfræm]: n: lưới chỉ chữ thập
+295.	Footscrew: ốc cân
+296.	Fix: [fiks]: v: đóng, gắn, lắp, để, đặt; làm đông lại, làm đặc lại; hãm (ảnh, màu…); cố định lại
+297.	Towards: [tə’wɔ:dz]: adv: Cách viết khác : toward [tə’wɔ:d]: theo hướng, về phía, hướng về
+298.	Clockwise: [‘klɔkwaiz]: adj & adv: theo chiều kim đồng hồ
+299.	Centring: [‘sentriη]: n: sự định tâm, khoan tâm
+300.	Align: [ə’lain]: v: Cách viết khác: aline [ə’lain]: sắp thành hàng, chỉnh
+301.	Shift: [∫ift]: n: sự thay đổi
+302.	Upper: [‘ʌpə]: adj: cao hơn
+303.	Depression: [di’pre∫n]: n: chỗ lõm, chỗ đất lún, chỗ sụt xuống
+304.	Tangent screw: [‘tændʒənt – skru:]: ốc vi động
+305.	Contain: [kən’tein]: v: chứa đựng, bao hàm, gồm có, bao gồm
+306.	Previously: [‘pri:viəsli]: adv: trước, trước đây
+307.	Index error: sai số MO
+308.	Swing: [swiη]: v: quay
+309.	Direction: [di’rek∫n]: n: sự điều khiển, sự chỉ huy, sự cai quản; mặt, phương diện
+310.	Set: vòng đo
+311.	Respect: [ri’spekt]: n: sự tôn trọng, sự chú ý / v: tôn trọng, khâm phục; liên quan đến
+312.	Coincidence: [kou’insidəns]: n: sự trùng hợp ngẫu nhiên; làm trùng
+313.	Adopt: [ə’dɔpt]: v: chấp nhận, thông qua
+314.	Altitude: [‘æltitju:d]: n: độ cao so với mặt biển
