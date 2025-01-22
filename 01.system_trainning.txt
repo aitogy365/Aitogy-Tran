@@ -38787,6 +38787,45 @@ zykaite [17230]: zykait.
 Khoáng vật: Fe+34(AsO4)3(SO4)(OH).15H2O.
 zynyite [17231]: zynyit.
 Khoáng vật: Al13Si5O20(OH,F)18Cl. Gặp ở dạng tinh thể nhỏ, hệ bốn phương, trong suốt.
+Thuật ngữ (Tiếng Anh)	Thuật ngữ (Tiếng Việt)	Nguồn
+Undestroyed sample of soil	Mẫu đất đá nguyên trạng1	
+Grain-size composition of soil	Thành phần hạt của đất2	
+Percent finer (PTL)	Hàm lượng phần trăm tích lũy2	
+Rock quality designation (RQD)	Chỉ số chất lượng đá3	
+Completely Weathered (CW / P.H)	Đá phong hóa hoàn toàn4	
+Undrained shear strength (Su)	Sức chống cắt không thoát nước5	
+Sensitivity (S)	Độ nhạy5	
+Testing location	Vị trí thí nghiệm6	
+Testing point	Điểm cắt6	
+Vane	Cánh cắt6	
+Bladed vane	Lưỡi cắt6	
+Shear strength	Sức chống cắt7	
+Normal stress	Áp lực pháp tuyến8	
+Shear stress	Ứng suất tiếp tuyến8	
+Angle of internal friction	Góc ma sát trong8	
+Cohesion	Lực dính9	
+Consolidated drained test	Thí nghiệm cắt chậm cố kết10	
+Consolidated undrained test	Thí nghiệm cắt nhanh cố kết10	
+Unconsolidated undrained test	Thí nghiệm cắt nhanh không cố kết10	
+Void ratio	Hệ số rỗng11	
+Degree of saturation	Độ bão hòa nước11	
+Specific gravity	Khối lượng riêng11	
+Dry unit weight	Khối lượng thể tích khô12	
+Moist unit weight	Khối lượng thể tích11	
+Liquid limit	Giới hạn chảy13	
+Plastic limit	Giới hạn dẻo13	
+Plasticity index	Chỉ số dẻo13	
+Consistency index	Chỉ số độ sệt13	
+Compression index	Hệ số nén lún13	
+Modulus of deformation	Modun tổng biến dạng13	
+Coefficient of consolidation	Hệ số cố kết13	
+Degree of consolidation	Mức độ cố kết13	
+Coefficient of lateral expansion	Hệ số nở hông13	
+Coefficient of lateral pressure	Hệ số áp lực hông13	
+Particle size analysis	Phân tích thành phần hạt14	
+Dry sieving method	Phương pháp sàng khô15	
+Wet sieving method	Phương pháp sàng ướt15	
+Hydrometer method	Phương pháp tỷ trọng kế15	
 
 
 
