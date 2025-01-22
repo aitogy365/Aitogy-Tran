@@ -1660,3 +1660,165 @@ Objects are represented on a map by signs or symbols, many of which are conventi
 312.	Coincidence: [kou’insidəns]: n: sự trùng hợp ngẫu nhiên; làm trùng
 313.	Adopt: [ə’dɔpt]: v: chấp nhận, thông qua
 314.	Altitude: [‘æltitju:d]: n: độ cao so với mặt biển
+•	Measurement [‘məʒəmənt] (n): sự đo lường, phép đo
+•	Feature [‘fi:t∫ə] (n): điểm đặc trưng
+•	Surface [‘sə:fis] (n): bề mặt
+•	Relative [‘relətiv]] (adj): tương đối, liên quan đến
+•	Graphically [‘græfikəli] (adv): bằng đồ thị
+•	Numerically [nju:’merikəli] (adv): bằng kỹ thuật số
+•	Distance [‘distəns] (n): khoảng cách
+•	Direction [di’rek∫n] (n): hướng
+•	Angle [‘æηgl] (n): góc
+•	Location [lou’kei∫n] (n): vị trí
+•	Elevation [,eli’vei∫n] (n): độ cao
+•	Profile [‘proufail] (n): mặt cắt nghiêng, bản vẽ
+•	Cross-section [‘krɔs’sek∫n] (n): mặt cắt ngang
+•	Diagram [daiəgræm] (n): biểu đồ
+•	Process [‘prouses] (n) quy trình
+•	Field-work [‘fi:ld, wə:kə] (n) công tác ngoại nghiệp (công tác thực địa)
+•	Office-work [‘ɔfis, wə:kə] (n): công tác nội nghiệp
+•	Consderd [kən’sidə] (v): xem xét đến, cân nhắc
+•	Considered as = taken into account as = taken into consideration as
+•	Spheroidal [sfiə;rɔidl] (adj): có dạng hình cầu
+•	Horizontal [,hɔri’zɔntl] (adj): nằm ngang, ngang; (n): đường nằm ngang
+•	Straight [streit] (adj): thẳng
+•	Plum [pl∧m] (n): quả dọi
+•	Parallel [‘pærəlel] (adj): song song
+•	Polygon [‘pɔligən] (n): đa giác
+•	Level line: đường chuẩn
+•	Contour [‘kɔntuə] (n): đường đồng mức
+•	Geodetic [,dʒi:ou’detik]: Geodetic Surveying: Trắc địa cao cấp
+•	Branch [brɑ:nt∫] (n): nhánh, chi nhánh; (v): phân nhánh
+•	Technique [tek’ni:k] (n): kỹ thuật
+•	Curvature [‘kə:vət∫ə] (n): độ cong, sự uốn cong
+•	Framework [‘freimwə:k] (n): lưới cơ sở
+•	Angular [‘æηgjulə] (adj): (thuộc) góc, có góc cạnh
+•	Positional [pə’zi∫ənəl] (adj): (thuộc) vị trí
+•	Global Positional System (GPS): Hệ thống định vị toàn cầu
+•	Satellite [‘sætəlait] (n): vệ tinh
+•	Co-ordinate [kou’ɔ:dineit] (n): tọa độ
+•	Accuracy [‘ækjurəsi] (n): độ chính xác
+•	Triangulation: Lưới tam giác
+•	Topographic [,tɔpə’græfik] (adj): (thuộc) phép đo vẽ địa hình, thuộc về địa hình
+•	Vertex [‘və:teks] (n): đỉnh, điểm cao nhất
+•	Absolute [‘æbsəlu:t] (adj): tuyệt đối, hoàn toàn
+•	Geometric [,dʒi:ə’metrɪk] (adj): (thuộc) hình học
+•	Geometrical Figure: đồ hình
+•	Condition [kən’di∫n] (n): điều kiện
+•	Adjusting: bình sai
+•	Quantity [‘kwɔntəti] (n): lượng, số lượng, khối lượng
+•	Additional [ə’di∫ənl] (adj): cộng thêm, thêm vào
+•	Redundant [ri’d∧ndənt] (adj): thừa, dư
+•	Additional (Redundant): trị đo thừa
+•	Electronic Distance Measurement (EDM): đo chiều dài điện tử
+•	Quadrilateral [,kwɔdri’lætərəl] (adj): tứ giác
+•	Trilaterration [trailætə’rei∫n] (n): phép đo ba cạnh tam giác
+•	Trilateration framework: lưới tam giác đo cạnh
+•	Ray [rei] (n): tia
+•	Equilateral [,i:kwi’lætərəl] (adj): có các cạnh bằng nhau
+•	Configuration [kən,figju’rei∫n] (n): hình thể, hình dạng
+•	Theodolite [θi’ɔdəlait] (n): máy kinh vĩ
+Cùng thiết bị đo đạc để đảm bảo tính chính xác trong trắc địa
+•	Establish [is’tæbli∫] (v) thành lập, thiết lập
+•	Boundary [‘baundəri] (n): biên giới
+•	Magnitude [‘mægnitju:d] (n): độ lớn
+•	Chart [t∫ɑ:t] (n): biểu đồ; (v): vẽ biểu đồ
+•	Charting of coast line: bản đồ đường bờ biển
+•	Navigate [‘nævɪgeɪt] (v): định hướng
+•	Precise [pri’sais] (adj): chính xác
+•	Definite [‘definit] (adj): xác định
+•	Magnetism [‘mægnitizm] (n) trường trọng lực, từ tính
+•	Scattered [‘skætəd] (adj): rải rác
+•	Portion [‘pɔ:∫n] (n): phân chia
+•	Property [‘prɔpəti] (n): thuộc tính, đặc tính
+•	Measurement of Distance: Đo khoảng cách
+•	Slope [sloup] (n): dốc, độ dốc; (v): nghiêng
+•	Projection [prə’dʒek∫n] (n): sự chiếu, sự được chiếu
+•	Plot [plɔt] (v): vẽ sơ đồ, vẽ đồ thị, vẽ biểu đồ, dựng đồ án; đánh dấu (cái gì) trên hải đồ, biểu đồ; vẽ đường đồ thị
+•	Plotting map: Vẽ bản đồ
+•	Instrumentation [,instrumen’tei∫n] (n): thiết bị đo đạc
+•	Depict [di’pikt] (v): vẽ; mô tả, miêu tả
+•	Tacheometer [tæ’kimitə] (n): máy đo khoảng cách
+•	Vertical [‘və:tikl] (adj): thẳng đứng, đứng; (n): mặt phẳng thẳng đứng
+•	Azimuth [‘æziməθ] (n): (thiên văn học) vòm trời từ thiên đỉnh đến chân trời / (bản đồ học) góc giữa vòm ấy với bình tuyến; góc phương vị
+•	Angular Measurement: Đo góc
+•	Trunnion [‘trʌniən] (n): trục quay
+•	Underside [‘ʌndəsaid] (n): mặt bên dưới, cạnh bên dưới; đáy
+•	Barrel [‘bærəl] (n): ống kính, ống ngắm
+•	Tripod [‘traipɔd] (n): giá ba chân, kiềng ba chân
+•	Clamp [klæmp] (n): ốc hãm; cái kẹp, bàn kẹp;
+•	Clamp (v): cặp, chặt lại; kẹp chặt lại, giữ chặt lại
+•	Tube [tju:b] (n): ống
+•	Towards [tə’wɔ:dz] (adv): hướng về
+•	Loosen [‘lu:sn] (v): nới ra, nới lỏng
+•	Diaphragm [‘daiəfræm] (n): lưới chỉ chữ thập
+•	Tangent screw [‘tændʒənt – skru:]: ốc vi động
+•	Altitude [‘æltitju:d] (n): độ cao so với mặt biển
+•	Levelling: Đo thủy chuẩn
+•	Datum [‘deitəm] (n): số lượng đã cho; điều đã cho biết; luận cứ / mốc tính toán, mốc đo lường, mặt phẳng chuẩn
+•	Longitudinal [,lɔndʒi’tju:dinl] (adj): theo chiều dọc
+•	Perpendicular [,pə:pən’dikjulə(r)] (adj): vuông góc, trực giao;
+•	Perpendicular (n): đường vuông góc
+•	Collimation [,kɔli’mei∫n] (n): (vật lý) sự chuẩn trực, tia ngắm nằm ngang
+•	Gradient [‘greidjənt] (n): dốc, độ dốc
+•	Benchmark [‘bent∫mɑ:k] (n): điểm độ cao, mốc độ cao, mốc kiểm tra
+•	Back sight [‘bæksait] (n): sự ngắm ngược, sự ngắm trở lại, ngắm phía sau
+•	Foresight [‘fɔ:sait] (n): hướng ngắm phía trước
+•	Collimation [,kɔli’mei∫n] (n): đường chuẩn trực, tia ngắm nằm ngang
+•	Overlay [‘ouvəlei] (n): sự che phủ
+•	Interpretation [in,tə:pri’tei∫n] (n): phép nội suy
+•	Traverse Survey: Đường chuyền khảo sát
+•	Traverse [‘trævə:s] (n): đường chuyền
+•	Bearing [‘beəriη] (n): góc phương vị, góc định hướng
+•	Schematically [ski:’mætikli] (adv): dưới dạng giản đồ, dưới dạng biểu đồ
+•	Meridian [mə’ridiən] (n): kinh tuyến
+•	Observation session (ca đo): Quãng thời gian thi tín hiệu trên trạm đo từ lúc bật máy đến lúc tắt máy.
+•	Simultaneous observation (đo đồng bộ): Trị số đo của hai máy thu trở lên thu tín hiệu cùng một vệ tinh.
+•	Simultaneous observation loop (vòng đo đồng bộ): Vòng khép của các vector do 03 máy đo cùng ca trở lên hợp thành.
+•	WGS-84: World Geodetic System – 1984
+•	Global Positioning System (GPS): Hệ thống định vị toàn cầu
+•	UTM: Universal Transverse Mercator
+•	PDOP: Position Dilution of Precision
+•	UTC: Universal Time Coordinate
+•	Global Navigation Satellite System (GNSS): Hệ thống vệ tinh định vị toàn cầu
+•	Plumb bob: quả dọi
+•	Optical plummet: bộ phận dọi quang học
+•	Total station: máy toàn đạc điện tử
+•	Horizontal angle: góc bằng
+•	Vertical angle: góc đứng
+•	Horizontal plane: mặt phẳng nằm ngang
+•	Vertical plane: mặt phẳng thẳng đứng
+•	Horizontal circle: bàn độ ngang
+•	Vertical circle: bàn độ đứng
+•	Horizontal hair: chỉ ngang
+•	Vertical hair: chỉ đứng
+•	Circle left: bàn độ trái
+•	Circle right: bàn độ phải
+•	Trunnion axis: trục quay ống kính
+•	Setting up: đặt máy
+•	Holding bolt: ốc nối
+•	Levelling-up: cân bằng máy
+•	Inner axis: trục đứng
+•	Bubble tube: ống thủy
+•	Footscrew: ốc cân
+•	Index error: sai số MO
+•	Longitudinal section: mặt cắt dọc
+•	Procedure in levelling: phương pháp đo thủy chuẩn 
+•	Contouring: vẽ đường đồng mức
+•	Dotted line: đường đánh dấu chấm (…), đường nét đứt
+•	Vertical interval: khoảng cao đều
+•	Photogrammetric: (thuộc) đo ảnh
+•	Gridding: lưới ô vuông
+•	Traversing: đường chuyền đa giác
+•	Closed loop traverse: đường chuyền khép kín
+•	Closed line traverse: đường chuyền phù hợp
+•	Unclosed traverse: đường chuyền treo
+•	Leg length: chiều dài cạnh
+•	Intenal angle: góc trong
+•	Assumed bearing: phương vị giả định
+•	Motional carrier: vật thể bay
+•	Semimajor axis: bán trục lớn
+•	Static receiver: máy thu tĩnh
+•	Kinematic receiver: máy thu động
+•	Carrier phase: pha sóng tải
+•	Coordinatograph: máy chuyển tọa độ
