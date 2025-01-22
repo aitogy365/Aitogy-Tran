@@ -2684,6 +2684,581 @@ The list of deliverables must also include the LiDAR data and derivative product
 (4)	One set of FGDC Metadata for each data deliverable.
 (5)	One ESRI file geodatabase containing the breakline data, if specified.
 (6)	Project report
+Recently, there is an increase interest in positioning techniques based on Global Navigation Satellite Systems (GNSS) such as Global Positioning System (GPS), cellular network infrastructure or on the integration of the two technologies for a wide spread of applications such as Automatic Vehicle Location (AVL), tracking systems, navigation, Pedestrian Navigation Systems (PNSs), intelligent transportation Systems, precise positioning and emergency callers. During the last 15 years there are many important events in the field of satellite navigation systems such as: (a)the full operational GPS in 1993, when 24 GPS satellites were operating in their assigned orbits, available for navigation use and providing Standard Positioning Services
+(SPS), (b) the new European satellite system Galileo, (c) the modernized of US satellite system GPS, and (d) the reconstruction of Russian satellite system Glonass.
+The increasing demand for commercial location-based services (LBS) has driven cellular-phone and network manufacturers to focus on positioning solutions, which are even more accurate than the regulatory mandates for positioning of emergency callers and other user services and applications. LBS projects aim to improve user-friendly info-mobility services for position determination by combining wireless communications, satellite navigation (GNSS) and geographic information systems (GIS), based on a mobile client/server architecture (Lohnert et al., 2001).
+The meaning of GNSS is the technical interoperability and compatibility between various satellite navigation systems such as modernized GPS, Galileo, reconstructed GLONASS to be used by civilian users without considering the nationalities of each system in order to promote the safety and convenience of life (GALILEO, 2003; Feng, 2003).
+
+Our interest here is to outline the new technologies and applications evolved and appeared from the integration between the GNSS, GIS and wireless communications.
+We will give an introduction of GNSS by introducing the characteristic of the three satellite systems (GPS, GLONASS and Galileo), signal structure, receiver design, math model of single point positioning and differential positioning, Wide area differential positioning such as WAAS, EGNOS, and MSAS, GNSS and wireless applications such as RTK network and LBS including AVL and other services will be reviewed.
+
+Key Words: Global Navigation Satellite System (GNSS), Global Positioning System (GPS), GLONASS, Geographic Information System (GIS), GALILEO, LBS, AVL, Wireless Networks, WAAS, EGNOS, Applications of GNSS/GIS to city planning and engineering.
+
+1.	INTRODUCTION
+
+Satellite navigation systems has become integral part of all applications where mobility plays a important role (Heinrichs et al., 2005). These functions will be at the heart of the mobile phone third-generation (3G) networks such as the UMTS. In transportation systems, the presence of
+receivers will become as common as seat belts or airbags, with all car manufacturers equipping their entry-level vehicles with these devices.
+As for the past developments, GPS launched a variety of techniques, products and, consequently, applications and services. The milestone of satellite navigation is the real time positioning and time synchronization. For that reason the implementation of wide-area augmentation systems should be highlighted, because they allow a significant improvement of accuracy and integrity performance. WAAS, EGNOS and MSAS provide over US, Europe, Japan a useful augmentation to GPS, GLONASS and Galileo services (Mulassano, et al., 2004).
+GNSS development has an interesting aspect due to its sensitive nature. Considerable events or developments are always subject to a couple of differentiators: technological developments and political decisions.
+GPS and Glonass in all stages of improvements are strictly related to those differentiators. The approval and startup of the European Galileo program is considered by far the most real innovation. Technological and political decisions in Galileo substantiate that interoperability and compatibility must be reached in the forthcoming years. Such issues are the true GNSS improvement for the benefit of institutions and organizations.
+GNSS applications in all fields will play a key role, moving its use from the transportation domain to multimodal use, outdoors and indoors. It is expected that GNSS will increase significantly the precision in position domain (Lachapelle et al., 2002).
+
+The concept of reference system for navigation is essential since all the applications of GNSS are related to the coordinate system used. The main application of GNSS is focused on the potential of to determine the position in the Global reference system any where any time on the Globe in a simple, fast and cost-effective manner.
+The integration between GNSS and other related technologies such as telecommunications (GSM, GPRS, UMTS), the Geographic Information Systems (GIS) and Inertial Navigation System (INS), has created numerous applications that needs more time to be discussed in details. Many research efforts have been exerted in order to find each new applications to promote the quality of our life using the GNSS benefits (Lohnert et al., 2001; Al-Bayari and Sadoun, 2005).
+2.	GNSS COMPONENTS
+
+The GNSS consist of three main satellite technologies: GPS, Glonass and Galileo. Each of them consists mainly of three segments: (a) space segment, (b) control segment and (c) user segment. These segments are almost similar in the three satellite technologies, which are all together make up the GNSS. As of today, the complete satellite technology is the GPS technology and most of the existing worldwide applications related to the GPS technology. The GNSS technology will become clearer after the operation of Galileo and the reconstruction of Glonass in the next few years.
+
+2.1	Global Positioning System:
+The United States Department of Defense (DoD) has developed the Navstar GPS, which is an all-weather, space based navigation system to meet the needs of the USA military forces and accurately determine their position, velocity, and time in a common reference system, any where on or near the Earth on a continuous basis (Wooden, 1985).
+GPS has made a considerable impact on almost all positioning, navigation, timing and monitoring applications. It provides particularly coded satellite signals that can be processed in a GPS receiver, allowing the receiver to estimate position, velocity and time (Hofmann-Wellenhof et al., 2001). There are four GPS satellite signals that are used to compute positions in three dimensions and the time offset in the receiver clock. GPS comprises three main components:
+-	Space segment: The Space Segment of the system consists of the GPS satellites; see Figure
+1. These space vehicles (SVs) send radio signals from space as shown in Figure 2.
+-	Control segment: The Control Segment consists of a system of tracking stations located around the world. The Master Control facility is located at Schriever Air Force Base (formerly Falcon AFB) in the State of Colorado, USA.
+-	User segment: The GPS User Segment consists of the GPS receivers and the user community. GPS receivers convert space vehicle (SV) signals into position, velocity, and time estimates.
+ 
+
+The satellites are dispersed in six orbital planes on almost circular orbits with an altitude of about 20,200 km above the surface of the Earth, inclined by 55 degree with respect to the equator and with orbital periods of approximately 11 hours 58 minutes (half a sidereal day).
+The categories are Block I, Block II, Block IIR (R for replenishment) and Block IIA (A for advanced) and a further follow-on category Block IIF has also been planned (ICD-GPS, 2003). Figure 3 shows the main GPS segments.
+2.1.1	GPS Signals
+The generated signals on board the satellites are based or derived from generation of a fundamental frequency o=10.23 MHZ (Hofmann-Wellenhof et al., 2001). The signal is
+ 
+controlled by atomic clock and has stability in the range of 1013
+ 
+over one day. Two carrier
+ 
+signals in the L-band, denoted L1 and L2, are generated by integer multiplications of o. The carriers L1 and L2 are biphase modulated by codes to provide satellite clock readings to the receiver and transmit information such as the orbital parameters. The codes consist of a sequence with the states +1 or -1, corresponding to the binary values 0 or 1. The biphase modulation is performed by a 180° shift in the carrier phase whenever a change in the code state occurs; see Figure 4. The clear/access code (C/A-code) and precision code (P-code) are used for the satellite clock reading, both are characterized by a pseudorandom noise (PRN) sequence. The W-code is employed to encrypt the P-code to the Y-code when Anti Spoofing (A-S) is applied. The navigation message is modulated using the two carriers (L1 and L2) at a chipping rate of 50 bps.
+It contains information on the satellite orbits, orbit perturbations, GPS time, satellite clock, ionospheric parameters, and system status messages (Leick, 2003). The modulation of L1 by P- code, C/A-code and navigation message (D), is done using the quadrature phase shift keying (QPSK) scheme. The C/A-code is placed on the LI carrier with 90° offset from the P-code since they have the same bit transition epochs. For the L1 and L2 we have:
+ 
+L1(t)  a1 P(t)W (t) cos(2f1t)  a1C / A(t)D(t) sin(2f1t)
+L2(t)  a2 P(t)W (t) cos(2f 2 t)
+ 
+
+(1)
+ 
+
+
+The signal broadcast by the satellite is a spread spectrum signal, which makes it less prone to jamming. The basic concept of spread spectrum technique is that the information waveform with small bandwidth is converted by modulating it with a large-bandwidth waveform (Hofmann- Wellenhof et al., 2001).
+The generation of pseudo random sequence (PRN) in the code is based on the use of an electronic hardware device called tapped feed back shift register (FBSR). This device can generate a large variety of pseudo random codes, but in this way the generated code repeat it self after some very long time. The receiver could distinguish the signals coming from different satellites because the receiving C/A code (the Gold code), has low cross-correlation and is unique for each satellite (Leick, 2003).
+The navigation message consists of 25 frames with each frame containing 1500 bit and each frame is subdivided into 5 sub-frames with 300 bit. The information transmitted by the navigation message is periodically updated by the control segment.
+
+2.2	Modernized GPS
+Due to the vast civil applications of GPS technology during the past decade or so and due to the new technologies used in the satellite and receivers, the U.S government has decided to extend the capabilities of GPS to give more benefits to the civil community. In addition to the existing GPS signals, new signals will be transmitted by GPS satellite; see Figure 5. Moreover, this will increase the robustness in the signals and improve the resistance to signal interference. This definitely will lead to a better quality of service (QoS). The new signals added to the GPS (Fontana et al., 2001), are: (i) a new L5 frequency in an aeronautical radio navigation service (ARNS) band with a signal structure designed to improve aviation applications, (ii) C/A code to L2C carrier (L2 civil signal ), and (iii) a new military (M) code on L1 and L2 frequency for the DoD has been added. It has the potential to track signal even in poor conditions where the C/A code tracking on L1 would not be possible. The new military code will be transmitted from the Block IIR-M and IIF satellites (Betz, 2002).
+ 
+It is well known that the presence of dual frequency measurements (L1 and L2) has good advantages to eliminate the effect of the ionosphere and enhance the ambiguity resolution especially for the high precision measurements (Liu and Lachapelle, 2002). High-end civil dual frequency systems will be based on L1 CA-code and the newly designed L2 C-code. In the coming few years the receivers will become more complex in order to allow tracking the new civil code on L2 and tracking the encrypted P on L2 (A-S).
+
+The frequency of L5 is 1176.45MHz, with chipping rate of 10.23 MHz similar to P- code. The high chipping rate of L5 code will provide high performance ranging capabilities and better code measurement than L1 C/A code measurements (Dierendonck and Hegarty, 2000).
+L2 has a better correlation protection with respect to L1 since it has a long code. This will be useful in severe conditions where the GPS signals are weak such as navigation in urban, indoor, and forested areas.
+The old codes and the new codes (Millitary and civil), on the L1, L2 and L5 need more advanced modulation that better share existing frequency allocations with all signals by increasing spectral separation, and hence conserve the spectrum. Consequently, binary offset carrier (BOC) is used for the Military code modulations (Betz, 2002).
+
+
+2.3	GLONASS
+The GLONASS (GLObal NAvigation Satellite System or “GLObalnaya NAvigatsionnaya Sputnikovaya Sistema”) is nearly identical to GPS. Glonass satellite-based radio-navigation
+system provides the positioning and timing information to users. It is operated by the Ministry of Defense of the Russian Federation (GLONASS-ICD, 2002).
+Glonass space segment is consist of 24 satellites, equally distributed in 3 orbit separated by 120∘
+in the equatorial plane. Satellite orbital altitude is about 19,130 km above the ground surface. This results in an orbital period of 11:15:44 corresponding to 8/17 of a sidereal day.
+The future of GLONASS seems uncertain due to economic problems facing the Russian Federation. The number of operational satellites was steadily decreasing over the past few years. The launch of three new GLONASS satellites in December 1998 was the first launch after a lapse of 3 years.
+As of January 2006, a total of 10 GLONASS satellites are operational. The oldest of the still active satellites was launched in October, 2000. According to Russian officials the GLONASS system shall again be restored by 2008.
+
+2.3.1	The Signals of the GLONASS Satellites
+Glonass transmit C/A-code on L1, P-code on L1 and L2. Glonass observables (code and phase) are similar to GPS. The main difference between GPS and GLONASS is that GLONASS uses Frequency Division Multiple Access (FDMA) technology to discriminate the signals of different satellites, but GPS and Galileo use (Code Division Multiple Access, CDMA) to distinguish between the satellites. All Glonass satellites transmit the same C/A- and P-codes, but each satellite has slightly different carrier frequencies.
+The nominal carrier frequencies for the L1and L2 signals may be written as shown below (Leick, 2003): 
+1602.5625MHz to 1615.5MHz. Since some of the GLONASS frequencies interfere with frequencies used for radio-astronomy, some changes in the frequency plan are expected after 2005 (GLONASS-ICD, 2002). The navigation message is contained in so-called sub frames,
+which have duration of 2.5 minutes. Each sub frame consists of five frames with a duration of 30 seconds. The navigation message contains information, similar to GPS navigation message, about the satellite orbits, their clocks, among others.
+On the contrary to GPS, where the broadcast ephemeredes are defined by modified Keplerian elements, the broadcast ephemeredes of GLONASS satellites are defined by positions and velocities referred to an Earth-centered and Earth-fixed systems (PZ-90). The broadcast ephemeredes of the Glonass satellites are updated every 30 minutes.
+
+2.4	GALILEO
+GALILEO is Europe’s initiative for a state-of-the-art global navigation satellite system, providing a highly accurate, guaranteed global positioning service under civilian control. Galileo will be not too different from the other GNSS parts (modernized GPs and Glonass (Salgado et al., 2001). It will provide autonomous navigation and positioning services, but at the same time will be interoperable with the two other global satellite navigation systems; the GPS and GLONASS. A user will be able to take a position with the same receiver from any of the satellites in any combination. By providing dual frequencies as standard, however, GALILEO will deliver real-time positioning accuracy down to the meter range. It will guarantee availability of the service under all, but the most extreme circumstances and will inform users within seconds of a failure of any satellite. This will make it appropriate for applications where safety is vital, such as running trains, guiding cars and landing aircraft. The combined use of GALILEO and other GNSS systems can offer much improved performance for all kinds of users worldwide.
+GALILEO is expected to be in operation by the year 2008. The first satellite of Galileo system (GIOVE A) has already been lunched in 27th December 2005.
+
+2.4.1	Galileo segments
+Galileo segments are almost similar to GPS, but with some modification. The main extension of Galileo compared to GPS is the implementation of a global/ regional segment for integrity monitoring. The objective is to assist the safety critical aircraft navigation and locate and guide railway trains (GALILEO, 2003).
+2.4.1.1	Space Segment
+The space segment or the constellation features consists of 30 Medium Earth Orbiting (MEO) satellites (27 and 3 active spare satellite), distributed evenly and regularly over three orbit planes. The projected altitude is slightly larger than for GPS 23,616 km and the inclination is 56° (Benedicto and Ludwig, 2002).
+
+2.4.1.2	Ground Segment
+The Galileo ground segment is responsible for managing the constellation of navigation satellites, controlling core functions of the navigation mission such as orbit determination of satellites, and clock synchronization, and determining and disseminating (via the MEO satellites) the integrity information, such as the warning alerts within time-to-alarm requirements, at global level. The Global ground segment will also provide interfaces with service centers. The Ground Control Segment will consist of about 12-15 reference stations, 5 up-link stations and two control centers. The ground segment also will include 16-20 monitor stations, three up-link stations for integrity data and two central stations for integrity computations.
+
+2.4.1.3	User Segment:
+The user segment consists of different types of user receivers, with different capabilities related to the different GALILEO signals in order to fulfill the various GALILEO services Figure 6.
+
+2.4.2	Galileo signals
+The GALILEO frequency should respect the radio-regulations as they are discussed and agreed on at the International Telecommunications Union (ITU) forums such as the World Radio- Communication Conference (WRC). There were different studies that were conducted before the determination of the Galileo signal allocations in order to avoid interference with GPS and Glonass systems, which operate in the same portion of the RF spectrum (Hein et al., 2003).
+Galileo will provide several navigation signals in right-hand circular polarization (RHCP) in the frequency ranges of 1164–1215 MHz (E5a and E5b), 1260–1300 MHz (E6) and 1559–1592 MHz (E2-L1-E1) that are part of the Radio Navigation Satellite Service (RNSS) allocation (Hein et al., 2003). All Galileo satellites will share the same nominal frequency, making use of code division multiple access (CDMA) techniques. Galileo will use a different modulation scheme for its signals, the binary offset carrier (BOC) and quadrature phase skip keying (QPSK).
+2.4.3	Definition of Services
+The Galileo constellation offers the capability of broadcasting globally a set of six signals supporting the open, commercial, safety-of-life and public regulated services (Hein et al., 2003). Each navigation signal is composed of one or two ranging codes and navigation data as well as, depending on the signal, integrity, commercial and search and rescue (SAR) data. Satellite-to- user distance measurements based on ranging codes and data are used in the GALILEO user receivers to fulfill the different GALILEO services (GALILEO, 2003). The main services are:
+1.	Open service (OS) data: These are transmitted on the E5a, E5b and E2-L1-E1 carrier frequencies. OS data are available to all users and consist mainly of the navigation and SAR data. Open service offers positioning, navigation and timing signals, which can be accessed free of charge.
+
+2.	Commercial Service (CS), data: These are transmitted on the E5b, E6 and E2-L1-E1 carriers. All CS data are encrypted and provided by service providers that interface with the Galileo Control Centre. Access to those commercial data is provided directly to the users by the service providers. The signal is designed to support very precise local differential applications (Sub-
+ 
+meter accuracy) using the open (option encrypted) signal overlaid with the PRS signal on E6 and also support the integration of GALILEO positioning applications and wireless communications networks.
+
+3.	Safety-of-life Services (SOL) data: These include mainly integrity and Signal in Space Accuracy (SISA) data. Combination of this Galileo services either with the current GPS as augmented by EGNOS corrections, or the future improved GPS and EGNOS integrity-only. Particularly, SOL is based on the satellite navigation signals without using added elements such as WAAS, and EGNOS. The accuracy required is about 4 meter over the Globe. This could be possible by introducing the ionospheric model based on multiple frequency measurements and modeling the other GNSS errors.
+
+4.	Public Regulated Service (PRS) data: These are transmitted on E6 and L1 carrier frequencies. The Public Regulated Service is provided on dedicated frequencies to provide the capability for greater continuity of service placed under EU Governments control for Public applications devoted to European and/or National Security, such as police, civil protection, law enforcement, civil protection such as some emergency services, as well as other governmental activities. The PRS is robust in order to be resistant to interference, jamming and other accidental or malicious aggressions.
+
+3.	GNSS SIGNALS
+
+The overall of mentioned signals (Modernized GPS, Galileo and Glonass signals), make up the GNSS signals. Each satellite system has specific signal characteristics, but each system attempts to be compatible with the others in order to prevent the interferences and attenuation between the signals. It is important to consider that the processing of all signals should be performed using the same receiver, thus a complex receiver design is supposed to be designed and built. As mentioned above, The GNSS frequency plan shall respect the radio-regulations as they are discussed and agreed on at ITU forums. The available spectrum which can be used for the development of Radio-Navigation Satellite Systems (RNSS) is shown in Figure 7.
+ 
+4.	SIGNAL PROCESSING AND RECEIVER DESIGN
+The main function of the signal processor in the receiver is the reconstruction of the carriers and extraction of codes and navigation messages. After this stage the receiver performs the Doppler shift measurement by comparing the received signal by a reference signal generated by the receiver. Due to the motion of satellite, the received signal is Doppler shifted.
+The code ranges are determined in the delay lock loop (DLL) by using code correlation. The correlation technique provides all components of bimodulated signals. The correlation technique is performed between the generated reference signal and the received one (Hofmann-Wellenhof et al., 2001). The signals are shifted with respect to time so that they are optimally matched based on mathematical correlation.
+Currently some geodetic type receivers are available on the market tracking GPS and Glonass satellites simultaneously on both frequencies, in particular the Ashtech Z18 receiver and the TPS (Topcon Positioning Systems) Legacy receivers. The future GNSS receiver could be designed to track the different GNSS signals and could be of many types:
+•	The first type could process all GNSS signals GPS L1, L2, L5 and Galileo OS, CS using L1, E5 and E6 and also Glonass L1 and L2.
+•	The second type uses free signal and codes, GPS L1 and L2C and Galileo OS, on L1 and E5.
+•	The third type uses L1 and E5.
+•	Forth type uses GPS L1 and L2 (which are already in the market (Ries et al., 2002).
+•	Fifth type uses GPS and Glonass signals (which are already exist), (Leick, 2003).
+The most common receiver types are Intermediate Frequency receiver (IF) and the software defined radio receiver (SDR). In the RF front-end receiver the signal is down converted to an intermediate frequency and then sampled, but SDR uses direct digitization, or bandpass sampling. Details on GNSS receiver design could be found in (Schmid et al., 2004; Julien et al., 2004a).
+The main components of RF-FE combined GNSS receiver are shown in Figure 8. After sampling and analog to digital conversion (ADC) of the received signal, the receiver performs parallel de- spreading. The received base-band signal is multiplied in parallel with the spreading codes of all visible satellites. The received signal of each satellite is multiplied in parallel with different code delay offsets. These products are then accumulated to compute the cross-correlation function.
+
+
+Because BOC signals are used in Galileo, supplementary measures are necessary due to the multiple correlation peaks of the auto-correlation function. Carrier tracking is performed using a phase-locked or frequency-locked loop (PLL or FLL). Coherent correlation combined with differential or non-coherent correlation can be done for the pilot and the data channel (Schmid et al., 2004). Multiple signals will be available at L1 within the next few years (Hein et al., 2004). Galileo will use a different modulation scheme for its signals such as BOC and QPSK, while
+GPS uses binary phase shift keying (BPSK) modulation for the open signals at L1 and L2. The L5 signal that will appear with the Block IIF satellites in 2006, will have quadrature phase shift keying (QPSK).
+The binary offset carrier (BOC) modulation scheme of Galileo provides better multipath and receiver noise performance compared to the GPS binary phase shift keying (BPSK) modulation. More complex techniques are already developed for tracking BOC signal, such as bump jump and BPSK-like.
+
+5.	REFERENCE SYSTEMS
+5.1	Coordinate System
+The definition of reference coordinate system is crucial for the description of satellite motion, the modeling of observable and the interpretation of results. Reference coordinate system in satellite geodesy is global and geocentric by nature since satellite motion refers to the center of mass of the earth (Seeber, 2003; Hofmann-Wellenhof et al., 2001).
+In satellite geodesy, two reference systems are required: (a) space-fixed, inertial reference system for the description of satellite motion, and (b) earth-fixed, terrestrial reference system for the positions of the observation stations and for the description of results from satellite geodesy.
+The positioning with using GNSS depends mainly on knowing the satellite coordinates. The position of the receiver is calculated with respect to the instant position of the satellite. By considering the range vector relation between satellite and receiver, the coordinate of the satellite and receiver should be expressed in the same coordinate system.
+In satellite geodesy, the two systems are used and the transformation parameters between the space fixed and earth fixed are well known and used directly in the GNSS receiver and post processing software to compute the position of the receivers in the earth fixed system.
+Terrestrial reference system is defined by convention with three axes, where Z-axis coincides with the earth rotation axis as defined by the Conventional International Origin (CIO). The X- axis is associated with the mean Greenwich meridian, and the Y-axis is orthogonal to both Z and X axes and it completes the right-handed coordinate system, Fig. 9. One example of the terrestrial reference system is the WGS84. GPS has used the WGS84 as a reference system (Leick, 2003), and with WGS84 associated a geocentric equipotential ellipsoid of revolution.
+The basic idea, in geodesy, behind using the reference ellipsoids is that they fit the real shape of the earth.
+Another example of terrestrial reference frame is the International Terrestrial Reference Frame (ITRF), which is established by Central Bureau of the International Earth Rotation Service (IERS). The ITRF is regularly updated and is more accurate than WGS84, but the difference between WGS84 and ITRF is now in the order of a few centimeters. This difference is mainly due to the difference between the reference stations used by each system when it is realized.
+Both systems are geocentric and the transformation parameters between them are regularly published by IERS.
+The representation of position in geocentric Cartesian coordinates (X, Y and Z) has less significance in navigation. Hence, the ellipsoidal representation (longitude, latitude and height above the ellipsoid) are more commonly use for coordinate representation.
+The relation between Cartesian coordinate (X, Y, Z) and ellipsoidal coordinates ( , , and h) is well known by using the following formulas:
+X  (N  h) cos cos 
+ 
+Y  (N  h) cos sin 
+2
+Z  ( a 2 N  h) sin 
+ 
+(2)
+ 
+where N is the radius of curvature in prime vertical and is obtained by the following expression:
+
+
+ 
+2
+N 	,
+ 
+(3)
+ 
+
+
+
+Here, a, b are the semi axes of the ellipsoid. The Cartesian coordinate of WGS84 is called also ECEF (Earth Centered Earth-Fixed) coordinate system.
+As mentioned above, the realization of the reference frame depends on the coordinates of ground reference stations. The Galileo Terrestrial Reference Frame (GTRF) is expected to be similar to ITRF, but will be based on the coordinates of the Galileo ground stations. The differences between WGS84, ITRF and the GTRF are expected to be in the order of a few centimeters. The two coordinate systems are compatible, and the accuracy obtained is good enough for most of the applications including navigation. For high precise measurements and for centmetric accuracy between the various systems, the transformation parameters are expected to be published by the geodetic service providers such as IERS. Glonass uses the PZ90 as a reference coordinate system which is basically a ECEF system. The transformation parameters between PZ90 and WGS84 is published by IERS (Leick, 2003).
+
+5.2	Time Reference Frame
+
+There are many time reference systems used and they are based on various periodic processes such as the earth rotation. The major types of these systems are shown in Table 1.
+
+The conversion between time systems is accomplished by well known formulas. In GNSS (e.g GPS), instead of the dynamic time system itself, the atomic time system serves as reference.
+Glonass satellite clock is moved according to UTC (SU). The Galileo System Time (GST) will be a continuous coordinate time scale steered towards the International Atomic Time (ITA) with an offset of less then 33 nanoseconds. The GST limits, expressed as a time offset relative to ITA,
+should be 50 nanoseconds for 95 percent of the time over any yearly time interval. The difference between GST and ITA and between GST and UTC shall be broadcast to the users using the signal-in-space of each Galileo service. The Galileo ground segment will monitor the offset of the GST with respect to the GPS system time and eventually broadcast the offset to users.
+
+6.	OBSERVATION TECHNIQUES
+
+The basic concept of GNSS is to measure the signal traveling time between artificial satellite and receiver. By multiplying this time by the light velocity (c), we get the range between the satellite and the receiver [(Hofmann-Wellenhof et al., 2001; ; Leick, 2003); see Figure 10:
+ (4)
+ 
+
+The time or phase measurement performed by the receiver is based on the comparison between the received signal at the antenna of the receiver and the generated reference signal by the receiver. The two signals are affected by the clocks errors. Therefore, the range measured is not true and it is called pseudorange. Since the signal travels through the atmospheric layers, further noise should be modeled in order to compute the precise range.
+
+6.1	Code Pseudorange Measurements
+
+
+Code correlation technique is used to measure the time difference between the received and generated replica code. The range could be formulated as follows:
+
+ 
+S  c  (t
+ 
+
+
+R (GNSS )
+ 
+
+  R
+ 
+)  (t S (GNSS )   S )
+ 
+(5)
+ 
+where  S
+ 
+is the satellite clock offset  S
+ 
+and  R
+ 
+is the receiver clock offset  R . A high stability
+ 
+atomic clock is generally used on board of the satellite, so  S
+ 
+is small and could be modeled by
+ 
+a polynomial with the coefficients being transmitted in the navigation message. However, the
+ 
+receiver clock offset  R
+ 
+is large and is treated as unknown to be estimated in the function:
+ 
+
+
+ 
+S  c  t
+ 
+
+GNSS
+ 
+ c  ( S  
+ 
+)    c  
+ 
+(6)
+ 
+where	is the true distance between satellite and receiver and its expressed by the vector in reference geocentric coordinate system as:
+
+ 
+ 
+ 
+(7)
+ 
+
+
+6.2	Phase Pseudorange Measurements
+
+
+Phase pseudo range is based on the measurements of phase difference between the received and generated signal  S at the receiver. The received carrier is Doppler shifted due to the motion of satellite (Hofmann-Wellenhof et al., 2001).
+ 
+In order to calculate the range using phase measurement, we have to add to  S
+ 
+the number of
+ 
+cycles between the satellite and the receiver, which is an ambiguous value and is often called ambiguity (N). By considering the initial phase errors of the satellite and receiver due to their clocks, the mathematical model of phase pseudo range can be expressed by:
+
+ 
+ S  N   f    f S  f
+ 
+ 
+(8)
+ 
+R	c	R
+
+ 
+If we rearrange the above equation and use    s and    S  
+ 
+, the it becomes similar
+ 
+to the code pseudo range equation, but with the additional the ambiguity value (N):
+
+ 
+      c      N
+ 
+(9)
+ 
+
+
+where  is the wave length.
+
+
+6.3	GNSS observable errors
+The code and phase measurements are affected by noise and errors due to the propagation of signals through atmospheric layers and due to the noise measurements. These errors can described briefly as below:
+ 
+1.	Satellite clock error: This can be modeled by the polynomial coefficients transmitted in the navigation message with respect to a reference time (e.g. GPS).
+ 
+ S  a
+ 
+ a1 (t  t0
+ 
+)  a2
+ 
+(t  t0 )
+ 
+(10)
+ 
+
+
+2.	Orbital error: This can be eliminated by differential positioning. Precise orbits could be obtained in near real time via Internet from the services centers such as International GNSS Service (IGS).
+
+3.	Ionospheric error: This error is modeled or eliminated by using the linear combination of two or multiple frequencies (Julien et al., 2004b). The relation between the ionospheric effect on the future GNSS (L5, L2 and L1 for GPS; E5a, E5b and E1 for GALILEO) using the triple frequency could be written as follows:
+1  1    c    1  N  I L1
+f 2
+ 
+2   2    c    2
+
+       c    
+ 
+ N   1  I
+2
+f 2
+ N   1  I
+ 
+
+ 
+(11)
+ 
+3	3	3
+ 
+2	L1
+3
+ 
+where, Ionosphere  I L1
+
+
+The effect of ionosphere on GNSS measurement is of special interest in solving the ambiguity number N (Liu and Lachapelle, 2002). Having multiple frequency can give more advantages for ionosphere models to estimate the first and second order effect of the ionosphere. Moreover, it allows more possibilities in ambiguity resolution process (Zhang, et al., 2003). Ionosphere could also be modeled using the ionospheric coefficient transmitted by the navigation message.
+
+4.	The troposphere: This consists of two layers: Wet layer (up to 10 km above the surface of ground), and dry layer from 10 to 40 km above the ground. Troposphere causes a delay in both the code and carrier observations. Since it is not frequency dependent, it cannot be canceled out by using dual frequency measurements but it can, however, be successfully modeled. Tropospheric models depend on empirical models by considering all values of temperature, pressure, relative humidity and mapping function. Examples of such models are the Hopfield, and Saastamoninen models.
+ 
+5.	Receiver clock error: This is due to using non-precise clock in the receiver (e.g. quartz clock), which causes offset and drift in the receiver clock and GNSS reference time. This error is treated as unknown in the pseudo range computations. The clock receiver error could be eliminated in double difference equation as shown in the follow section.
+
+6.	Multipath: This is caused by multiple reflections of the signals at the receiver or at the satellite due to multiple paths taken by the signal to arrive to the destination. The best way to reduce multipath phenomenon is to choose the site away from reflection surface (such as buildings, cars, trees, etc), and by appropriate antenna design. Carrier phase are less affected by multipath propagation than code ranges, because multipath is frequency dependent. The multipath error could reach to a one meter level. The elimination of multipath is possible by selecting an antenna that takes advantages of the signal polarization.
+
+6.4	GNSS Positioning Techniques
+There are two main types of positioning techniques in GNSS measurements: single point positioning and differential positioning.
+
+6.4.1	Single Point Positioning
+The basic concept of point position depends on the trilatration between the receiver and satellite. Range measurements from 4 satellites is needed to determine the four unknown X, Y, Z and receiver clock offset (  ). The analytical solution for receiver A and 4 satellites could be written as below :
+
+ 
+R1 (t) 
+R 2 (t) 
+R 2 (t) 
+R 4 (t) 
+ 
+ c  
+ c  
+ c  
+ c  
+ 
+
+
+(12)
+ 
+
+
+Generally, linearization respect to approximate position of the receiver is needed to resolve such model, where the range R is measured by the receiver and the coordinate of satellite is extracted
+ 
+from the navigation message. The unknowns in the above equation are X, Y, Z and the clock error  . In case of observing more than 4 satellites, the least square adjustment is performed to estimate the unknowns.
+Hence, coordinates of the receiver and time offset could be obtained directly in real time with one epoch measurement. Geometric information could be obtained from equation model as PDOP which indicates the quality of the solution with respect to satellite geometry. Bad satellite distribution give large PDOP. Due to un-modeled errors in pseudo range such as ionosphere, troposphere, and orbital errors, the accuracy level of absolute positioning is within 10 meter.
+
+6.4.2	Observable difference
+By considering all the systematic and random errors on the observation, we can write the math model for observable difference for code and phase measurements, respectively, as below:
+
+ 
+R1 (t
+ 
+)  1 (t
+ 
+)  1 (t
+ 
+)  c 1(t
+ 
+)  c
+ 
+A (t0
+ 
+)  I A
+ 
+ TA  
+ 
+(13)
+ 
+1 (t
+ 
+)   1 (t
+ 
+)   1 (t
+ 
+)  N 1  c 1 (t
+ 
+)  c
+ 
+
+A (t0
+ 
+)  I A
+ 
+ TA  
+ 
+(14)
+ 
+
+
+ 
+Where  S
+ 
+is the orbital error, I is the ionosphere error, T is the troposphere error and ε is the
+ 
+other types of noise and errors such as the ones due to multipath.
+
+
+Using two receivers A and B and satellite (1), we can perform Single Differences (SD). In SD the orbital error and satellite clock error are cancelled. By using two receivers and two satellites (1, 2), we can perform Double Differences (DD). In DD the clock receiver error is cancelled. By using two receivers, two satellites and two consequent epochs, we can perform Triple Differences (TD). In TD the ambiguity is cancelled.
+ 
+SD  1 (t)  1 (t)  1 (t)  1
+ 
+(t)	 N 1  c	(t )
+ 
+AB	B
+ 
+A	AB
+ 
+AB	AB  0
+ 
+DD  12 (t)  1 12 (t)  N 12
+ 
+ 
+(15)
+ 
+AB		AB	AB
+ 
+TD  12 (t
+ 
+)  1 12 (t )
+ 
+AB  12
+ 
+ 
+	AB  12
+ 
+As we see, most of systematic errors are cancelled or reduced with using the observable differences. Consequently, the accuracy of position computation will be improved after eliminating or reducing of these biases. Solution obtained in DD with ambiguity can provide a precision to the centimeteric level.
+
+6.4.3	Differential position
+There is an increase interest in differential positioning due to the numerous advantages of wireless communications and networks. Most of errors that affect GNSS are common between the receivers, which observe the same set of satellites (Leick, 2003; Hofmann-Wellenhof et al., 2001). Thus, by making differential measurement between two or more receivers, most of these errors could be cancelled.
+
+The basic concept of differential position is the calculation of position correction or range correction at the reference receiver and then sending this correction to the other receiver via radio link. This way most of errors are cancelled; see Fig.11. The transmitted correction could be of several types: the position or pseudo range correction, the carrier smoothed pseudo range correction, and the carrier phase correction. The mathematical model of DGNSS could be written as shown below. Two receivers are used, where receiver A is installed at known reference station and B is rover/moving receiver. Pseudo range at A is given by:
+As we see the orbital error is cancelled and the satellite clock error is eliminated. We can also transmit the phase correction to the rover receiver. In this case we have to add another unknown; the ambiguity N, to the equations. The phase range correction between the reference and the rover receiver when applying the same above procedure will be given by:
+
+ 
+1 (t)	 1 (t)  N1   c
+ 
+(t)
+ 
+(22)
+ 
+B	corr	B	AB	AB
+
+
+DGNSS with phase range correction is used for most precision Real-Time Kinematics (RTK). But the ambiguity should be resolved or fixed by using the On The Fly (OTF) techniques. In phase measurement technique the precision obtained will be at the centimeter level. Modeling the ionosphere and troposphere will eliminate or reduce the errors in DGNSS. This method gives more possibilities to obtain high accuracy in point positioning using one receiver.
+
+6.4.4	Wide Area Differential GNSS (WADGNSS)
+WADGNSS is a scheme that would allow the user to perform differential positioning and obtain reliable position with high accuracy in real time over a sizeable region. WADGNSS consists of a master control station and number of local or Global monitor stations and communication link.
+The monitor stations gather the data from GNSS satellite, then send them to the master control station. The master control estimates the ionosphere parameter, troposphere parameters, satellite ephemeredes and clock errors. All these corrections are transmitted to the user via the Internet, wireless communications or satellite communications.
+
+Depending on the distribution of the reference monitor stations and the accuracy of error modeling and communication capabilities, the accuracy of rover receiver could be in the range of 1 -3m. Centimeteric accuracy could be achieved by receiving phase correction and ambiguity fixing such as the RTK and Virtual Reference Station (VRS). Programs are already developed to send the GNSS corrections to the user to obtain a higher accuracy. As mentioned above, transmitting a phase correction with error models for ambiguity fixing will give centmetric precision for the rover receiver.
+Wireless communications and Internet have offered us with new possibilities to applied real time positioning to obtain centimetric precision using one receiver (Leick, 2003).
+
+The mathematical model of WADGNSS can be written by adding all the errors affected the satellite signals:
+ 
+ 1 (t
+ 
+)   1 (t
+ 
+)   1 (t
+ 
+)  N 1  c 1 (t
+ 
+)  c
+ 
+A (t0
+ 
+)  I A
+ 
+ TA
+ 
+(23)
+ 
+The most common Satellite-Based Augmentation System (SBAS) programs used in WADGNSS are: WAAS, EGNOS and MSAS (WAAS, 2002; GALILEO, 2003)
+
+Wide Area Augmentation System (WAAS)
+Wide Area Augmentation System (WAAS) is a new augmentation to the United States Department of Defense’s (DoD) Global Positioning System (GPS) that is designed to enhance the integrity and accuracy of the basic GPS capability.
+The WAAS uses geo-stationary satellites to receive data measured from many ground stations, and it sends information to GPS users for position correction. Since WAAS satellites are of the geo-stationary type, the Doppler frequency caused by their motion is very small. Thus, the signal transmitted by the WAAS can be used to calibrate the sampling frequency in a GPS receiver.
+The WAAS signal frequency is at 1575.42 MHz. The WAAS services will be available on both L1 and L5.
+
+GNSS-1 : EGNOS
+The European Geostationary Navigation Overlay Service (EGNOS) is being developed by European Space Agency (ESA), for the Safety of Air Navigation (Eurocontrol). EGNOS will complement the GNSS systems. It consists of three transponders installed in geostationary satellites and a ground network of 34 positioning stations and four control centers, all interconnected. EGNOS as WAAS broadcast the differential corrections to the GNSS users through Geo-stationary satellites, in the European region and beyond.
+
+MSAS
+ 
+Similar to the WAAS and EGNOS, the Japanese MTSAT Satellite-Based Augmentation System (MSAS) is used to send the differential correction for GNSS users; see Figure 12.
+
+
+7.	WIRELESS SYSTEMS AND GNSS APPLICATIONS.
+
+Wireless communication and network systems offer a new line of GNSS applications by sending the differential position corrections to the GNSS users. Other applications forced GNSS to be integrated with wireless communications, such as the third generation (3G) wireless mobile networks for RTK network (VRS). Other applications are also integrated with GIS and wireless communications such as LBS applications (emergency call and AVL).
+
+On the other hand, GNSS is used in digital communication networks to meet the requirement for precision timing synchronization and position information. Increased timing accuracy provides overall improvements in system performance in terms of quality and efficiency. The telecommunications infrastructure uses the GNSS signal as an integral and basic part of the system.
+GNSS could improve the communication capacity of networks, especially for the UMTS third- generation using Code Division Multiple Access (CDMA) techniques. A precise time- synchronization of the different base stations (the UMTS emitter-antennas) can significantly increase the traffic capability of the system.
+7.1	Timing and synchronization
+The characteristic of good telecommunications service is to be continuous and the transmission of information (transmission packet) should be of low error rate and noise. Such a good performance can be accomplished by using precise timing and efficient synchronization mechanisms. GNSS technology is frequently used for this purpose because the GNSS chip (actually GPS chip), has low cost and the timing information can be obtained easily from one satellite with high stability characteristics.
+All the clocks installed in the nodes of wireless networks should match or trace the Synchronization Standard established by The American National Standards Institute (ANSI) for
+-11
+performance of a primary reference source as 1x10	. The GNSS chip is relatively inexpensive.
+Naturally interference or jamming of GNSS signal could affect the timing synchronization in the telecommunications network, which consequently degrades telecommunications services (Omar and Rizos, 2003).
+
+7.2	GNSS and wireless network
+There are many types of wireless networks, cellular networks, Wireless Local Area Networks (WLAN) and multi-hop wireless networks for providing Internet services and control systems (Nicopolitidis et al., 2003). GNSS technology is not widely used in wireless networks for positioning of information since most protocols and algorithms in wireless networks do not use position information in their operation. Even though it is very advantageous for many applications such as providing Internet services for mobile users (cars, trains..etc) (Jain et al., 2001).
+Geographical Routing Algorithm (GRA) is generally used in wireless networks for packet destination between nodes without good knowledge of network topology. Using GNSS for location information and time synchronization will help to optimize packets’ routes to the destination between the nodes in the Ad hoc wireless network and increase the efficiency of services by selecting the closest nodes (shortest path).
+
+7.3	RTK Network
+RTK network concept is similar to the WADGNSS but the reference stations are generally distributed over a regional area and the network control center is responsible for transmitting the phase measurement correction to the GNSS user (rover receiver). Mobile wireless networks (GSM, GPRS, EDGE, CDMA2000 and UMTS) are generally used in this type of applications due to the need of duplex communication where the rover receiver should send initially the approximate position to the network processing center. The network processing center computes VRS observations and sends it to the user (Euler, 2005), see Figure 13. This scheme is commonly used in many systems worldwide due to its economic and precision advantages. The
+number of reference stations in the single RTK approach are 30 stations in 10,000 km2 , however, by using the RTK network, the reference stations could be reduced to 5 stations in the
+10,000 km2 area.
+
+7.4	Location Based Service (LBS)
+Location Based Services (LBSs) provide personalized services to the subscriber based on their current position. LBSs employ accurate, real-time positioning to connect users to nearby points
+of interest. LBS advises them of the current conditions such as traffic and weather, or provides routing and tracking information--all via wireless devices.
+Location of the caller is generally determined by various position determination techniques. These include Cell-ID, Enhanced Observed Time Difference (E-OTD), Observed Timed Difference of Arrival (OTDOA), Wireless Assisted GNSS (A-GNSS) and hybrid technologies (combining A-GNSS with other standard technologies).
+Positioning techniques based on the use of a GNSS or cellular network infrastructure itself is growing rapidly in the mobile-telephone community. There are many LBS projects already based on the combination of wireless communications (e.g., GMTS), satellite navigation (GNSS) and geographic information systems (GIS). Some of these projects are based on the Mobile Client / Server architecture (Lohnert et al., 2001).
+The LBS applications and needs could be divided into four main areas:
+1.	Information and navigation services: These services provide data directly to end-users, in particular destination location and criteria for trip optimization.
+2.	Emergency assistance: This type of service provides the location of mobile users in case of distress and need for assistance such as: E-911 in US and E-112 in Europe. GIS capabilities are essential in such services.
+3.	Tracking services: In genral, an AVL system consists of GNSS receiver integrated with GSM/GPRS module mounted on the vehicle, communication link between the vehicle and the dispatcher, and PC-based tracking software for dispatching (Figure 14) (Al- Bayari and Sadoun, 2005).
+4.	Network related services: Here knowledge of user position improves communication services. Location can be achieved by integrating a GNSS receiver in the mobile phone (handheld solution) or by using the communication network itself.
+LBS techniques based on GSM, GPRS and WCDMA (Wideband Code Division Multiple Access) networks alone don’t offer high accuracy. Moreover, GNSS alone is insufficient to maintain continuous positioning due to the inevitable difficulties caused by obstacles. When GNSS signals are blocked or lost, the precision of positioning will be minimized to unacceptable level. Hence, it is necessary to improve the accuracy and reliability of GNSS position.
+ 
+The accuracy of position determination could be improved by Differential GNSS (DGNSS), Dead Reckoning (DR), indoor GNSS, or integrating GNSS with the above mentioned schemes such as Cell-ID (Hybrid location technology).
+
+8.	CONCLUSION
+
+Global Navigation Satellite Systems (GNSS) technology has become vital to many applications that range from city planning engineering and zoning to military applications. It has been widely accepted globally by governments and organizations. That is why we expect to have very soon at least three GNSS systems: the USA GPS, European Galileo, and the Russian Glonass systems.
+There is a multibillion dollar investment in this field and intensive worldwide research activities. The impressive progress in wireless communications and networks has played a great role in increasing interest in GNSS and providing enabling methodologies and mechanisms. It is expected that all 3G and future generations of cellular phones will be equipped with GNSS chips. GNSS technology dominates the outdoor navigation, which provides accuracy to the range of few meters to 10 m in single point positioning technique or sub-meter to a few meter level in differential GNSS technique (DGNSS). Different techniques have been developed recently for
+indoor positioning. They offer either absolute or relative positioning capabilities with acceptable precision (Hightower and Borriello 2001). Combining these technologies with GNSS allows to provide a more reliable and robust location solution. Most common implementation of Hybrid technology for GSM, GPRS and WCDMA is to combine A-GNSS with Cell-ID.
+
+9.	GLOSSARY
+
+Ambiguity. Integer bias term, the initial bias in a carrier-phase observation of an arbitrary number of cycles. The unknown number of whole wavelengths of the carrier signal between a satellite and receiver at the beginning of tracking.
+
+Antispoofing (AS). This is the mechnaism of encrypting the P-code by W-code to produce a new Y-code, in order to prevent replication by potentially hostile forces
+
+Automatic Vehicle Location (AVL). The scheme that uses a navigation system, such as GPS, to find out a vehicle's position.
+
+Differential GPS (DGPS). A technique to minimize the error in GPS-derived positions by using extra data from a reference GPS receiver at a known location, in order to enhance the accuracy of measurements made by other GPS receivers within the same general geographic area
+
+Doppler Shift. The phenomenon caused when the signal transmitter and receiver are moving relative to one another. In such a situation, the frequency of the received signal will not be the same as that of the source. When they are moving towards each other, the frequency of the received signal is higher than that of the source, and when they are moving away form each other the frequency decreases.
+
+Earth Centered, Earth Fixed (ECEF). This is a Cartesian coordinate system that starts at the Earth's center of mass. The Z-axis is associated with the Earth's mean spin axis. The X-axis is aligned with the zero meridian. The Y-axis is 90 degrees west of the X-axis, making up a right- handed coordinate system.
+Ellipsoid. A mathematical demonstration of the Earth as an ellipse that is turned around its minor axis. This is usually used as a reference surface for geodetic surveying and navigation applications.
+
+Geostationary Satellites. Types of popular satellite systems that are usually launched at an orbit of about 35,863 km from the surface of the earth at the equator. At such orbit the rotational period of the earth is equal to that of the satellite.
+
+GNSS (Global Navigation Satellite System). A global navigation satellite system, which is made up a network of satellites that transmit ranging signals used for positioning and navigation anywhere around the globe as well as air or sea. Examples of such systems include the famous and oldest US Global Positioning System (GPS), the Russian GLObal NAvigation Satellite System (GLONASS) and the upcoming European GALILEO system.
+
+Location Based Services (LBS). A term used to distinguish the technique that establishes the location of caller by using various positioning schemes.
+
+Ionosphere. The portion of the earth’s external atmosphere where ionization caused by incoming solar radiation changes the propagation of radio waves. The ionosphere extends from about 70 kilometers to 1000 kilometers above the earth surface.
+
+On-the-Fly (OTF). A term used to characterize a scheme that resolves differential carrier-phase integer ambiguities without the need to have a GPS receiver stationary at any time
+
+Pseudorange. This refers to the calculated range from the GNSS receiver to the satellite found out by taking the difference between the measured satellite transmit time and the receiver time of measurement, and multiplying by the speed of light.
+Real-time kinematic (RTK). This refers to a DGNSS process where carrier-phase corrections are sent in real-time from a reference receiver at a known location to one or more remote rover/mobile receivers.
+
+Satellite-Based Augmentation System (SBAS). A geo-stationary satellite system that enhances the accuracy, integrity, and availability of the basic GNSS signals. Examples on such systems include WAAS, EGNOS, and MSAS.
+, Sept. 9-12), pp. 2599-2610.
+
 
 
 
