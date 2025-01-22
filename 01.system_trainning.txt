@@ -1,1 +1,1348 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+
+•	Define: [di’fain]: v: định nghĩa.
+•	Measurement: ['məʒəmənt]: n: sự đo lường, phép đo
+•	Relative: ['relətiv]: adj: liên quan đến, tương đối
+•	Position: [pə'zi∫n]: n: vị trí; lập trường, quan điểm
+•	Man made: do con người tạo ra, nhân tạo.
+•	Feature: ['fi:t∫ə]: n: điểm đặc trưng
+•	Surface: ['sə:fis]: n: bề mặt
+•	Presentation: [,prezen'tei∫n]: n: sự trình bày
+•	Graphically: ['græfikəli]: adv: bằng đồ thị
+•	Numerically: [nju:'merikəli]: bằng kĩ thuật số
+•	Distance: ['distəns]: n: khoảng cách
+•	Angle: ['æηgl]: n: góc
+•	Direction: [di'rek∫n]: n: hướng
+•	Location: [lou'kei∫n]: n: vị trí
+•	Elevation: [,eli'vei∫n]: độ cao
+•	Area: ['eəriə]: n: vùng; diện tích
+•	Volume: ['vɔlju:m]: n: thể tích
+•	Thus: [đʌs]: adv: theo cách đó, do vậy
+•	Determine [di’tə:min]: v: xác định, định rõ
+•	Portray: [pɔ:'trei]: v: miêu tả
+•	Construction: [kən'strʌk∫n]: n: sự xây dựng
+•	Profile: ['proufail]: n: tiểu sử, mặt cắt nghiêng, bản vẽ
+•	Cross-section ['krɔs'sek∫n]: n: mặt cắt ngang
+•	Diagram: ['daiəgræm]: n: biểu đồ
+•	Process ['prouses]: n: quy trình / v: gia công, xử lí
+•	Divide: [di'vaid]: v: chia ra
+•	Field-work: ['fi:ld,wə:kə]: n: công việc ngoại nghiệp
+•	Office-work: ['ɔfis,wə:kə]: n: công tác nội nghiệp
+•	Necessary ['nesisəri]: adj: cần thiết, thiết yếu
+•	Purpose: ['pə:pəs]: n: mục đích / v: có mục đích
+Surveying may be defined as the art of making measurement of the relative positions of natural and manmade features on the Earth’s surface, and the presentation of this information either graphically or numerically.
+Distances, angles, directions, locations, elevations, areas and volumes are thus determined from data of the survey. Also, much of the information of the survey is portrayed graphically or numerically by the construction of maps, profiles, cross-sections and diagrams.
+Thus, the process of surveying may be divided info the field-work of talking measurements and the office-work of computing and drawing necessary to the purpose of the survey.
+2.	Dịch:
+Công tác đo đạc được định nghĩa là một kỹ thuật tạo ra các trị đo vị trí tương hỗ của các điểm đặc trưng tự nhiên và nhân tạo trên bề mặt Trái đất, và sự biểu diễn những thông tin này thì bằng cả đồ họa và dạng số.
+Khoảng cách, góc, hướng, vị trí, độ cao, diện tích và thể tích có thể được xác định từ các dữ liệu đo đạc. Hầu hết các thông tin của việc đo đạc được thể hiện dưới dạng đồ họa hoặc dạng số bằng cách thành lập bản đồ, bản vẽ, mặt cắt, biểu đồ.
+Theo đó, quá trình đo đạc có thể được phân ra công tác ngoại nghiệp tạo ra trị đo và công việc nội nghiệp tính toán và vẽ các yếu tố cần thiết cho mục đích đo đạc.
+
+•	Establish: [is'tæbli∫]: v: thành lập, thiết lập
+•	Boundary: ['baundəri]: n: biên giới
+•	Project ['prədʒekt]: n: dự án
+•	Magnitude: ['mægnitju:d]: độ lớn
+•	Base on (upon) sth: dựa trên một cái j
+•	To greater or lesser: ít hay nhiều
+•	Aside [ə'said]: adv: sang một bên / pre: ngoài ra, trừ ra
+•	Assistance [ə'sistəns]: n: sự giúp đỡ
+•	Conception [kən'sep∫n]: n: quan niệm
+•	Execution [,eksi'kju:∫n]: n: sự thi hành, sự thực hiện
+•	Conduct ['kɔndʌkt]: v: hướng dẫn
+•	Variety [və'raiəti]: n: đa dạng
+ 
+•	Charting: [t∫ɑ:t]: n: biểu đồ / v: vẽ biểu đồ Charting of coast lines: bản đồ đường bờ biển
+•	Navigable: ['nævigəbl]: adj: có thể đi lại được
+NAVSTAR GPS:	Navigation	Satellite	Timing	And Ranging	Global Positioning System
+•	Stream: [stri:m]: n: suối
+•	Precise [pri'sais]: adj: chính xác
+•	Definite: ['definit]: adj: xác định, định rõ
+•	Reference ['refərəns]: n: sự tham khảo, sự chỉ dẫn
+•	Throughout: [θru:'aut]: pre: trải dài / adv: khắp nơi
+•	Valuable: ['væljuəbl]: adj: có giá trị
+•	Mineral: ['minərəl]: adj: thuộc về khoáng sản / n: khoáng sản
+•	Deposit: [di'pɔzit]: n: mỏ (khoáng sản)
+•	Concerning: [kən'sə:niη]: pre: liên quan đến
+•	Magnetism: ['mægnitizm]: n: từ tính, trường trọng lực
+•	Scattered: ['skætəd]: adj: rải rác
+•	Portion: ['pɔ:∫n]: n: phân chia
+•	Particularly: [pə,tikju'lærəli]: adv: một cách đặc biệt
+•	Regard: [ri'gɑ:d]: n, v: quan tâm, liên quan đến
+•	Obtain: [əb'tein]: v: thu được, giành được
+•	Property: ['prɔpəti]: n: sở hữu; của cải; thuộc tính, đặc tính
+2.	Bài đọc:
+The earliest surveys known were for the purpose of establishing the boundaries of land, and such surveys are still the important work of many surveyors.
+Every construction project of any magnitude is based to a greater of lesser degree upon measurements taken during the process of a survey and is constructed about lines and points established by the surveyor. Aside from land surveys, surveys are of assistance in the conception, design, and execution of engineering works.
+Surveys are conducted for a variety of purposes, such as the fixing of national and state boundaries, the charting of coast lines, and navigable streams and lakes, the precise location of definite reference points throughout the country, the collection of valuable facts concerning the Earth's magnetism at widely scattered stations, the mapping of certain
+ 
+portions of the country, particularly in the location of valuable mineral deposits, est.
+Summing up, surveys are divided into three classes:
+-	Those for the primary purpose of establishing the boundaries of landed properties,
+-	Those forming the basic of a study for or necessary to the construction of public and private works and
+-	Those of large extent and high precision conducted by the government. There is no hard and fast line of determination between surveys of one class and those of another, as regards of methods, employed, results obtained, or use of the data of the survey.
+3.	Dịch:
+Việc đo đạc sớm nhất được biết đến là nhằm phục vụ cho mục đích thiết lập ranh giới đất đai, và những công tác ấy vẫn là công việc quan trọng của những người trắc địa.
+Các dự án xây dựng ở bất kỳ mức độ nào, dù ít hay nhiều đều dựa trên việc tạo ra trị đo trong quá trình đo đạc và được xây dựng theo các đường hoặc điểm được lập bởi những người đo đạc. Ngoài đo đạc đất đai, trắc địa còn giúp lập các ý tưởng, thiết kế, và thực hiện các công trình xây dựng.
+Việc đo đạc được tiến hành cho nhiều mục đích, như việc xác định ranh giới quốc gia và khu vực, lập bản đồ đường bờ biển và những dòng suối và hồ nước có thể đi lại được, vị trí chính xác các điểm trải dài trên khắp cả nước, việc thu thập các dữ kiện có giá trị liên quan tới trường trọng lực của Trái đất tại các trạm phân bố rộng khắp, thành lập bản đồ từng khu vực của đất nước, đặc biệt ở vị trí các mỏ khoáng sản có giá trị, v.v
+Tóm lại, công tác đo đạc được chia thành ba phần chính:
+-	phục vụ mục đích chính là phân biệt ranh giới, đặc tính của các thửa
+đất.
+-	Tạo ra các nền tảng cho việc nghiên cứu hoặc sự cần thiết cho xây
+dựng các công trình công cộng và cá nhân
+-	Đo đạc trong phạm vi lớn và độ chính xác cao được tiến hành bởi chính phủ.
+ 
+Không có ranh giới rõ ràng giữa việc đo đạc trong các lớp và từng lớp một, mà phương pháp, công việc, kết quả thu nhận, hoặc sử dụng các dữ liệu của việc đo đạc .
+
+1.1.	PLANE SURVEYING: TRẮC ĐỊA ĐỊA HÌNH
+1.	Từ mới:
+•	Considerd: [kən'sidə]: v: xem xét đến
+Considered as = taken into account as = taken into consideration as
+•	Spheroidal: [sfiə'rɔidl]: adj: có dạng hình cầu
+•	Shape [∫eip]: hình dạng, khuôn mẫu / v: định hướng
+•	Neglect: [ni'glekt]: n: sự sao lãng, không chú ý / v: sao lãng, không chú ý
+•	Horizontal: [,hɔri'zɔntl]: adj: thuộc chân trời; nằm ngang, ngang / n: đường nằm ngang
+•	Mathematical: [,mæθə'mætikl]: adj: (thuộc) toán học
+•	Straight: [streit]: adj: thẳng
+•	Plumb: [plʌm]: n: quả dọi
+•	Within: [wi'đin]: pre: trong vòng, trong khoảng thời gian
+•	Parallel: ['pærəlel]: adj: song song
+•	Polygon: ['pɔligən]: n: đa giác
+•	Level line: đường chuẩn
+•	Canal: [kə'næl]: v: kênh
+•	Except: [ik'sept]: v: trừ ra, loại ra
+2.	Bài đọc:
+That type of surveying in which the mean surface of the Earth is considered as a plane, or in which its spheroidal shape is neglected, is generally defined as plane surveying. With regard to horizontal distances and directions, a level line is considered as mathematically straight, the direction of the plumb line at any point within the limits of the survey is considered as parallel to the direction of the plumb line at any other point, and the angles of polygons are considered as the plane angles.
+Surveys for the location and construction to highways, railroads, canals, and, in general, the surveys necessary for the works of man are plane surveys, as are also the surveys made for the purpose of establishing boundaries, except state and national.
+3.	Dịch:
+ 
+Loại đo đạc mà trong đó coi bề mặt trung bình của trái đất như 1 mặt phẳng, hoặc hình dạng mặt cầu bị bỏ qua, thường được định nghĩa là trắc địa phổ thông. Đối với khoảng cách ngang và hướng, một đường chuẩn được coi như 1 đường thẳng toán học, hướng đường dây dọi tại bất kỳ một điểm với giới hạn đo đạc thì được coi là song song với đường dậy dọi tại bất kỳ một điểm khác, và góc của đa giác được coi là góc phẳng.
+Việc đo đạc để xác định vị trí và xây dựng các đường cao tốc, đường sắt, kênh mương và, nói chung, việc đo đạc cần thiết cho hoạt động của con người thì được gọi là trắc địa phổ thông, cũng như việc đo đạc được thực hiện cho mục đích phân biệt ranh giới, ngoại trừ ranh giới khu vực và quốc gia.
+
+1.2.	GEODETIC SURVEYING: TRẮC ĐỊA CAO CẤP
+1.	Từ mới:
+•	Geodetic [,dʒi:ou'detik]: Geodetic Surveying: Trắc Địa Cao cấp
+•	Branch: [brɑ:nt∫]: n: nhánh, chi nhánh / v: phân nhánh
+•	Distinguish [dis'tiηgwi∫]: v: phân biệt, chỉ ra sự khác biệt
+•	Technique: [tek'ni:k]: n : kĩ thuật, công nghệ
+•	Involve [in'vɔlv]: v: bao gồm
+•	Curvature ['kə:vət∫ə]: n: độ cong, sự uốn cong
+•	Explain [iks'plein]: v: giảng giải, giải thích
+•	Framework ['freimwə:k]: n: khung, sườn; lưới cơ sở
+•	Angular: ['æηgjulə]: adj: (thuộc)góc, có góc cạnh
+•	Task [tɑ:sk]: n: nhiệm vụ, công việc / v: giao nhiệm vụ
+•	Include [in'klu:d]: v: bao gồm
+•	Positional [pə'zi∫ənəl]: (thuộc) vị trí
+Global positioning system: GPS: hệ thống định vị toàn cầu
+•	Transmission [trænz'mi∫n]: n: sự truyền, sự phát
+•	Satellite ['sætəlait]: n: vệ tinh
+•	Co-ordinate [kou'ɔ:dineit]: n: tọa độ
+•	Accuracy ['ækjurəsi]: n: độ chính xác
+•	Hence [hens]: adv: kể từ đấy; do đó
+2.	Bài đọc:
+Geodetic surveying is actually branch of surveying distinguished both by use and technique. In geodetic surveying large areas of the Earth’s surface are involved and the curvature of the Earth must be taken into
+ 
+account. As will be explained shortly, framework of angular and distance measurements between points are necessary to control all surveys and when surveying large areas, such as a whole country, the measurements must be taken to the highest possible standard. Modern methods for this task include global positioning system which use transmissions from satellites to obtain the three dimensional co-ordinates of any point on the Earth’s surface to a high degree of accuracy. The study of the size and shape of the Earth and its gravity field is known as geodesy, hence the name of this type of surveying.
+3.	Dịch:
+Trắc địa cao cấp thực tế là một nhánh của trắc địa, được phân biệt ở ứng dụng và kỹ thuật. Trong trắc địa cao cấp, các bề mặt rộng lớn trên trái đất có liên quan và độ cong trái đất phải được tính đến. Giải thích một cách ngắn gọn, lưới khống chế đo góc và các trị đo cạnh giữa các điểm là cần thiết cho việc tiến hành công tác đo đạc và đo đạc trong phạm vi rộng lớn, như là một quốc gia, thì các trị đo phải được đưa về tiêu chuẩn độ chính xác cao nhất có thể. Phương pháp hiện đại cho công việc này bao gồm hệ thống định vị toàn cầu trong đó sự truyền tín hiệu từ vệ tinh nhân tạo để thu nhận được tọa độ ba chiều của bất kì điểm nào trên mặt đất với độ chính xác cao. Việc nghiên cứu hình dạng và kích thước trái đất và trường trọng lực của nó được biết đến là trắc địa cao cấp, do đó loại hình này cũng gọi là trắc địa.
+
+
+
+
+
+
+EXERCISE:
+1.	How can surveying be defined?
+Surveying may be defined as the art of making measurement of the relative positions of natural and manmade features on the Earth’s surface, and the presentation of this information either graphically or numerically.
+2.	How is much of the information of the survey portrayed?
+ 
+Much of the information of the survey is portrayed graphically or numerically by the construction of maps, profiles, cross-section, and diagrams.
+3.	How many the process of surveying be divided?
+The process of surveying may be divided info the field-work of talking measurements and the office-work of computing and drawing necessary to the purpose of the survey.
+4.	What was the purpose of the earliest surveys?
+The earliest surveys known were for the purpose of establishing the boundaries of land.
+5.	Why must every construction project be based on surveys?
+Because surveys are assistance in the conception, design, and execution of engineering works.
+6.	What can you say about the level line, the direction of a plumb line and the angles of polygons in plane surveying?
+In plane surveying, a level line is considered as mathematically straight, the direction of the plumb line at any point within the limits of the survey is considered as parallel to the direction of the plumb line at any other point, and the angles of polygons are considered as the plane angles.
+7.	Where are plan surveys employed?
+Plane surveys are employed for the location and construction to highways, railroads, canals, and, in general, the surveys necessary for the works of man are plane surveys, as are also the surveys made for the purpose of establishing boundaries, except state and national.
+8.	In plane surveying, how is the Earth’s surface assumed to be? Why?
+In plane surveying, the Earth’s surface assumed to be a plane, because it’s conducted in a small area of the Earth’s surface.
+9.	What must be taken into account in geodesy surveying? Why?
+In geodetic surveying, the curvature of the Earth must be taken into account because large areas of the Earth’s surface are involved
+10.	What do modern methods in geodesy surveying include?
+Modern method for this task include global positional system which us transmissions from satellites to obtain the three dimensional co-ordinates of any point on the Earth’s surface to a high degree of accuracy.
+ 
+Lesson 2: TRIANGULATION
+2.1.	INTRODUCTION:
+1.	Từ mới:
+•	Triangulation: [trai,æηgju'lei∫n]: n: lưới tam giác
+•	Triangle: ['traiæηgl]: n: hình tam giác
+•	Extensive: [iks'tensiv]: adj: rộng về diện tích; kéo dài ra xa
+•	Means: [mi:nz]: n: phương tiện, cách thức
+•	Topographic:	[,tɔpə'græfik]: adj: Cách viết khác: topographical  [,tɔpə'græfikl]: (thuộc) phép đo vẽ địa hình, thuộc về địa hình
+•	Similar: ['similə]: adj: giống nhau, như nhau, tương tự, cùng loại, cùng hình dáng
+•	Adjacent: [ə'dʒeisnt]: adj: gần kề, kế liền, sát ngay
+•	Vertex (pl. vertices, vertexes): ['və:teks]: n: đỉnh, chỏm, chóp, ngọn, điểm cao nhất
+•	Avoid: [ə'vɔid]: v: tránh, tránh xa, ngăn ngừa
+•	Absolute: ['æbsəlu:t]: adj: tuyệt đối, hoàn toàn; thuần tuý, nguyên chất
+•	Unavoidable: [,ʌnə'vɔidəbl]: adj: không thể tránh được; tất yếu
+•	Desirable: [di'zaiərəbl]: adj: mong muốn, ao ước
+•	Arrangement: [ə'reindʒmənt]: n: sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt
+•	Afford: [ə'fɔ:d]: v: có thể, có đủ sức, có đủ khả năng, có đủ điều kiện / tạo cho, cấp cho, ban cho
+•	Geometrical: [dʒiə'metrikəl] / Figure: ['figə] Geometrical Figure: đồ hình
+•	Theoretical: [,θiə'retikl]: adj: (thuộc) lý thuyết; có tính chất lý thuyết
+•	Proportional: [prə'pɔ:∫ənl]: adj: (proportional to something) tương ứng về cỡ, số lượng hoặc mức độ (với cái gì); có tỷ lệ đúng; cân xứng
+•	Opposite: ['ɔpəzit]: adj: (opposite to somebody / something) đối nhau, ngược nhau, ngược lại
+•	Condition: [kən'di∫n]: n: điều kiện
+•	Adjust: [ə'dʒʌst]: v: đặt lại cho đúng vị trí hoặc trật tự; điều chỉnh
+•	Adjusting: bình sai
+•	Secure: [si'kjuə]: adj: (secure about something) không có cảm giác lo âu, nghi ngờ; an tâm; yên tâm; bảo đảm
+ 
+•	Probable: ['prɔbəbl]: adj: có thể xảy ra hoặc có thể là như thế; chắc hẳn
+•	Quantity: ['kwɔntəti]: n: lượng, số lượng, khối lượng
+•	Procedure: [prə'si:dʒə]: n: thủ tục
+•	Permit: ['pə:mit]: n: giấy phép
+•	Application: [,æpli'kei∫n]: n: sự gắn vào, sự áp vào / sự áp dụng
+•	Therefore: ['đeəfɔ:]: adv: bởi vậy, cho nên, vì thế, vậy thì
+•	Customary: ['kʌstəməri]: adj: theo phong tục thông thường
+•	Rather: ['rɑ:đə]: adv: đúng hơn, hơn là
+•	Require: [ri'kwaiə]: v: phụ thuộc vào ai/cái gì để đạt được kết quả; cần đến
+•	Characteristic: [,kæriktə'ristik]: adj: (characteristic of sb/sth) cấu thành bộ phận của tính cách một người; tiêu biểu
+•	Additional: [ə'di∫ənl]: adj: cộng thêm; thêm vào
+•	Redundant: [ri'dʌndənt]: adj: thừa, dư Additional (Redundant): trị đo thừa
+•	Improve: [im'pru:v]: v: cải tiến, cải thiện, cải tạo
+2.	Bài đọc:
+Triangulation is employed extensively as a means of control for topographic and similar surveys. A triangulation system consists of a series of triangles in which one or more sides of each triangle are also sides of adjacent triangles. The lines of a triangulation system form a network tying together the points or stations at which the angles are measured. The vertices of the triangles are the triangulation stations.
+By the use of the triangulation method, the necessity of measuring the length of every line is avoided. If it was possible to measure one side and all the angles in a triangulation system with absolute precision, no further linear measurements would be necessary. Unavoidable errors in the field measurements, however, make it desirable the lengths of two or more lines in each system be measured as a means of checking the computed distances. The lines whose lengths are measured are called based lines.
+The arrangement of the triangles in most system affords many different geometrical figures for each of which the theoretical value of the sum of the included angles is known. Also, the sum of the angles about any station should equal 3600, and in any triangle the lengths of the sides should be proportional to the sines of the angles opposite. There known
+ 
+conditions serve as a measure of the precision of the angle measurements and as a means of adjusting the errors so as to secure the most probable values of the measured quantities.
+It is not necessary that every angle in a triangulation system be measured; the third can be readily computed. This procedure, however, does not permit the application of the known conditions as a measure of the precision of the measurements, or as a means of adjusting the errors. Therefore, it is customary to measure all angles. If all angles were measured, rather more information would be available than required, but it is characteristic of these surveys that additional (or redundant) measurements are taken both to check the data and by adjustments to improve the precision of the final results.
+3.	Dịch:
+Lưới tam giác được thực hiện rộng rãi như một phương tiện để khống chế địa hình và công tác đo đạc tương tự. Một mạng lưới tam giác gồm có 1 chuỗi tam giác thì ở đó, một hay nhiều cạnh của tam giác cũng là cạnh của các tam giác liền kề. Các cạnh của một hệ thống lưới tam giác tạo thành một mạng lưới liên kết với nhau ở các điểm và trạm máy, mà ở đó các góc đều được đo. Các đỉnh của hình tam giác là các trạm máy của lưới tam giác.
+Bằng việc sử dụng phương pháp lưới tam giác, không cần thiết phải đo chiều dài của tất cả các cạnh. Nếu có thể đo 1 cạnh và tất cả các góc trong lưới tam giác với độ chính xác tuyệt đối, thì việc đo thêm chiều dài các cạnh là không cần thiết. Việc đo đạc ngoài thực địa không thể tránh khỏi sai số, tuy nhiên, làm cho nó thỏa mãn chiều dài của 2 hay nhiều cạnh hơn trong mỗi hệ thống được đo đạc là phương pháp để kiểm tra độ dài tính toán. Những cạnh có chiều dài được đo thì được gọi là cạnh đáy.
+Sự sắp xếp của các tam giác trong hầu hết các mạng lưới có thể tạo ra sự khác nhau rất nhiều về đồ hình, với mỗi tam giác trong đồ hình thì tổng lý thuyết của tất cả các góc bên trong là cố định. Cũng như vậy, tổng các góc xung quanh bất kì trạm nào phải bằng 360 độ, và trong mỗi tam giác, chiều dài các cạnh phải tỉ lệ thuận với sin của góc đối diện. Việc thỏa mãn các điều kiện đã biết đó phục vụ đánh giá độ chính xác đo góc và như là 1 phương pháp bình sai các sai số để cho đạt được kết quả xác suất của nhiều trị đo.
+ 
+Không cần thiết phải đo tất cả các góc trong mạng lưới tam giác, góc thứ 3 có thể được tính toán ra một cách dễ dàng. Thủ tục trên, tuy nhiên, không thể cho phép áp dụng các điều kiện đã biết trong việc tính toán độ chính xác của các trị đo, hoặc như một phương pháp để bình sai các sai số. Vì thế, người ta thường đo tất cả các góc. Nếu tất cả các góc đều được đo, ta sẽ biết nhiều thông tin hơn yêu cầu, nhưng nó là đặc trưng cho trắc địa, cái mà các trị đo thừa đều được thực hiện để kiểm tra các trị đo và bình sai để tăng độ chính xác của kết quả cuối cùng.
+
+2.2.	BASE NETS:
+1.	Từ mới:
+•	Proper ['prɔpə]: adj: thích hợp, thích đáng.
+•	Obviously ['ɒbviəsli]: adj: rõ ràng; hiển nhiên
+•	Economical: [,i:kə'nɔmikəl]: adj: tiết kiệm, kinh tế
+•	Average: ['ævəridʒ]: n; adj; v: trung bình
+•	Attention: [ə'ten∫n]: n: sự chú ý
+•	Excellent: ['eksələnt]: adj: xuất sắc, ưu tú
+•	Expansion: [iks'pæn∫n]: n: sự mở rộng, sự bành trướng, sự phát triển.
+•	Satisfactory [,sætis'fæktəri]: adj: vừa ý; thoả đáng
+•	Lay out ['leiaut]: n: cách bố trí, cách trình bày; sự sắp đặt
+•	Scheme: [ski:m]: n: sự sắp xếp theo hệ thống; sự phối hợp / v: mưu đồ, bố trí
+•	Discuss: [dis'kʌs]: v: thảo luận
+•	EDM: Electronic Distance Measurement: đo chiều dài điện tử.
+•	Instrument: ['instrumənt]: n: dụng cụ; công cụ
+•	Aid: [eid]: n: sự giúp đỡ, sự cứu giúp, sự viện trợ/phương tiện trợ giúp
+•	Restrict: [ri'strikt]: v: hạn chế, giới hạn
+•	Brace: [breis]: n:
+•	Quadrilateral: [,kwɔdri'lætərəl]: adj: có bốn cạnh, tứ giác/ n: hình tứ giác
+•	Thereby: [,đeə'bai]: adv: bằng cách ấy, theo cách ấy; do đó
+•	Trilateration: [trailætə'rei∫n]: n: phép đo ba cạnh tam giác
+•	Framework: ['freimwə:k]: n: lưới cơ sở
+•	Trilateration framework: lưới tam giác đo cạnh
+ 
+•	Convention: [kən'ven∫n]: n: hội nghị, sự triệu tập/ quy ước
+2.	Bài đọc:
+In a system of triangulation, long sides (within proper limits) are obviously more economical than short ones. It is difficult and expensive to measure long base lines; hence, in practice, the base lines are usually much shorter than the average length of the triangle sides. This condition necessitates the most careful attentions to the location of the base lines and the immediately adjacent stations. The figure formed by this group of stations is called the base net and is formed so as to permit economical lengths of triangles sides to be used with a minimum less in the precision of the measured base line.
+The figure 2.1.a is an example of an excellent base net affording quick and accurate expansion of the base line to the longer sides of the system. The form of base net show in the figure 2.1.b is satisfactory if it can be so laid out as to avoid the small angular.
+
+Figure 2.1: Base Nets
+Scheme of the simple design discussed so far are extremely useful when EDM instruments and calculating aids are not available because distance measurement and calculation can be kept to a minimum. However, when EDM equipment is available then more than one distance would be measured and the layout of the control scheme would not be restricted to braced quadrilaterals and centre-point polygons. In fact, we could measure lengths only, thereby producing a trilateration framework.
+Most modern control scheme involved both angular measurement and the measurement of selected, or all, sides and so should no be called simply triangulation or trilateration surveys, by convention, the name triangulation generally applies.
+3.	Dịch:
+ 
+Trong một mạng lưới tam giác, các cạnh dài (trong giới hạn cụ thể) rõ ràng là kinh tế hơn so với cạnh ngắn. Đo cạnh đáy dài thì khó và đắt tiền, do đó, trong thực tiễn, cạnh đáy thường ngắn hơn nhiều so với độ dài trung bình của cạnh tam giác. Điều kiện này đòi hỏi phải chú ý tới vị trí của cạnh đáy và các trạm liền kề một cách cẩn thận nhất. Đồ hình được thành lập bởi tập hợp các trạm thì được gọi là mạng lưới cơ sở, và nó được thành lập để đạt được độ dài cạnh được sử dụng hợp lí về kinh tế với độ chính xác thấp nhất của các cạnh đáy được đo.
+Hình 2.1.a là một ví dụ về một mạng lưới điển hình cho phép mở rộng một cách nhanh chóng và chính xác của cạnh đáy từ những cạnh dài hơn của mạng lưới. Sự Hình dạng mạng lưới cơ sở biểu diễn ở hình 2.1.b là thỏa mãn nếu nó có thể được sắp đặt để tránh được các góc nhỏ.
+
+Hình 2.1. Mạng lưới gốc.
+Đồ hình thiết kế đơn giản được thảo luận ở trên là vô cùng hữu ích khi mà không có các thiết bị đo chiều dài điện tử và sự giúp đỡ của máy tính, bởi trị đo chiều dài và tính toán có thể được hạn chế ở mứ thấp nhất. Tuy nhiên, khi thiết bị đo chiều dài điện tử được sử dụng thì nhiều khoảng cách có thể được đo và việc bố trí đồ hình khống chế sẽ không bị hạn chế ở dạng tứ giác trắc địa và đa giác trung tâm. Trên thực tế, ta có thể chỉ đo chiều dài, bằng cách ấy, tạo ra một lưới tam giác đo cạnh.
+Phần lớn sơ đồ khống chế hiện đại bao gồm cả đo góc và đo có chọn lọc, hay tất cả, các cạnh và như vậy không nên gọi một cách đơn giản là lưới tam giác đo cạnh, nhưng theo quy ước, tên lưới tam giác nhìn chung vẫn được chấp nhận.
+
+2.3.	CHOICE OF STATIONS:
+1.	Từ mới:
+•	Cover: ['kʌvə]: n: vỏ, vỏ bọc / v: che phủ, bao bọc
+•	Suitable: ['su:təbl]: adj: (suitable for / to something / somebody) phù hợp; thích hợp
+ 
+•	Exist: [ig'zist]: v: (to exist in / on something) là có thật hoặc thực sự; đã sống; tồn tại
+•	Contour: ['kɔntuə]: n: đường đồng mức
+•	Visualize: ['vi∫uəlaiz]: v
+Cách viết khác : visualise ['vi∫uəlaiz]: hình dung, mường tượng (vật không thấy trước mắt)
+•	Consideration: [kən,sidə'rei∫n]: n: sự cân nhắc, sự suy xét
+•	Summarize: ['sʌməraiz]: v
+Cách viết khác : summarise ['sʌməraiz]: tóm tắt; tổng kết
+•	Visible: ['vizəbl]: adj: hữu hình, thấy được, có thể nhìn thấy, có thể thấy; trong tầm mắt
+•	Ray: [rei]: n: tia
+•	Obstacle: ['ɒbstəkl]: n: sự cản trở, sự trở ngại, chướng ngại vật; vật trở ngại
+•	Refract: [ri'frækt]: v: (vật lý) khúc xạ (ánh sáng), hiện tượng chiết quang.
+•	Due: [dju:]: n: quyền được hưởng; cái được hưởng
+•	Equilateral: [,i:kwi'lætərəl]: adj: (nói về hình) có các cạnh bằng nhau
+/ đều nhau
+•	Sufficient:: [sə'fi∫nt]: adj: (sufficient for somebody / something) đủ
+•	Observation: [,ɑbzə'vei∫n]: n: sự quan sát, sự theo dõi
+•	Provide: [prə'vaid]: v: (to provide somebody with something; to provide something for somebody) cung cấp; cung ứng
+•	Configuration: [kən,figju'rei∫n]: n: hình thể, hình dạng
+•	Compatible: [kəm'pætəbl]: adj: hợp nhau, tương hợp
+•	Distinct: [dis'tiηkt]: adj: riêng, riêng biệt; khác biệt
+•	Bisection: [bai'sek∫n]: n: sự chia đôi, sự cắt đôi
+•	Theodolite: [θi'ɔdəlait]: n: máy kinh vĩ
+2.	Bài đọc:
+The area to be covered by a triangulation scheme must be carefully reconnoitred to select the most suitable positions for the control stations. Existing maps, especially if contoured, can be of great value since the size and shape of the triangles formed by the stations can be difficult to visualize in the field.
+When planning the scheme, certain considerations should be kept in mind, which may be summarized as follows:
+ 
+a, Every station should be visible from the adjacent stations. Rays passing close to either the ground or to an obstacle should be avoided since they can be refracted due to air temperature diffirences.
+b, The triangles formed thereby should be well-conditioned, that it to say, as nearly equilateral as possible. No angles should be less than 300, if at all possible. That scheme should be kept as simple as possible, but with sufficient redundant observations to provide the necessary checks and to increase precision.
+c, The size of the triangles will depend on the configuration of the land, but they should normally be as large as possible compatible with the distinct bisection of signals, having regard to the type of the theodolite used.
+3.	Dịch:
+Khu vực được bao phủ bởi đồ hình lưới tam giác cần phải được khảo sát một cách cẩn thận để chọn được những vị trí thích hợp nhất cho các trạm khống chế. Từ bản đồ có sẵn, đặc biệt là đường đồng mức, có thể có giá trị lớn do kích thước và hình dạng của tam giác được tạo bởi các trạm máy khó có thể nhìn thấy ngoài thực địa.
+Khi bố trí đồ hình, chắc chắn là những vấn đề cần phải được quan tâm mà có thể được tổng kết như sau:
+a, Mọi trạm máy nên được thông hướng với các trạm liền kề. Các tia ngắm không quá gần mặt đất hay qua chướng ngại vật bởi chúng có thể bị ảnh hưởng bởi chiết quang do nhiệt độ không khí khác nhau.
+b, Hình thức của tam giác do đó nên được thành lập với điều kiện phù hợp, có nghĩa là, các cạnh gần như đều nhau đến mức có thể. Các góc không nên nhỏ hơn 300, nếu tất cả có thể. Đồ hình nên đơn giản, nhưng cần cung cấp trị đo thừa cho việc kiểm tra điều kiện và để tăng độ chính xác.
+c, Độ lớn của tam giác sẽ được quyết định dựa vào hình dạng của khu vực đo, tuy nhiên, chúng nên càng lớn ở mức độ có thể càng tốt, tương ứng với tiêu ngắm của máy kinh vĩ, liên quan đến loại máy kinh vĩ mà ta sử dụng.
+EXERCISE:
+1.	Where is triangulation employed?
+Triangulation is employed extensively as a means of control for topographic and similar surveys.
+ 
+2.	What does a triangulation system consist of?
+A triangulation system consists of a series of triangles in which one or more sides of each triangle are also sides of adjacent triangles.
+3.	What do the lines of a triangulation system form?
+The lines of a triangulation system form a network tying together the points or stations at which the angles are measurement.
+4.	Where are the triangulation stations located?
+The vertices of the triangles are the triangulation stations.
+5.	What is avoided by the use of the triangulation method?
+By the use of the triangulation method, the necessity of measuring the length of every line is avoided.
+6.	Why should the lengths of the two or more lines in each system be measured?
+Because unavoidable errors in the field measurement, so the lengths of the two or more lines in each system should be measured as a means of checking the computed distances.
+7.	How are the lines whose lengths are measured called?
+The lines whose lengths are measured are called based lines.
+8.	What is known in geometrical figure offorded by the arrangement of the triangles?
+The theoretical value of the sum of included angles is known.
+9.	What should the lengths of the sides in any triangle be proportional to?
+The lengths of the sides in any triangle should be proprotional to the sines of the angles opposite.
+10.	Why is it not necessary to measure every angle in a triangulation system?
+Because the third can be readily computed.
+11.	Why are all the angles measured?
+Because measure all angles permit the application of the known conditions as a measure of the precision of the measurements, or as a means of adjusting the errors.
+12.	When planning the scheme, what should one keep in mind?
+When planning the scheme, certain considerations should be kept in mind, which may be summarized as follows:
+ 
+a, Every stations should be visible from the adjacent stations. Rays passing close to either the ground or to an obstacle should be avoided since they can be refracted due to air temperature diffirence.
+b, The triangles formed thereby should be well-conditioned, that it to say, as nearly equilateral as possible. No angles should be less than 300, if at all possible. That scheme should be kept as simple as possible, but with sufficient redundant observations to provide the necessary checks and to increase precision.
+c, The size of the triangles will depend on the configuration of the land, but they should normally be as large as possible compatible with the distinct bisection of signals, having regard to the type of the theodolite used.
+ 
+LESSON 3: MEASUREMENT OF DISTANCE.
+
+3.1.	DISTANCE:
+1.	Từ mới
+•	Reduce: [ri'dju:s]: v: đổi, biến đổi (sang một trạng thái, hình thức đơn giản hơn, kém hơn)
+•	Equivalent: [i'kwivələnt]: adj: tương đương / n: vật tương đương, từ tương đương
+•	Slope: [sloup]: n: dốc, đường dốc, chỗ dốc; độ dốc / v: nghiêng, dốc
+•	Projection: [prə'dʒek∫n]: n: sự chiếu, sự được chiếu; sự hiện hình, sự hình thành cụ thể (một ý nghĩ, một hình ảnh trong trí óc)
+•	Plot: [plɔt]: n: âm mưu; mưu đồ/ v: vẽ sơ đồ, vẽ đồ thị, vẽ biểu đồ, dựng đồ án (một công trình xây dựng...); đánh dấu (cái gì) trên hải đồ, biểu đồ; vẽ đường đồ thị
+•	Plotting map: Vẽ bản đồ.
+2.	Bài đọc:
+In surveying, the distance between two points is understood to mean the horizontal distance, regardless of the relative elevation of the points. In geodetic surveying, horizontal distances are reduced to the equivalent at sea level, but in plane surveying such reductions are unnecessary. Though frequently slope distances are measured, they are reduced to there equivalent on the horizontal projection for use in plotting maps, calculating land areas, ect.
+3.	Dịch:
+Trong đo đạc, khoảng cách giữa hai điểm được hiểu có nghĩa là khoảng cách ngang, không quan tâm tới chênh cao giữa các điểm. Trong trắc địa cao cấp, khoảng cách ngang phải được tính chuyển về giá trị tương ứng so với mực nước biển, nhưng trong trắc địa phổ thông, việc quy chuyển là không cần thiết. Mặc dù khoảng cách nghiêng thường xuyên được đo, người ta vẫn đưa trị đo này về mặt chiếu ngang, để sử dụng trong việc vẽ bản đồ, tính toán diện tích đất, v.v.
+
+3.2.	DIRECT METHOD:
+1.	Từ mới
+•	Represent: [,repri'zent]: v: miêu tả, hình dung / trình bày
+•	Pin: [pin]: n: ghim sắt (để đánh dấu trong quá trình đo thước thép)
+ 
+•	Interval: ['intəvəl]: n: thời gian giữa hai sự kiện; khoảng thời gian / khoảng không gian giữa hai hoặc nhiều vật
+•	Head Chainman: người đi đầu (trong nhóm đo thước thép)
+•	Follower: người đi theo.
+•	Hold: [hould]: n: sự cầm, sự nắm giữ, sự nắm chặt; vật để nắm lấy; vật đỡ; chỗ dựa / v: cầm, nắm, giữ, nắm giữ, giữ vững
+•	Tape: [teip]: n: dây, dải (để gói, buộc, viền); băng / v: buộc; đo bằng thước dây
+2.	Bài đọc:
+Figure 3.2 represents the profile of a line to be measured in the direction of A to D, and A is a pin marking the point of beginning of a 20m interval. The head chainman goes forward until the 0m mark is at A, where the follower is stationed. The head chainman holds the tape horizontal and plumbs from the 20m mark to set a pin at B. The follower gives the head chainman a pin and holds the 0m mark at B. The head chainman plumbs from the 20m mark and sets a pin at C. The follower gives the head chainman a pin and holds the 0m mark at C. The head chainman plumbs from the tape reading at D at the end of the measured length. The measure distance is:
+AD = n x 20m + R = 2 x 20m +12.35 AD = 52.35 m
+
+Figure 3.2
+
+3.	Dịch:
+Hình 3.2 miêu tả hình vẽ của một đường thẳng được đo từ hướng A tới hướng D, và A là một ghim sắt đánh dấu điểm bắt đầu một đoạn 20m. Người đi đầu tiến về phía trước cho đến khi vạch 0m nằm tại A, nơi người đi theo đứng lại tại đó. Người đi trước giữ thước nằm ngang và dọi từ vạch 20m để đánh dấu một cái ghim ở B. Người đi theo đưa cho người đi trước một cái ghim sắt và giữ vạch 0m ở B. Người đi trước dọi từ vạch
+ 
+20m và đặt 1 cái ghim tại C. Người tiếp theo đưa người đi đầu 1 cái ghim và giữ vạch 0m ở điểm C. Người đi đầu dọi tâm từ số đọc tại D và kết thúc việc đo chiều dài. Khoảng cách đo được là:
+AD = n x 20m + R = 2 x 20m +12.35 AD = 52.35 m
+
+3.3.	ELECTRONIC DISTANCE MEASUREMENT:
+3.3.1.	Introduction:
+1.	Từ mới
+•	Major: ['meidʒə]: n: chuyên đề, chuyên ngành / adj: lớn (hơn), nhiều (hơn), trọng đại, chủ yếu
+•	Advance: [əd'vɑ:ns]: n: sự chuyển động lên phía trước; sự tiến lên / v: giúp (ai) tiến bộ; thúc đẩy (kế hoạch); có tiến bộ / adj: đi trước người khác, tiến bộ
+•	Instrumentation: [,instrumen'tei∫n]: n: thiết bị đo đạc
+•	Device: [di'vais]: n: phương sách, phương kế; chước mưu; vật sáng chế ra (để dùng vào mục đích gì); thiết bị, dụng cụ, máy móc
+•	Indirectly: [,indi'rektli]: adv: gián tiếp
+•	Electromagnetic: [i'lektroumæg'netik]: adj: điện từ
+•	Energy: ['enədʒi]: n: năng lượng
+•	Electromagnetic energy: năng lượng điện từ
+•	Common: ['kɔmən]: adj: thông thường, phổ biến
+•	Classify: ['klæsifai]: v: sắp xếp cho có hệ thống; phân loại
+•	Transmit: [trænz'mit]: v: (transmitted; transmitting): (to transmit something from.... to.....) truyền, phát (tín hiệu, chương trình qua sóng (rađiô), qua đường dây điện tín  )
+•	Category: ['kætigəri]: n: hạng, loại / (triết học) phạm trù
+•	Electro-optical: điện cơ
+•	Infrared: [,infrə'red]: n: viết tắt là IR: tia ngoài đỏ; tia hồng ngoại
+•	Microwave: ['maikrəweiv]: n: (rađiô) sóng cực ngắn, vi ba
+•	Wavelength: ['weivleηθ]: n: (vật lý) bước sóng
+2.	Bài đọc:
+A major advance in surveying instrumentation was the development of electronic distance measuring instruments (EDM). These devices determine lengths by indirectly measuring the time it takes electromagnetic energy to travel from one end of a line to the other, and
+ 
+return. The most common system for classifying EDM instruments is by the type of electromagnetic energy they transmit. Two categories are commonly employed in surveying-electro-optical instruments, which transmit either laser or infrared light; and microwave equipment, which transmit invisible electromagnetic energy of very short wavelength.
+3.	Dịch:
+Sự tiến bộ lớn của các thiết bị đo đạc trắc địa là việc phát triển các máy đo chiều dài điện tử. Những thiết bị này xác định chiều dài một cách gián tiếp bằng cách đo thời gian mà năng lượng điện từ đi từ một điểm cuối của đoạn thẳng tới điểm còn lại, rồi quay trở lại. Hệ thống phân loại các thiết bị EDM phổ biến nhất là theo loại năng lượng điện từ mà nó phát ra. Hai loại thông thường được sử dụng là thiết bị điện quang, truyền tín hiệu ở dạng tia laser hoặc tia hồng ngoại; và thiết bị sử dụng sóng ngắn, phát ra năng lượng điện từ không nhìn thấy được với bước sóng cực ngắn.
+3.3.2.	Principles of electronic distance measurement:
+1.	Từ mới
+•	Depict: [di'pikt]: v: vẽ; mô tả, miêu tả
+•	Plumb bob: quả dọi
+•	Optical plummet: bộ phận dọi quang học
+•	Frequency: ['fri:kwənsi]: n: Cách viết khác: frequence ['fri:kwəns]: tính thường xuyên, tính thường hay xảy ra
+•	Reference: ['refərəns]: n: sự tham khảo, sự liên quan.
+•	Regulate: ['regjuleit]: v: điều hòa, điều chỉnh
+•	Superimpose: [,su:pərim'pouz]: v: đặt lên trên cùng, để lên trên cùng, chồng lên; thêm vào
+•	Modulate: ['mɔdjuleit]: v: sửa lại cho đúng, điều chỉnh, điều biến
+•	Onto: ['ɔntu:]: pre: về phía trên, lên trên
+•	Sine wave: sóng hình sin
+•	Multiple: ['mʌltipl]: adj: nhiều, nhiều mối, phức tạp
+•	Multiply: ['mʌltiplai]: v: làm tăng lên nhiều lần
+•	Integral: ['intigrəl]: adj: toàn bộ, trọn vẹn, đầy đủ
+•	Principle: ['prinsəpl]: n: gốc, nguồn gốc, yếu tố cơ bản; nguyên lý, nguyên tắc cấu tạo
+•	Illustrate: ['iləstreit]: v: cung cấp tranh, biểu đồ cho cái gì; minh hoạ
+•	Fractional: ['fræk∫ənl]: adj: (thuộc) phân số / (hoá học) phân đoạn / bé li ti
+ 
+•	Fractional part: phần lẻ
+•	Expect: [iks'pekt]: v: mong chờ; trông mong; trông đợi
+•	Partial: ['pɑ:∫l]: adj: về từng phần hoặc tạo thành bộ phận; không hoàn chỉnh; một phần
+•	Reflector: [ri'flektə]: n: gương phản xạ, vật phản xạ nhiệt, vật phản xạ ánh sáng; cái phản hồi âm thanh
+•	Express: [iks'pres]: adj: nhanh, hoả tốc, tốc hành; nhằm mục đích riêng biệt / adv: hoả tốc, tốc hành/ v: biểu lộ, bày tỏ (tình cảm...); phát biểu ý kiến
+•	Equation: [i'kwei∫n]: n: hành động làm cho bằng nhau hoặc coi như bằng nhau; phương trình, công thức.
+2.	Bài đọc:
+The procedure of measuring a distance electronically is depicted in figure 3.3.a where an EDM device has been centered over station A by means of plumb bob or optical plummet.
+ 
+Figure 3.3.a. Generalised EDM procedure
+The instrument transmits a carrier signal of electronmagnetic energy to station B. A reference frequency of precisely regulated wavelength has been superimposed or modulated onto the carrier. The signal is returned from B to the receiver, so its travel part is double the slope distance AB. In the figure, the modulated electromagnetic energy is represented by a series of sine wave, each having wavelength λ. The unit a A determines the number of wavelength in the double part, multiples by the wavelength in metres and divides by two to obtain distance AB.
+
+Figure 3.3.b. Phase diference measurement principle
+ 
+It would of course be highly unusual if a measured distance was exactly an integral number of wavelengths, as illustrated in figure. Rather, some fractional part of a wavelength would in general be expected-for example, the partial value p shown in figure 3.3.b. In that figure, distance D between instrument and reflector would be expressed as:
+L  n  p
+2
+In this equation, λ is the wavelength, n: the number or full wavelengths, and p: the length of the fraction part.
+3.	Dịch:
+Thủ tục đo khoảng cách điện tử được mô tả ở hình 3.3.a, thiết bị EDM được định tâm ở trạm A bằng cách thả quả dọi hoặc dùng bộ phận dọi quang học.
+
+Hình 3.3.a. Nguyên lý tổng quát của máy toàn đạc điện tử.
+Thiết bị này phát ra một sóng mang năng lượng điện từ tới trạm B. Tần số tham khảo ở A để bước sóng điều hòa chính xác được thêm vào hoặc được điều biến trên sóng tải. Tín hiệu trở lại từ B tới máy thu, do đó, nó đã di chuyển được một đoạn bằng hai lần khoảng cách nghiêng AB. Ở trên hình, năng lượng điện từ đã được điều biến được miêu tả bằng một dải sóng hình sin, mỗi cái có bước sóng là λ. Máy đo A xác định số bước sóng ở 2 lần khoảng cách, nhân với chiều dài bước sóng đo bằng mét, rồi chia cho 2 để có được khoảng cách AB.
+
+Hình 3.3.b. Nguyên tắc đo khác
+Rất đáng chú ý nếu một khoảng cách đo được là chính xác một số lượng bước sóng trọn vẹn, như minh họa ở trong hình. Đúng hơn, một vài
+ 
+phần lẻ của 1 bước sóng nói chung là hoàn toàn có thể xảy ra – ví dụ như, phần giá trị p thể hiện trong hình 3.3.b. Trong hình này, khoảng cách D ở giữa máy và gương phản xạ sẽ được tính như sau:
+L  n  p
+2
+Trong công thức này, λ là độ dài bước sóng, n là số nguyên lần bước sóng, và p là độ dài của phân lẻ.
+3.3.3.	Total Station instrument:
+1.	Từ mới
+•	Total station: máy toàn đạc điện tử
+•	Tacheometer: [tæ'kimitə]: n: máy đo khoảng cách.
+•	Combine: [kɔm'bain]: n: nhóm người hoặc công ty cùng hoạt động kinh doanh / v: (to combine with something) ( to combine A and B / A with B) kết hợp; phối hợp
+•	Display: [dis'plei]: n: sự bày ra, sự phô bày, sự trưng bày, sự hiển thị / v: bày ra, phô bày, trưng bày, hiển thị; phô trương, khoe khoang (kiến thức...)
+•	Vertical: ['və:tikl]: adj: thẳng đứng, đứng / n: mặt phẳng thẳng đứng
+•	Simultaneously: [,siml'teiniəsli]: adv: đồng thời, xảy ra cùng một lúc, làm cùng một lúc
+•	Automatically: [,ɔ:tə'mætikəli]: adv: tự động
+•	Built-in: ['bilt'in]: adj: gắn liền (vào máy chính, vào tường...)
+•	Upon: [ə'pɔn]: pre: trên, ở trên
+•	Command: [kə'mɑ:nd]: n: lệnh, mệnh lệnh / v: ra lệnh, hạ lệnh
+•	Component: [kəm'pounənt]: adj: hợp thành, cấu thành (Compose: [kəm'pouz]: v)
+•	Instantaneously: [,instən'teinjəsli]: adv: ngay lập tức, tức thời
+•	Occupy: ['ɒkjʊpai]: v: chiếm đóng, chiếm lĩnh, chiếm cứ
+•	Azimuth: ['æziməθ]: n: (thiên văn học) vòm trời từ thiên đỉnh đến chân trời / (bản đồ học) góc giữa vòm ấy với bình tuyến; góc phương vị
+•	Input: ['input]: n: hành động đưa cái gì vào
+•	Immediately: [i'mi:djətli]: adv: ngay lập tức, tức thì / trực tiếp
+•	Directly: [di'rektli]:adv: lập tức; ngay tức khắc
+•	Store: [stɔ:]: n: cửa hang; sự tích trữ / v: chứa, đựng, tích
+•	Collector: [kə'lektə]: n: người thu thập, người sưu tầm; người thu (thuế, tiền...)
+ 
+•	Eliminate: [i'limineit]: v: loại ra, loại trừ
+•	Manual: ['mænjuəl]: adj: (thuộc) tay; làm bằng tay hoặc điều khiển bằng tay; thủ công / n: sách chỉ dẫn thực hành, sách giáo khoa
+•	Tremendous: [tri'mendəs]: adj: ghê gớm, kinh khủng, khủng khiếp, dữ dội / rất lớn, bao la
+2.	Bài đọc:
+Total station instrument (also called electronic tacheometers) combines an EDM instrument, electronic digital theodilite, and computer in one unit.
+The electronic digital theodolite automatically measures and displays horizontal and vertical angels. Total station instrument simultaneously measures distance, as well as direction, and transmits the results automatically to a built-in computer. The horizontal and vertical angles and slope distance can be displayed; the upon keyboard commands, horizontal and vertical distance components are instantaneously computed and displayed.
+If co-ordinates of the occupied station and a reference azimuth are input to the system, co-ordinates of the sighted point are immediately obtained. This information can all be directly stored in an automatic data collector, thereby eliminating manual recording. These instruments are of tremendous value in type of surveying.
+3.	Dịch:
+Thiết bị đo tổng hợp (còn gọi là máy toàn đạc điện tử) là sự kết hợp của một máy đo chiều dài điện tử, máy kinh vĩ điện tử kĩ thuật số và máy tính trong một thiết bị.
+Máy kinh vĩ điện tử kĩ thuật số đo và hiển thị tự động góc bằng và góc đứng. Máy toàn đạc điện tử đồng thời đo khoảng cách, cũng như phương hướng, và truyền kết quả một cách tự động vào máy tính. Góc bằng, góc đứng và khoảng cách nghiêng có thể được hiển thị; nhờ sự điều khiển của bàn phím, các thành phần khoảng cách ngang và khoảng cách đứng ngay lập tức được tính toán và hiển thị. Nếu tọa độ của một trạm máy và góc phương vị tham chiếu được đưa vào hệ thống, tọa độ của điểm quan sát ngay lập tức tính được. Thông tin này có thể được lưu trữ trực tiếp ngay trong bộ dữ liệu tự động, do đó, loại trừ được việc ghi chép thủ công. Những thiết bị này có giá trị to lớn trong đo đạc.
+EXERCISE
+ 
+1.	What is understood by the distance between two points in surveying?
+The distance between 2 points is understood to maen the horizontal distances.
+2.	What is horizontal distance reduced to in geodetic surveying?
+In geodetic surveying, horizontal distance is reduced to the equivalent at sea level.
+3.	Why is such reduction unnecessary in plane surveying?
+
+4.	What are slope distances reduced to?
+They are reduced to there equivalent on the horizontal projection for use in plotting maps, calculating land area, ECT.
+5.	State some advantages of electronic distance measurement?
+
+6.	Describe briefly structure of total station?
+Total station instrument combine an EDM instrument, electronic digital theodolite and computer in one unit.
+7.	Mention some advantages of total station?
+Total station instrument simultaneous measure distance, as well as direction, and transmit the results automatically to a build-in computer.
+ 
+Lesson 4: ANGULAR MEASUREMENT
+4.1.	THE INSTRUMENT:
+1.	Từ mới:
+•	Versatile: ['və:sətail]: adj: nhiều tác dụng; đa năng (dụng cụ, máy...) / linh hoạt; nhiều tài; tháo vát
+•	Capable: ['keipəbl]: adj: có khả năng; có năng lực; thạo; giỏi
+•	Horizontal angle: góc bằng
+•	Vertical angle: góc đứng
+•	Horizontal plane: mặt phẳng nằm ngang
+•	Vertical plane: mặt phẳng thẳng đứng
+•	Horizontal circle: bàn độ ngang
+•	Vertical circle: bàn độ đứng
+•	Horizontal hair: chỉ ngang
+•	Vertical hair: chỉ đứng
+•	Circle left: bàn độ trái
+•	Circle right: bàn độ phải
+•	Range: [reindʒ]: n: phạm vi, lĩnh vực; trình độ / v: xếp loại, đứng về phía
+•	Setting-out: bố trí, cắm (các yếu tổ công trình)
+•	Levelling: ['levliη]: đo cao, đo thủy chuẩn
+•	Plumbing: chiếu điểm
+•	Shaft: [∫ɑ:ft]: n: giếng mỏ, hầm lò
+•	Observe: [ə'bzə:v]: v: quan sát, theo dõi / tiến hành Observation: [,ɑbzə'vei∫n]: n: sự quan sát, sự theo dõi
+•	Telescope: ['teliskoup] :n : kính viễn vọng, kính thiên văn / v: trở nên ngắn hơn
+•	i.e.: [,ai 'i:]: viết tắt: tức là; nghĩa là ( Id est)
+•	Trunnion: ['trʌniən]: n: trục quay
+•	Axix: ['æksis]: n, pl. axes: trục
+•	Trunnion axis: trục quay ống kính
+•	Gunsight: đầu ruồi (trên ống kính để ngắm sơ bộ)
+•	Underside: ['ʌndəsaid]: n: mặt bên dưới, cạnh bên dưới; đáy
+•	Barrel: ['bærəl]: n: ống kính, ống ngắm
+2.	Bài đọc:
+The	theodolite		is	an	instrument	designed	speacially	for		the measurement	of	horizontal		and	vertical	angles		in	surveying	and
+ 
+construction work. It is the most versatile of surveying instrument, capable of performing in wide range of tasks. These include the measurement of horizontal and vertical angles, setting-out lines and angles, levelling, optical distance measurement, plumbing tall buildings and deep shafts, ect.
+Horizontal and vertical angles are measured in the horizontal and vertical planes passing through the centre of a theodolite.
+In most theodolites, the normal observing position is such that the vertical circle is at the observer’s left, and the observation is said to be face left or circle left. By rotating the telescope through 1800 in the vertical plane (i.e. about the trunnion axis), and then through 1800 in the horizontal plane, the telescope will again be pointing at the signal, but with the gunsights on the underside of the barrel, and the vertical circle to the right – i.e. the theodolite is in the face right or circle right position.
+3.	Dịch:
+Máy kinh vĩ là một thiết bị được thiết kế đặc biệt phục vụ cho việc đo góc ngang và góc đứng trong trắc địa và trong xây dựng. Nó là thiết bị đa năng nhất trong các thiết bị dùng trong trắc địa, có khả năng thực hiện các công việc trong phạm vi rộng lớn. Những công việc ấy bao gồm viêc đo góc ngang và góc đứng, bố trí cạnh và góc, đo thủy chuẩn, đo dài quang học, chiếu điểm lên các nhà cao tầng và xuống các giếng sâu, v.v.
+Góc ngang và góc đứng được đo bằng mặt phẳng thẳng đứng và mặt phẳng ngang qua tâm của máy kinh vĩ.
+Ở phần lớn máy kinh vĩ, thông thường vị trí quan sát ở bàn độ đứng bên trái của người đo, và trị đo đó được gọi là trị đo ở mặt trái hay bàn độ trái. Bằng việc đảo ống kính 1800 trong mặt phẳng thẳng đứng (nghĩa là trục quay ống kính), và sau đó quay 1800 ở mặt phẳng nằm ngang, ống kính sẽ lại được hướng về tiêu đo, nhưng với đầu ruồi ở mặt bên dưới của ống kính, và bàn độ đứng ở bên phải – nghĩa là máy kinh vĩ ở mặt phải hay vị trí bàn độ phải.
+
+4.2.	HORIZONTAL ANGLE MEASUREMENT:
+4.2.1.	Setting up at a station:
+1.	Từ mới:
+•	Setting up: đặt máy
+•	Tripod: ['traipɔd]: n: giá ba chân, kiềng ba chân
+ 
+•	Approximately: [ə'prɔksimitli]: adv: khoảng chừng, độ chừng
+•	Attach: [ə'tæt∫]: v: tham gia, liên kết với / gắn với
+•	Bolt: [boult]: n: bulông, then, chốt
+•	Holding bolt: ốc nối
+•	Fairly: ['feəli]: adv: công bằng, không thiên vị; chính đáng; ngay thẳng / rõ ràng, rõ rệt
+•	Release: [ri'li:s]: n: sự giải thoát, sự thoát khỏi (điều lo lắng, sầu muộn, bệnh tật...); sự thả, sự phóng thích / v: sự phóng thích, sự tha nợ, sự tháo ra, tách ra
+•	Clamp: [klæmp]: n: ốc hãm; cái kẹp, bàn kẹp / v: cặp, chặt lại; kẹp chặt lại, giữ chặt lại
+2.	Bài đọc:
+a, Set up the tripod over the station mark, with tripod head approximately in a horizontal plane.
+b, Place the theodolite on the tripod head and attach by holding bolt. The instrument is first set up, fairly closely over station, either by eye or by plumb bob. Release all clamps.
+3.	Dịch:
+a, Đặt chân máy tại mốc đo, sao cho mặt phẳng đế máy tương đối bằng phẳng.
+b, Để máy kinh vĩ lên chân máy và vít lại bằng ốc nối. Đầu tiên, máy phải được đặt sơ bộ gần trùng với tâm mốc, bằng cách sử dụng mắt, hoặc quả dọi. Nới lỏng các ốc hãm.
+4.2.2.	Levelling-up:
+1.	Từ mới:
+•	Levelling-up: cân bằng máy
+•	Roughly: ['rʌfli]: adv: ráp, xù xì, gồ ghề, không bằng phẳng, bờm xờm, lởm chởm
+•	Inner axis: trục đứng
+•	Bubble: ['bʌbl]:n: bong bóng, bọt, tăm
+•	Tube: [tju:b]: n: ống
+•	Bubble tube: ống thủy
+•	Footscrew: ốc cân
+•	Thumb: [θʌm]: n: ngón tay cái
+•	Towards: [tə'wɔ:dz]: adv: Cách viết khác : toward [tə'wɔ:d]: theo hướng, về phía, hướng về
+ 
+•	Former: ['fɔ:mə]: adj: trước, cũ, xưa
+2.	Bài đọc:
+When the instrument has been roughly centered, it must be leveled:
+a, Rotate the inner axis so that the bubble tube is parallel to two of the footscrews. Turning those footscrews, the bubble is brought to the center of its run. The footscrews are returned simultaneously with the thumbs moving towards each other or away from each other.
+b, Rotate the inner axis so that the bubble tube is at right angle to its former position. Bring the bubble to the centre of its run using the third screw only. In practice, the above procedure is carried out at least twice.
+3.	Dịch:
+Khi máy đã định tâm gần đúng thì cần phải tiến hành cân bằng:
+a, Quay trục đứng để trục ống thủy song song với hai ốc cân. Xoay những ốc cân này, bọt thủy sẽ được đưa tới giữa của ống thủy. Hai ốc cân được vặn đồng thời bằng cách để ngón tay cái chuyển động hướng vào nhau hoặc hướng ra xa nhau.
+b, Quay trục đứng để trục ống thủy ở vị trí vuông góc so với vị trí cũ. Đưa bọt thủy về giữa, chỉ sử dụng ốc cân thứ ba. Trong thực tế, thao tác trên được tiến hành ít nhất là 2 lần.
+4.2.3.	Centring:
+1.	Từ mới:
+•	Centring: ['sentriη]: n: sự định tâm, khoan tâm
+•	Loosen: ['lu:sn]: v: nới ra, nới lỏng
+•	Shift: [∫ift]: n: sự thay đổi
+2.	Bài đọc:
+a, Loosen the holding bolt and by moving the instrument in parallel shifts until the plumb-bob or index mark of the optical plummet is exactly centred over the station.
+b, Check the levelling-up again, check the centering again, repeat both as needed.
+3.	Dịch:
+a, Nới các ốc nối và di chuyển máy song song cho đến khi quả dọi hoặc tâm của bộ phận dọi tâm quang học ở chính xác giữa của mốc.
+b, Kiểm tra cân bằng lại, kiểm tra định tâm lại, lặp lại cả 2 công đoạn nếu cần thiết.
+4.2.4.	Measuring a horizontal angle:
+ 
+1.	Từ mới:
+•	Arbitrary: ['ɑ:bitrəri]: adj: tùy ý
+•	Upper: ['ʌpə]: adj: cao hơn
+•	Diaphragm: ['daiəfræm]: n: lưới chỉ chữ thập
+•	Tangent screw: ['tændʒənt - skru:]: ốc vi động
+•	Fix: [fiks]: v: đóng, gắn, lắp, để, đặt; làm đông lại, làm đặc lại; hãm (ảnh, màu...); cố định lại
+•	Swing: [swiη]: v: quay
+•	Clockwise: ['klɔkwaiz]: adj & adv: theo chiều kim đồng hồ
+•	Direction: [di'rek∫n]: n: sự điều khiển, sự chỉ huy, sự cai quản; mặt, phương diện
+•	Align: [ə'lain]: v: Cách viết khác: aline [ə'lain]: sắp thành hàng, chỉnh
+•	Set: vòng đo
+2.	Bài đọc:
+a, The plates are unclamped and the horizontal circle set to zero or arbitrary value nears zero. The upper clamp is locked, holding the two plates together.
+b, The telescope is directed to station A using the gunsight. When closely pointing on A, the lower clamp is also locked, and the vertical hair of the diaphragm is accurately sighted onto the station using the lower tangent screw. The horizontal circle reading is now taken and the result is booked.
+c, With the lower clamp fixed, the upper clamp is released and the telescope swung in a clockwise direction until directed towards station C using the gunsight.
+d, The upper clamp is then fixed, the upper tangent screw used to accurately align the telescope onto station C. The horizontal reading at C can then be obtained.
+e, The upper clamp is released and the theodolite turned through 1800, the telescope is then also turned through 1800 in the vertical plane and the gunsight used to roughly sight onto station C.
+f, The upper clamp is locked and the upper tangent screw used to align the telescope onto station C and the horizontal circle reread.
+g, The upper clamp is unlocked and the telescope directed towards station A with the gunsight.
+ 
+h, The upper clamp is locked and the upper tangent screw used to align the telescope onto station A. The horizontal circle can then be read for this pointing on A.
+
+Figure 4.3
+Angle ABC is obtained as show in the following example: At station B:
+Pointing	Face left	Face right
+Station C	930 34’ 40”	2730 34’ 40”
+Station A	010 15’ 20”	1810 15’ 40”
+920 19’ 20”	920 19’ 00”
+Mean value:	920 19’ 10”
+Thus, two measurements of the angle are obtained during this set and their mean can be found. Further sets can be taken after changing the zero setting (a) by about 1800/n each time, n being the required number of sets.
+3.	Dịch:
+a, Nới lỏng ốc hãm bàn độ ngang và đặt bàn độ ngang về vị trí 0 hoặc giá trị bất kì gần 0. Các ốc hãm trên được khóa lại, hãm cả hai bàn độ này
+b, Ống kính được định hướng vào A nhờ sử dụng đầu ruồi. Khi đã gần ngắm chuẩn được A, ốc hãm dưới được khóa lại, và chỉ đứng của lưới chỉ chữ thập được đưa chính xác vào mục tiêu bằng cách vặn ốc vi động dưới. Đọc số đọc trên bàn độ ngang và kết quả sẽ được ghi lại.
+c, Với ốc hãm dưới đã được khóa lại, ốc hãm trên được nới ra và ống kính quay theo chiều kim đồng hồ cho đến khi hướng về phía trạm C bằng cách sử dụng đầu ruồi.
+d, Ốc hãm trên được khóa lại, ốc vi động trên được sử dụng để chỉnh cho ống kính đến chính xác trạm C. Số đọc góc ngang ở C được thực hiện.
+e, Ốc hãm trên được nới ra và máy kinh vĩ quay 1800, ống kính cũng quay 1800 quanh mặt phẳng thẳng đứng, và đầu ruồi được sử dụng để ngắm gần về trạm C.
+ 
+f, Ốc hãm trên bị khóa, và ốc vi động trên được sử dụng để chỉnh ống kính ngắm chính xác về C, và đọc lại số đọc trên bàn độ ngang.
+g, Ốc hãm trên được mở ra, và ống kính hướng về A bằng cách sử dụng đầu ruồi.
+h, Ốc hãm trên khóa lại, và ốc vi động trên được sử dụng để chỉnh ống kính ngắm chính xác về A. Đọc số đọc trên bàn độ ngang tại điểm A này.
+
+Hình 4.3
+Góc ABC thu được được thể hiện như trong ví dụ sau:
+Vị trí	Bàn độ trái	Bàn độ phải
+Trạm C	930	34’	40”	2730	34’	40”
+Trạm A	010	15’	20”	1810	15’	40”
+	920	19’	20”	920	19’	00”
+Giá trị trung bình:	920 19’ 10”
+Như vậy, hai trị đo góc được thu nhận trong suốt vòng đo, và ta có thể tìm được giá trị trung bình của chúng. Những vòng đo sau có thể tiến hành sau khi đổi việc đặt giá trị ban đầu (a) bằng giá trị 1800/n cho mỗi lần, với n là số vòng đo yêu cầu.
+
+4.3.	VERTICAL ANGLE MEASUREMENT:
+1.	Từ mới:
+•	Depression: [di'pre∫n]: n: chỗ lõm, chỗ đất lún, chỗ sụt xuống
+•	Respect: [ri'spekt]: n: sự tôn trọng, sự chú ý / v: tôn trọng, khâm phục; liên quan đến
+•	Contain: [kən'tein]: v: chứa đựng, bao hàm, gồm có, bao gồm
+•	Coincidence: [kou'insidəns]: n: sự trùng hợp ngẫu nhiên; làm trùng
+•	Previously: ['pri:viəsli]: adv: trước, trước đây
+•	Adopt: [ə'dɔpt]: v: chấp nhận, thông qua
+•	Index error: sai số MO
+•	Altitude: ['æltitju:d]: n: độ cao so với mặt biển
+ 
+2.	Bài đọc:
+The angle of elevation (+) or depression (-) are measured with respect to the horizontal plane containing the trunnion axis of the instrument. After setting up over the station, the telescope is directed to one of the signal and exact coincidence on the mark obtained using both horizontal and vertical tangent screws. If a horizontal angle is being observed at the same time as a vertical angle the procedure discussed previously is adopted. Read the hook the vertical circle. If the instrument is not provided with an automic index, the altitude bubble should always be in the center of its run when reading the vertical circle. To eliminate the index error, a vertical angle should be observed on both faces of the instrument, the mean value giving the required vertical angle. However, a single measurement is enough in work such as tacheometry and contouring. When very accurate vertical angles are required, or for levelling, the index error and the altitude bubble should be adjusted.
+3.	Dịch:
+Góc dương hay góc âm được đo cùng với giá trị của bàn độ ngang chứa trục quay ống kính của máy. Sau khi đặt máy ở mốc, ống kính hướng vào một trong hai tiêu đo và bắt chính xác vào lưới chỉ, sử dụng cả ốc vi động đứng và ngang. Nếu một góc ngang được đo đồng thời với góc đứng, thủ tục thảo luận ở phần trước được chấp nhận. Đọc số trên bàn độ đứng. Nếu thiết bị không có lưới chỉ tự động thì bọt thủy của ống thủy dọc sẽ luôn ở vị trí trung tâm khi đọc bàn độ đứng. Để loại trừ sai số MO, một góc đứng cần được đo bằng cả 2 vị trí bàn độ của máy, góc đứng yêu cầu là giá trị trung bình. Tuy nhiên, giá trị một vị trí bàn độ là đủ trong công việc như toàn đạc hay vẽ điah hình. Khi đòi hỏi góc đứng rất chính xác, hay cho đo cao, sai số MO và bọt thủy của ống thuỷ dọc cần phải được hiệu chỉnh.
+EXERCISE
+1.	What instrument serves to measure horizontal and vertical angle?
+The theodolite instrument serves to measure horizontal and vertical angle.
+2.	Metion some of the operations that can be performed by means of a theodolite?
+The measurement of horizontal and vertical angles, setting-out lines and angles, levelling, optical distance measurement, plumbing tall buildings and deep shafts can be performed by means of a theodolite.
+ 
+3.	In what planes are horizontal and vertical angles measured?
+Horizontal and vertical angles are measured in the horizontal and vertical planes passing through the centre of a theodolite.
+4.	What is the normal observing position in most theodolite?
+In most theodolites, the normal observing position is such that the vertical circle is at the observer’s left.
+5.	Mention the most important operations performed for setting up the instrument at a station?
+a, Set up the tripod over the station mark, with tripod head approximately in a horizontal plane.
+b, Place the theodolite on the tripod head and attach by holding bolt. The instrument is first set up, fairly closely over station, either by eye or by plumb bob. Release all clamps.
+6.	What must be done to measure a horizontal plane?
+7.	How is the value of a horizontal angle calculated?
+Two measurements of the angle are obtained during the set and their mean can be found.
+8.	What is meant by vertical angle?
+
+9.	Describe the operations performed to measure a vertical angle?
+After setting up over the station, the telescope is directed to one of the signal and exact coincidence on the mark obtained using both horizontal and vertical tangent screw. Read the hook the vertical circle.
+10.	Why should a vertical angle be observed in two telescope position?
+A vertical angle should be observed in two telescope position to eliminate the index error.
+11.	When is a single measurement of a vertical angle enough?
+A single measurement is enough in work such as tacheometry and contouring.
+12.	What should be done when very accurate vertical angles are required?
+When very accurate vertical angles are required, the index error and the altitube bubble should be adjusted.
+ 
+
+Lesson 5: LEVELLING.
+1.	Từ mới:
+•	Operation: [,ɔpə'rei∫n]: n: hoạt động, vận hành
+•	Strictly: ['striktli]: adv: một cách nghiêm khắc; hoàn toàn
+•	Comparision: [kəm'pærisn]: n: sự so sánh
+•	Datum: ['deitəm]: n: (số nhiều data) số lượng đã cho (bài toán...); điều đã cho biết; luận cứ / (số nhiều datums) mốc tính toán, mốc đo lường, mặt phẳng chuẩn.
+•	Longitudinal: [,lɔndʒi'tju:dinl]: adj: theo chiều dọc
+•	Longitudinal section: mặt cắt dọc
+•	Assume: [ə'sju:m]: v: cho rằng, thừa nhận Assume to be: được xem xét
+•	Perpendicular: [,pə:pən'dikjulə(r)]: adj: vuông góc, trực giao / n: đường vuông góc.
+•	Collimation: [,kɔli'mei∫n]: n: (vật lý) sự chuẩn trực / tia ngắm nằm ngang
+2.	Bài đọc:
+Levelling is the operation required in the determination or, more strickly, the comparision, of heights of points on the surface of the Earth. If a whole series of heights is given relative to a plane, this plane is called a datum.
+In topographical work, the datum is used in the mean level of the sea. The basic equipment required in levelling is:
+-	A device which gives a truly horizontal line (the Level)
+-	A suitably graduated staff for reading vertical heights (the Levelling staff)
+The levelling device must be set up so that its longitudinal axis is at right angles to the direction of gravity (i.e. the line taken by a plimb bob), and the line of sight will then be horizontal, assuming the instrument to be in correct adjustment. There are two adjustments required:
+-	The bubble-tube axis must be set perpendicular to the vertical axis.
+-	The line of collimation must be parallel to the bubble-axis.
+3.	Dịch:
+Đo thủy chuẩn là một hoạt động mang tính bắt buộc trong việc xác định hay, nói
+
+
+ 
+Sv:Vũ Duy Đông
+ 
+một cách chính xác hơn, là sự so sánh độ cao của các điểm trên bề mặt Trái đất. Nếu toàn bộ độ cao được so sánh cho gần với một mặt phẳng, thì mặt đó được gọi là mặt thủy chuẩn.
+Trong công tác đo đạc địa hình, mặt thủy chuẩn được sử dụng là mặt trung bình của mặt nước biển.
+Thiết bị cơ bản đòi hỏi trong đo thủy chuẩn là:
+-	Một thiết bị tạo ra tia ngắm nằm ngang (máy thủy chuẩn)
+-	Một mia khắc vạch một cách phù hợp để đọc độ cao đứng (mia thủy chuẩn)
+Thiết bị đo thủy chuẩn phải được thiết lập sao cho trục dọc của nó phải vuông gócg với hướng của trọng lực (có nghĩa là đường dây dọi), và khi đó tia ngắm sẽ nằm ngang, và máy sẽ được xem như đã được điều chỉnh chính xác. Có hai thao tác trong việc cân bằng:
+-	trục ống thủy phải được đặt vuông góc với trục đứng của máy.
+-	tia ngắm nằm ngang phải song song với trục ống thủy.
+5.1.	PROCEDURE IN LEVELLING:
+1.	Từ mới:
+•	Respectively: [ris'pektivli]: adv: tách biệt ra; theo thứ tự định sẵn, lần lượt
+2.	Bài đọc:
+The basic operation is determination of the difference in level between two points. Consider two points A and B as shown in figure 5.1. Set up the level, assumed to be in perfect adjustment, so that readings may be made on a staff held vertically on A or B in return. If the readings on A and B are 3.222m and 1.414m respectively (fig. 5.1.a), then the difference in level between A and B is equal to AC, i.e. 3.222 – 1.414 = 1.808 m, and this represents a rise in height of the land at B relative to A. If the reading at B is greater than at A (fig. 5.1.b), say 3.484m, then the difference in level would be 3.222 – 3.484 = -0.262m, and this would represent a fall in the height of the land at B relative A. Thus, we have that in any two successive staff readings:
+2nd reading less than 1st represents a rise 2nd reading greater than 1st represents a fall
+ 
+If the actual level of one of the two points is known, the level of the other may be found by either adding the rise or subtracting the fall, e.g. if the level at A is 128.480 m above datum then:
+a.	Level at B = Level at A + Rise
+= 128.480 + 1.808 = 130.288 m above datum
+b.	Level at B = Level at A – Fall
+= 128.480 – 0.262 = 128.218 m above datum
+3.	Dịch:
+Thao tác đo thủy chuẩn:
+Thao tác cơ bản là việc xác định chênh cao giữa 2 điểm. Xét 2 điểm A và B như trong hình 5.1. Thiết lập trạm máy, giả sử như đã được cân bằng chính xác, các số đọc có thể được thực hiện trên một mia được dựng thẳng đứng ở A hay B. Nếu số đọc ở A và B lần lượt là 3.222m và 1.414m (hình 5.1.a), thì chênh cao giữa A và B là AC, có nghĩa là 3.222 - 1.414 = 1.808m, và điều này diễn tả sự tăng độ cao của mặt đất ở B so với A. Nếu số đọc ở B lớn hơn số đọc ở A (hình 5.1.b), ví dụ như 3.484m, thì chênh cao sẽ phải là: 3.222 - 3.848 = -0.262m, và điều này diễn tả sự giảm độ cao mặt đất của B so với A. Như vậy, ở hai số đọc trên mia liên tiếp:
+-	nếu số đọc mia 2 nhỏ hơn mia 1 thì diễn tả chênh cao tăng
+-	nếu số đọc mia 2 lớn hơn mia 1 thì diễn tả chênh cao giảm.
+Nếu độ cao thực tế của 1 trong 2 điểm đã biết, thì độ cao điểm còn lại có thể tìm được bằng cách cộng thêm chênh cao tăng hay trừ đi chênh cao giảm, ví dụ, nếu độ cao ở A là 128.480m so với mặt thủy chuẩn thì:
+a, độ cao ở B = độ cao ở A cộng với phần tăng b, độ cao ở B = độ cao ở A trừ đi phần giảm
+
+5.2.	USERS OF LEVELLING:
+1.	Từ mới:
+•	Apart (from): pre: [ə'pɑ:t]: loại trừ, ngoài ra
+•	Deal: v: (dealt): [di:l]: deal with sb/sth: giải quyết, xử lí
+•	Contouring: vẽ đường đồng mức
+2.	Bài đọc:
+Apart from the general problem of determining the difference in level between two points, which has already been dealt with, the main uses of levelling are:
+-	The taking of longitudinal sections.
+ 
+-	Cross-section.
+-	Contouring.
+-	Setting out levels.
+3.	Dịch:
+Ngoại trừ bài toán thông thường là xác định chênh cao giữa hai điểm, cái mà đã được đề câp, thì ứng dụng chính của thủy chuẩn là:
+-	Thành lập mặt cắt dọc
+-	Mặt cắt ngang
+-	Đo vẽ đường đồng mức
+-	Bố trí các yếu tố độ cao
+5.2.1.	Longitudinal sections:
+1.	Từ mới:
+•	Invariably: [in'veəriəbli]:pre: luôn luôn vẫn vậy, lúc nào cũng vậy
+•	Propose: [prə'pouz]: v: đề nghị, đề xuất, dự định
+•	Adequate: ['ædikwit]: adj: tương ứng, xứng đáng, thích hợp
+•	Dependent: [di'pendənt]: Cách viết khác: dependant [di'pendənt]: n, adj: dependent on/upon sth/sb: dựa vào
+•	Gradient: ['greidjənt]: n: dốc, độ dốc
+•	Edge: [edʒ]: cạnh, bờ, gờ, đỉnh
+•	Ditch: [dit∫]: n: hào, rãnh, mương
+•	Pond: [pɔnd]: n: ao
+•	Distort: [dis'tɔ:t]: v: vặn vẹo, bóp méo, làm méo mó; bóp méo, xuyên tạc (sự việc...)
+•	Bear in mind = pay attention to = keep in mind: chú ý, ghi chú
+•	Build up: tạo ra
+•	Benchmark: ['bent∫mɑ:k]: n: điểm độ cao, mốc độ cao, mốc kiểm tra
+•	Back sight: ['bæksait]: n: sự ngắm ngược, sự ngắm trở lại, ngắm phía sau
+•	Foresight: ['fɔ:sait]: n: hướng ngắm phía trước
+•	Occur: [ə'kɜ:(r)]: v: xảy ra, xuất hiện, tìm thấy
+•	Collimation: [,kɔli'mei∫n]: n: đường chuẩn trưc, tia ngắm nằm ngang
+2.	Bài đọc:
+A example of such a section has been given in fig. 5.2 from which it will be seen that the object is to reproduce on paper the existing ground profile along a particular line – often, though not invariably, the center line of existing or proposed work, e.g the center line of railway, road or
+ 
+canal. Staff reading to 0.01 m should be generally adequate for this purpose.
+The accuracy with which the ground profile is represented on the section is dependent on the distance between staff stations, and this in turn depends on the scale of the section. As a general basis, however, levels should be taken at:
+-	Every 20m.
+-	Points at which the gradient changes, e.g top and bottom of banks.
+-	Edges of natural features such as ditches, ponds, ECT.
+The sections are usually plotted to a distorted scale, a common one for roadwork being 1/500 scale horizontal and 1/100 vertical.
+The following points should be borne in mind during the actual levelling, particularly when levelling long section, to avoid build up of error:
+-	Start the work from a benchmark if possible, and make use of any nearby bench marks, which lie within the length being leveled.
+-	Try to keep backsights and foresights equal in length to minimize errors which will occur if the line of collimation is not parallel to bubble- tube axis.
+-	Take the final foresight on a bench mark or, better, close back on the starting point.
+3.	Dịch:
+Một ví dụ về mặt cắt dọc được thể hiện ở hình 5.2, mà ở đó, nó sẽ thực hiện mục đích là thể hiện trên giấy bản vẽ mặt đất tự nhiên dọc theo những đường đặc biệt, mặc dù không phải luôn luôn là như vậy, tim đường của những công trình đã có hoặc công trình đề xuất, ví dụ như trục đường xe lửa, đường giao thông hay kênh mương. Số đọc trên mia đến 0.01m nhìn chung là phù hợp với mục đích trên.
+Độ chính xác của hình ảnh mặt đất được miêu tả trên mặt cắt là phụ thuộc vào khoảng cách giữa hai điểm đặt mia, và theo đó phụ thuộc vào tỉ lệ của mặt cắt. Tuy nhiên, về cơ bản, độ cao cần được thể hiện:
+-	Mỗi khoảng cách 20m.
+-	Các điểm có sự thay đổi độ dốc, như đỉnh và đáy của bờ sông.
+-	Cạnh của các đối tượng tự nhiên như rãnh nước, ao, v.v
+Mặt cắt thường được vẽ với tỉ lệ khác nhau, một tỉ lệ thông thường cho đường giao thônglà 1/500 với tỉ lệ ngang và 1/100 với tỉ lệ đứng.
+ 
+Những điểm sau cần phải được chú ý trong suốt quá trình đo thủy chuẩn thực tế, đặc biệt là khi đo thủy chuẩn mặt cắt dài, để nhằm tránh việc tạo ra các sai số:
+-	Bắt đầu công việc từ điểm mốc độ cao Nhà nước nếu có thể, sử dụng tất cả các mốc bất kì gần đó nằm trong giới hạn đo đạc.
+-	Cố gắng giữ cho chiều dài tia ngắm trước bằng tia ngắm sau để cho sai số là tối thiểu, cái mà sẽ xảy ra nếu tia ngắm nằm ngang không song song với trục ống thủy.
+-	Thực hiện tia ngắm trước cuối cùng về mốc độ cao Nhà nước, hay, tốt hơn, khép nó về điểm bắt đầu.
+5.2.2.	Cross-section:
+1.	Từ mới:
+•	Narrow: ['nærou]: adj: chật hẹp, eo hẹp, hẹp / v: làm cho hẹp lại
+•	Sewer: ['su:ə]: n: cống rãnh
+•	Pipeline: ['paiplain]: n: đường ống dẫn
+•	Trench: [trent∫]: n: rãnh, mương / v: đào rãnh, mương
+•	Embankment: [em'bæηkmənt]: n: đê; đường đắp cao (cho xe lửa...)
+•	Spacing: ['speisiη]: n: sự phân đoạn
+•	Constant: ['kɔnstənt]: adj: không thay đổi, bất biến, liên miên không dứt
+•	Earthwork: ['ə:θwə:k]: n: công việc đào đắp
+•	Compact: [kəm'pækt]: n: sự thỏa thuận, hợp đồng / adj: rắn chắc, chắc nịch; chen chúc / v: làm cho rắn chắc, cô đọng lại
+•	Judicious: [dʒu:'di∫əs]: adj: đúng đắn, sáng suốt
+2.	Bài đọc:
+Works of narrow width such as sewers and pipelines require only one line of levels along the center line of the proposed trench, since there will generally be little change of the ground surface level over the proposed width. Wider work, however, such as roads, railways, embankments, ECT, will necessitate the use of ground on either side of the center line and information regarding relative ground levels is obtained by taking cross- sections at right angles to the center line. The longitudinal spacing of the sections depends on the nature of the ground, but should be constant if earthworks are to be computed. A spacing of 20m is common.
+ 
+It is common to plot cross-section to natural, i.e undistorted, scale and, since only the ground profile and a limited depth are required, the plots can be kept compact by judicious choice of datum or base height.
+3.	Dịch:
+Những công việc trên phạm vi hẹp như cống rãnh hay đường ống dẫn chỉ yêu cầu một đường thủy chuẩn dọc theo tim đường của rãnh mương, do nhìn chung chỉ có một chút thay đổi của độ cao mặt đất trong phạm vi đề xuất. Tuy nhiên, ở những công trình rộng lớn hơn như đường gia thông, đường sắt, đê đắp cao,... sẽ cần thiết sự sử dụng trên mặt đất cả các cạnh của trục đường và các thông tin yêu cầu liên quan độ cao tương đối của mặt đất được thu nhận bởi mặt cắt ngang ở góc vuông của trục đường. Khoảng cách của mặt cắt ngang phụ thuộc vào các đặc tính của mặt đất tự nhiên, nhưng nó nên được giữ nguyên không thay đổi nếu công việc đào đắp được yêu cầu để tính toán. Thông thường khoảng cách là 20m.
+Thông thường, mặt cắt ngang được vẽ một cách tự nhiên, có nghĩa là không sử dụng tỉ lệ, và do chỉ có bề mặt tự nhiên và độ sâu giới hạn được yêu cầu, bản vẽ cần được thực hiện với việc lựa chọn đúng mặt thủy chuẩn hay độ cao chuẩn.
+5.2.3.	Contouring:
+1.	Từ mới:
+•	Join: [dʒɔin]: v: nối liền, tham gia, thắt chặt
+•	Altitude: ['æltitju:d]: n: độ cao (so với mực nước biển)
+•	Dotted line: đường đánh dấu chấm (...), đường nét đứt
+•	Distinctive: [dis'tiηktiv]: distinctive of sth: phân biệt với cái gì
+•	Overlay: ['ouvəlei]: n: sự che phủ
+•	Successive: [sək'sesiv]: adj: liên tiếp, liên tục, kế tiếp
+•	Vertical interval: khoảng cao đều
+•	Photogrammetric: (thuộc) đo ảnh
+•	Interpretation: [in,tə:pri'tei∫n]: n: phép nội suy
+•	Steep: [sti:p]: adj: dốc, dốc đứng; nhanh (tăng, giảm) / n: sườn dốc; chất lỏng để ngâm / v: ngâm vào nước, đắm chìm
+•	Flatten: ['flætn]: adj: phẳng, yên tĩnh
+•	Circuit: ['sə:kit]: n: chu vi, đường vòng quanh
+2.	Bài đọc:
+A contour is a line joining points of equal altitude. Contours lines are shown on plans as dotted lines, often in distinctive colour, overlaying the
+ 
+details. The vertical distance between successive contours is known as the vertical interval, and the value of this depends on the scale of the plan and the use to which the plan is to be put. For example, a 1/5000 plan prepared by photogrammetric methods for the planning of highway project may have contours at 5m intervals.
+As regards the interpretation of contours, when they are close together, steep gradients exist, and as they open, the gradients flatten. A contour line must make a closed circuit even though not within the area covered by the plan.
+3.	Dịch:
+Đường đồng mức là một đường nối liền các điểm có cùng độ cao. Đường đồng mức được thể hiện trên bản vẽ bằng đường nét đứt, thường được phân biệt bằng màu sắc, chồng phủ về mặt chi tiết. Khoảng cách đứng giữa 2 đường đồng mức liên tiếp được gọi là khoảng cao đều, và giá trị của nó quyết định trên tỉ lệ của bản vẽ, và với sử dụng nó. Ví dụ, một bản vẽ 1/5000 được thành lập bởi phương pháp ảnh số phục vụ cho dự án đường cao tốc có thể có đường đồng mức có khoảng cao đều là 5m.
+Có liên quan đến phép nội suy đường đồng mức, khi chúng lại gần nhau, tồn tại dốc đứng, và nếu chúng xa nhau, địa hình tương đối bằng phẳng. Một đường đồng mức nên tạo thành một đường trơn khép kín mặc dù không giới hạn khu vực bao phủ bởi bản vẽ.
+5.2.4.	Gridding:
+1.	Từ mới:
+•	Gridding: n: lưới ô vuông
+•	Ideal: [ai'diəl]: adj: lí tưởng
+•	Comparatively: [kəm'pærətivli]: adv: tương đối
+•	Site: [sait]: n: vị trí, chỗ
+•	Accord: [ə'kɔ:d]: n: sự phù hợp / v: làm cho hòa hợp; chấp nhận
+2.	Bài đọc:
+Gridding is the ideal method on the relatively flat land, especially on comparatively small sites. Squares of 10 to 20m side are set out (according to the accuracy required) in the form of a grid, and levels are taken at the corners.
+3.	Dịch:
+Lưới ô vuông là một phương pháp lí tưởng ở những vùng có địa hình tương đối bằng phẳng, đặc biệt ở những khu vực có diện tích tương đối
+ 
+nhỏ. Những ô vuông có cạnh từ 10m đến 20m được bố trí (phù hợp với độ chính xác yêu cầu) tạo thành dạng lưới ô vuông, mà ở đó độ cao được đo ở các góc của lưới.
+
+EXERCISE:
+1.	What is the purpose of levelling?
+Levelling is the operation required in the determination or, more strictly, the comparison, of heights of points on the surface of the Earth.
+2.	Which is the basic equipment required in levelling? The basic equipment required in levelling is:
+-	A device which give a truly horizontal line (the Level)
+-	A suitable graduated staff for reading vertical heights (the Levelling Staff)
+3.	How must the levelling device be set up?
+The levelling device must be set up so that its longitudinal axis is at right angles to the direction of gravity, and the line of sight will then be horizontal, assuming the instrument to be in correct adjustment.
+4.	Which adjustments of the level are required? There are 2 adjustment required:
+-	The bubble-tube axis must be set perpendicular to the vertical axis.
+-	The line of collimation must be parallel to the bubble-axis.
+5.	Describe the procedure in levelling?
+The basic operation is determination of the difference in level between two points. Consider two points A and B as shown in figure 5.1. Set up the level, assumed to be in perfect adjustment, so that readings may be made on a staff held vertically on A or B in return. If the readings on A and B are 3.222m and 1.414m respectively (fig 5.1.a), then the difference in level between A and B is equal to AC, i.e. 3.222-1.414 = 1.808m, and this represents a rise in height of the land at B relative to A. If the reading at B is greater than at A (fig 5.1.b), say 3.484m, then the difference in level would be 3.222-3.484 = -0.262m, and this would represent a fall in the height of the land at B relative A.
+6.	Mention the uses of levelling? The uses of levelling:
+-	Determining the difference in level between two points
+-	The taking of longitudinal sections.
+ 
+-	Cross-section
+-	Contouring
+-	Setting out levels.
+7.	How should the levels be taken to establish the longitudinal sections? Levels should be taken at:
+-	Every 20m
+-	Points at which the gradient changes, e.g. top and bottom of banks.
+-	Edges of natural features such as ditches, ponds, act.
+8.	To avoid the buildup of error, what should one bear in mind?
+To avoid the buildup of error, the following points should be borne in mind:
+-	Start the work from a benchmark if possible, and make use of any nearby benchmark, which lie within the length being leveled.
+-	Try to keep backsights and foresights equal in length to minimize errors which will occur if the line of collimation is not parallel to bubble- tube axis.
+-	Take the final foresight on the benchmark or, better, close back on the starting point.
+ 
+Lesson 6: TRAVERSE SURVEY.
+
+6.1.	TYPES OF TRAVERSE:
+1.	Từ mới:
+•	Traverse: ['trævə:s]: n: đường chuyền
+•	Traversing: đường chuyền đa giác
+•	Fulfil: [ful'fil]: Cách viết khác: fulfill: v: đáp ứng, hoàn thành, thực hiện
+•	Bearing: ['beəriη]: n: góc phương vị, góc định hướng
+•	Closed loop traverse: đường chuyền khép kín
+•	Closed line traverse: đường chuyền phù hợp
+•	Unclosed traverse: đường chuyền treo
+•	Previously: ['pri:viəsli]: adv: trước đây
+•	Invariably: [in'veəriəbli]: adv: luôn luôn như vậy, lúc nào cũng vậy
+•	Carry out: tiến hành, thực hiện
+•	Trunk sewer: cống rãnh
+•	Perimeter: [pə'rimitə(r)]: n: chu vi
+•	Tunnel: ['tʌnl]: n: đường hầm / v: đào hầm
+•	Reveal: [ri'vi:l]: v: bộc lộ, biểu hiện, phát hiện, khám phá
+•	Identify: [ai'dentifai]: v: nhận ra, nhận biết, nhận dạng
+•	Order: ['ɔ:də]: n: loại, hạng
+•	Leg length: chiều dài cạnh
+•	Urban: ['ə:bən]: adj: (thuộc) thành phố, ở đô thị
+2.	Bài đọc:
+Traversing is a method of control survey. A series of control points (stations) each one being intervisible with its adjacent stations, will be chosen to fufill the demands of the survey, the lines joining these stations being the traverse lines. The survey then consists of the measurement of angles between successive lines and the length of each line. Given the co- ordinates of the first station and the bearing of the first line, the co- ordinates of all successive points can be calculated.
+If the figure formed by the lines closes at a sation, i.e. if they form a polygon or it starts and finishes at points of known co-ordinates, then a closed traverse has been obtained, the two being distinguished as a closed loop traverse and a closed line traverse: A traverse starting at, say, station A and ending at E which has not been co-ordinated previously, is called an
+ 
+unclosed traverse. Each type has its particular uses, but the closed traverse is the more satisfactory figure since it is the easiest one to which to apply corrections for the errors which invariably occur.
+The unclosed traverse survey can be carried out when the survey is comparatively long and harrow, such as that required for a trunk sewer, pipeline, main trunk road or rail construction.
+A closed traverse survey may be used for framework or surveys for housing or factory sites, and determination of the perimeters of lakes, etc. They may also have to be undertaken when setting out shafts to tunnels which are being driven under build-up areas. The closed line traverse has the advantage over the closed loop traverse in that mistakes in the finishing co-ordinates and bearing should be revealed.
+Traverse types are often indentified by either the equipment used or their accuracy. A first-order traverse might have leg lengths of up to 50 km measured by microwave EDM and angles measured by a precise theodolite, e.g Wild T3. On small sites, or in urban areas where visibility is greatly restricted, leg lengths may be up to 250 m and measurement could be by EDM or steel tape. The angles of the traverse might be measured with a theodolite reading to 20 seconds.
+3.	Dịch:
+Đường chuyền đa giác là một phương pháp khống chế trắc địa. Một loạt các điểm khống chế (các trạm máy), mỗi điểm phải thông hướng với các điểm liền kề nó, sẽ được chọn để thỏa mãn các yêu cầu của công tác đo đạc, các cạnh nối các điểm đó tạo thành cạnh đường chuyền. Công tác đo đạc bao gồm đo góc giữa các cạnh liên tiếp và chiều dài mỗi cạnh. Nếu cho tọa độ của điểm đầu tiên và phương vị của cạnh đầu, ta có thể tính ra tọa độ của tất cả các điểm liên tiếp.
+Nếu đồ hình có dạng các cạnh khép kín tại một điểm, có nghĩa là nếu chúng tạo thành một đa giác, hay nó bắt đầu và kết thúc tại những điểm đã biết tọa độ, ta sẽ thu được đường chuyền khép kín. Có 2 loại đường chuyền là đường chuyền khép kín và đường chuyền phù hợp. một đường chuyền bắt đầu tại A và kết thúc tại E mà tọa độ chưa được xác định thì được gọi là đường chuyền treo. Mỗi dạng có những ứng dụng riêng của nó, nhưng đường chuyền khép kín là đồ hình phù hợp hơn, vì nó dễ dàng nhất trong việc áp dụng việc hiệu chỉnh sai số có thể xảy ra.
+ 
+Đường chuyền treo có thể được thực hiện khi đo đạc những khu vực tương đối dài và hẹp, như là yêu cầu về cống rãnh, đường ống dẫn, tuyến đường chính hay xây dựng đường sắt.
+Đường chuyền khép kín được sử dụng trong lưới cơ sở hay đo đạc ở khu vực nhà ở hay vị trí các nhà máy, và xác định chu vi của các hồ,... Chúng cũng có thể được thực hiện khi bố trí các hầm lò, đường hầm chạy dưới khu vực xây dựng. Đường chuyền phù hợp có ưu điểm hơn đường chuyền khép kín ở chỗ sai số của tọa độ điểm cuối và phương vị cuối được phát hiện.
+Các dạng đường chuyền được nhận biết bởi cả thiết bị sử dụng hay độ chính xác của chúng. Đường chuyền hạng I có thể có chuyền dài cạnh lên tới 50km, được đo bởi máy đo dài điện tử sóng ngắn và góc được đo bởi máy kinh vĩ chính xác, ví dụ như Wild T3. Ở khu vực nhỏ, hay khu vực đô thị, nơi tầm thông hướng bị hạn chế đáng kể, chiều dài cạnh có thể là 250m và được đo bởi máy đo dài điện tử hay thước thép. Các góc của đường chuyền có thể được đo bằng máy kinh vĩ có độ chính xác đọc số là 20”.
+
+6.2.	CHOICE OF STATIONS:
+1.	Từ mới:
+•	Aim: [eim]: n: mục đích, mục tiêu / v: hướng vào, tập trung vào
+•	Subsequent: ['sʌbsikwənt]: adj: đến sau, theo sau, xảy ra sau / pre: tiếp theo
+•	Instance: ['instəns]: n: ví dụ
+•	Pick up: đánh dấu
+•	Suggest: [sə'dʒest]: v: đề nghị, đề xuất
+•	Contain: [kən'tein]: v: bao gồm
+•	Whenever: [wen'evə]: adv: khi nào
+•	Displacement: [dis'pleismənt]: n: sự dịch chuyển
+2.	Bài đọc:
+The stations should be chosen with the requirements of the survey in mind, aiming for good visibility between stations and bearing in mind any subsequent setting out. When survey land for a housing site, for instance, the traverse lines will be used for picking up much of the detail to be plotted, so that they will follow the perimeter of the site. The legs should be of approximately equal length and it is suggested that no traverse
+ 
+should contain more than ten legs before closing, whenever possible. Stations when chosen should be placed in such a way that there will be no displacement.
+3.	Dịch:
+Các điểm được chọn theo yêu cầu của việc đo đạc, nhằm mục đích là thông hướng tốt giữa các điểm và bố trí phương vị đường chuyền. Khi đo đạc ở khu vực nhà cửa chẳng hạn, các cạnh của đường chuyền sẽ được sử dụng để đánh dấu điểm chi tiết phục vụ đo vẽ bản đồ, do đó nó sẽ bao quanh vành đai của khu vực.Các cạnh của đường chuyền có chiều dài xấp xỉ bằng nhau và số cạnh cảu đường chuyền nên nhỏ hơn 10 cạnh trước khi khép về một điểm, nếu có thể. Các điểm được chọn phải nằm ở những nơi không bị dịch chuyển.
+
+6.3.	LINEAR MEASUREMENT:
+1.	Từ mới:
+•	Standardization: [,stændədai'zei∫n]: Cách viết khác: standardisation: n: sự tiêu chuẩn hoá; sự làm thành chính quy
+2.	Bài đọc:
+Traverse line will normally be measured by EDM instruments with direct correction to the horizontal. Where this is not possible, measurements can be made by steel band applying the full range of standardization corrections.
+3.	Dịch:
+Cạnh đường chuyền thường được đo bằng máy đo dài điện tử với sự hiệu chỉnh trực tiếp về mặt nằm ngang. Nếu không thể sử dụng máy EDM, trị đo có thể được đo bằng thước thép và sử dụng số hiệu chỉnh vào chuẩn hóa toàn bộ khoảng cách.
+
+6.4.	ANGULAR MEASUREMENT:
+1.	Từ mới:
+•	Internal: [in'tə:nl]: adj: bên trong, nội địa, bên trong cơ thể
+•	Proceed: [prə'si:d]: to proceed to sth: tiến lên, đi đến; to proceed with sth: bắt đầu hoặc tiếp tục cái gì; to proceed from sth: xuất phát, bắt nguồn từ; to proceed against sb: kiện ai
+•	Wheel: [wi:l]: v: chuyển động vòng tròn / n: bánh xe; sự chuyển động vòng
+ 
+•	Occupy: ['ɒkjʊpai]: v: chiếm đóng, chiếm giữ
+•	Advisable: [əd'vaizəbl]: adj: thích hợp
+•	Sequence: ['si:kwəns]: n: chuỗi
+•	Comprise: [kəm'praiz]: v: bao gồm
+•	Separate: ['seprət]: adj: khác nhau, riêng biệt / v: làm cho tách rời
+•	Probably: ['prɔbəbli]: adv: hầu như chắc chắn
+•	At (the) most: tối đa
+2.	Bài đọc:
+If internal angles are being read, it is usual to proceed from station to station round the traverse in an anti-clock wise direction. Staring at A, fig
+6.2 the instrument will be directed to F, the back station, and then wheeled to the fore station. The next station to be occupied will be B, where the telescope is directed first on A and then on C. It is advisable to changed face and zeros at each station, a suitable observing sequence being:
+Observe back station, face left Observe fore station, face left Observe fore station, face right Observe back station, face right
+This comprises one set and the observer can now change the zero setting and repeat the procedure as many times as required. The angles may be booked in the field book on separate pages or, probably, at most, two sets to the page.
+3.	Dịch:
+Nếu đo góc trong của đường chuyền, thông thường là bắt đầu từ một điểm đến một điểm khác trên đường chuyền theo chiều ngược chiều kim đồng hồ. Như hình 6.2, bắt đầu từ điểm A, máy được định hướng tới F, là trạm máy sau, và sau đó quay về trạm trước. Trạm máy kế tiếp là ở B, nơi ống kính hướng về A trước rồi quay về C. Ở mỗi trạm máy nên thay đổi bàn độ và giá trị ban đầu, phù hợp với trình tự đo đạc chuẩn sau:
+Quan sát trạm máy sau, ở bàn độ trái Quan sát trạm máy trước, ở bàn độ trái Quan sát trạm máy trước, ở bàn độ phải Quan sát trạm máy sau, ở bàn độ phải
+Trình tự trên bao gồm một vòng đo và người đo có thể thay đổi giá trị quy 0 và lập lại thủ tục đo trên cho đến khi đủ số vòng yêu cầu. Các góc
+ 
+có thể được ghi vào sổ đo ngoại nghiệp ở các trang riêng biệt, hay tối đa, hai vòng trên một trang.
+
+6.5.	TRAVERSE ADJUSTMENT AND COMPUTATION:
+1.	Từ mới:
+•	Schematically: [ski:'mætikli]: adv: dưới dạng giản đồ, dưới dạng biểu đồ
+•	Abstract: ['æbstrækt]: adj: lí thuyết, trừu tượng / n: bản tóm tắt; về mặt lí thuyết / v: trừu tượng hóa
+•	Distribute: [dis'tribju:t]: v: phân bổ, phân phát; phân loại
+2.	Bài đọc:
+The first example is the closed loop traverse shown schematically in Fig 6.3 and an abstract of the data is given in table.
+Having observed the lengths of the lines and angles of a closed traverse, the unavoidable errors that occur in the data must be determined to find if they are acceptable, if so, the misclose must be distributed between the observations.
+3.	Dịch:
+Ví dụ đầu tiên về đường chuyền khép kín được thể hiện ở hình 6.3 và bảng tóm tắt các số liệu được cho ở bảng sau:
+
+
+Ta đã đo chiều dài
+của các cạnh và góc của đường chuyền khép kín, các sai số không tránh được xuất hiện trong các trị đo phải được xác định để tìm ra nếu ta thừa nhận chúng, nếu vật, sai số khép phải được phân bố vào các trị đo.
+
+6.6.	ANGULAR MICLOSURE:
+ 
+1.	Từ mới:
+•	Intenal angle: góc trong
+•	Whereas: [,weər'æz]: nhưng ngược lại, trong khi; xét vì
+•	Lie: [lai]: v: nằm, nằm nghỉ
+2.	Bài đọc:
+The internal angles of a closed loop traverse should sum to (n-2).180o. where n is the number of stations. Table 6.1 shows that the sum of the seven angles in the traverse sum to 900o 00’ 25” whereas their sum should be.
+(7-2).180o = 900o00’00”. The traverse has an angular mosclose of 25” which lies within the acceptable limits, so that this misclose can be distributed to angles.
+3.	Dịch:
+Các góc trong của một đường chuyền khép kín phải có tổng bằng (n-2).1800, với n là số điểm đo. Bảng 6.1 chỉ ra rằng tổng 7 góc trong đường chuyền là 9000 00’25”, trong khi tổng của chúng phải là (7-2) .1800
+= 9000 00’00”. Đường chuyền có sai số khép góc là 25” nằm trong giới hạn cho phép, do đó sai số khép được phân đều tới các góc.
+6.7.	CALCULATION OF BEARING:
+1.	Từ mới:
+•	Assumed bearing: phương vị giả định
+•	Refer: v: [ri'fə:]: chỉ dẫn, tham khảo
+•	Dotted line: đường đánh dấu chấm (...)
+•	Meridian: [mə'ridiən]: n: kinh tuyến
+•	Minus: ['mainəs]: pre: trừ, âm, thiếu, không có / adj: trừ, âm
+•	Inspection: [in'spek∫n]: n: sự xem xét kĩ, kiểm tra, thanh tra
+•	Case: [keis]: n: trường hợp
+2.	Bài đọc:
+Staring with the known or assumed bearing of one line, the whole- circle bearings of all other lines must be determined.
+Referring to fig 6.2 the mean internal angles are found to be θA, θB, ect, while the whole-circle bearing of AB has been determined as αAB. Conditions at B, fig 6.2 are reproduced in fig 6.4, the dotted line through being the north-south meridian NBS.
+Therefore: αBC = αAB + θB – 180o
+ 
+i.e. the whole-circle bearing of BC is given by the sum of the whole- circle bearing of AB and the internal angle at B minus 180o. Inspection of C shows that the whole-circle bearing of CD, which equals αCD is given by the sum of the whole-circle bearing of BC (αBC) and the internal angle at C (θC) plus 180o. To summarize, then, for the general case, to determine the whole-circle bearing of line at a station:
+-	Add the included angle at the station to the whole-circle bearing of the previous line.
+-	If the sum obtained is below 180o, then add 180o to it (i.e. as for line CD)
+-	If the sum exceeds 180o, then reduct 180o from it (i.e. as for line BC)
+3.	Dịch:
+Xuất phát từ phương vị đã biết hoặc phương vị giả định của một cạnh, ta có thể xác định được phương vị của tất cả các cạnh khác.
+Tham khảo hình 6.2, các góc trong đo được là θA, θB, ... với góc phương vị của AB được xác định là αAB. Điều kiện tại B, hình 6.2 được thể hiện ở hình 6.4, các đường đánh dấu chấm qua kinh tuyến Bắc Nam.
+Vì vậy: αAB = θA + θB -1800, có nghĩa là phương vị ở BC được đưa ra bằng tổng của góc phương vị AB và góc trong tại B trừ đi 1800. Xét tại điểm C ta thấy phương vị của CD là αCD bằng tổng của phương vị BC và góc trong tại C cộng với 1800. Tổng kết lại, trong trường hợp tổng quát, để xác định tọa độ một cạnh tại một trạm máy ta làm như sau:
+-	Cộng giá trị góc trong của trạm máy với phương vị cạnh trước.
+-	Nếu tổng thu được nhỏ hơn 1800 thì cộng thêm 1800 vào nó (như cạnh CD).
+-	nếu tổng thu được lớn hơn 1800 thì trừ đi 1800 từ tổng đó (như cạnh BC).
+
+6.8.	EASTING AND NORTHING DIFFERENCES:
+1.	Từ mới:
+•	Reach: [ri:t∫]: n: phạm vi / v: vươn ra, với lấy; hoàn thành, đạt được
+•	Derive: [di'raiv]: v: nhận được từ, xuất phát từ, bắt nguồn từ
+•	Algebraic:	[,ældʒi'breiik]:	Cách	viết	khác:	algebraical: [,ældʒi'breiikəl]: adj: đại số
+2.	Bài đọc:
+In the position reached the lengths of the lines are known, the internal angles have been measured and adjusted, and whole-circle bearings have
+ 
+been calculated. The co-ordinates are derived form easting and northing differences. Thus, the next step is to calculate the easting and northing differences for each line of the traverse.
+ΔE = 1 sinα ΔN = 1 cosα
+Great care must be taken with the signs of the diffirrences since some will be positive and some negative.
+Since this traverse is in the form of a closed loop, the algebraic sum of all the easting diffirences and all the northing differences should be zero.
+I.e. the traverse should finish where it started. It can be seen that this is not the case, the closing errors in the easting and northing directions being dE and dN.
+Correction to an easting difference ΔE	: V = dE. lAB
+ 
+AB
+
+Correction to a northing differences ΔN
+ 
+E	L
+: V = dN.
+ 
+
+lAB
+ 
+
+ 
+AB	N	L
+3.	Dịch:
+Ở điểm đầu của cạnh đã biết chiều dài, các góc trong được đo và bình sai, và các góc phương vị được tính toán. Tọa độ thu được từ gia số tọa độ X và Y. Do vậy bước tiếp theo là tính gia số tọa độ của mỗi cạnh của đường chuyền theo công thức:	ΔE = l sinα
+ΔN = l cosα
+Cần phải chú ý dấu của các gia số tọa độ vì chúng có thể âm hoặc dương.
+Do đường chuyền có dạng là đường chuyền khép kín, nên tổng đại số của các gia số tọa độ X và Y phải bằng 0, nghĩa là đường chuyền phải kết thúc ở điểm bắt đầu. Có thể trường hợp này không xảy ra, khi đó sai số khép của hướng X và Y là dE và dN.
+Số hiệu chỉnh và gia số tọa độ ΔE	: V = dE lAB
+AB	E	L
+Số hiệu chỉnh vào gia số tọa độ ΔNAB: VN = dN
+EXERCISE:
+1.	What is meant by traversing survey?
+Traversing is a method of control survey. A series of control points (stations) each one being intervisible with its adjacent stations, will be chosen to fulfil the demands of the survey, the lines joining these stations being the traverse lines.
+ 
+2.	Mention the types of traverse?
+The types of traverse include the closed loop traverse, the closed line traverse and unclosed traverse.
+3.	How should the stations be chosen?
+The stations should be chosen with the requirements of the survey in mind, aiming for good visibility between stations and bearing in mind any subsequent setting out.
+4.	How can the lengths of the traverse lines be measured?
+Traverse line will normally be measured by EDM instrument with direct correction to the horizontal. Where this is not possible, measurements can be made by steel band applying the full range of standardization corrections.
+5.	Describe the procedure of measuring traverse angles? 6.1.3
+6.	What is meant by angular misclosure? 6.1.5
+7.	How can the bearings of the traverse lines be calculated? The bearings of the traverse lines can be calculated:
+-	Add the included angle at the station to the whole-circle bearing of the previous line
+-	If the sum obtained is below 1800, then add 1800 to it.
+-	If the sum exceeds 1800, then reduce 1800 from it.
+8.	Give the rules for the calculation of easting and northing differences? The easting and northing differences would be expressed as:
+ΔE = l sinα ΔN = l cosα
+ 
+
+Lesson 7: GLOBAL POSITIONING SYSTEM (GPS)
+7.1.	INTRODUCTION:
+1.	Từ mới:
+•	Artificial: [,ɑ:ti'fi∫əl]: adj: nhân tạo, không tự nhiên
+•	Simplify: ['simplifai]: v: làm đơn giản, đơn giản hóa.
+•	State: [steit]: n: trạng thái, tình trạng.
+•	Track: [træk]: n: theo dõi
+•	Velocity: [vi'lɔsəti]: n: vận tốc, tốc độ
+•	Airborne: ['eəbɔ:n]: n: trên không.
+•	Unprecedented: [ʌn'presidentid]: adj: chưa từng có, chưa từng thấy
+•	Attitude: ['ætitju:d]: n: vị trí
+•	Parameter: [pə'ræmitə(r)]: n: tham số
+•	Configuration: [kən,figju'rei∫n]: n: cấu hình
+•	Motional carrier: vật thể bay
+2.	Bài đọc:
+Global Positioning System (GPS) technology is a branch science of Space Geodesy. The launch of the 1st artificial satellite on October 4th, 1975 results in a new era of Geodesy. The satellite Geodesy that makes use of the signals transmitted by satellites to survey and describe the Earth came into being in the mid 1960’s.
+The GPS system consists of 3 major segments:
+-	A space segment, NAVSTAR satellites that transmit radio signals (simplified as GPS signals) to navigation and positioning users;
+-	A control segment, ground-based equipment to monitor operation states of GPS in-orbit satellites and update GPS signals;
+-	A user segment, GPS receiver that can receive passively, track, convert and survey GPS signals to determine three-dimensional position, velocity, and time for land, sea and airborne users anywhere in the world with unprecedented accuracy, even three-dimensional attitude parameters of a motional carrier.
+Figure 7.1 summarizes the configuration and operational bases of above three segments.
+3.	Dịch:
+Công nghệ định vị toàn cầu (GPS) là một nhánh của trắc địa không gian. Vệ tinh nhân tạo đầu tiên được phóng vào 4/10/1975 đã mở ra một
+ 
+kỉ nguyên mới cho trắc địa. Trắc địa vệ tinh truyền các tín hiệu bằng vệ tinh để đo đạc và mô tả Trái đất được đưa vào sử dụng vào giữa những năm 1960.
+Hệ thống định vị toàn cầu GPS bao gồm 3 đoạn chính:
+-	Đoạn không gian, vệ tinh NAVSTAR truyền tín hiệu radio (gọi đơn giản là tín hiệu GPS) để đọa hàng và xác định vị trí của người sử dụng.
+-	Đoạn điều khiển, các thiết bị đặt trên mặt đất để theo dõi tình trạng hoạt động của các vệ tinh GPS trên quĩ đạo và cập nhật tín hiệu GPS.
+-	Đoạn sử dụng, các máy thu GPS có thể thu nhận một cách bị động, theo dõi, chuyển đổi và đo đạc tín hiệu GPS để xác định tọa độ 3 chiều, vận tốc và thời gian của các máy thu trên mặt đất dưới biển và trên không ở bất kì đấu trên thế giới với độ chính xác chưa từng có, thậm chí cả các tham số vị trí 3 chiều của các thiết bị vận chuyển.
+Hình 7.1 tóm tắt cấu hình và hoạt động cơ bản của 3 đoạn trên.
+7.2.	THE SYSTEM DESIGN AND IMPLEMENTATION:
+7.2.1.	The space segment:
+1.	Từ mới:
+•	Provide: [prə'vaid]: v: cung cấp, cung ứng
+•	Civilian: [si'viljən]: n, adj: dân sự, dân thường
+•	Constellation: [,kɔnstə'lei∫n]: n: chòm sao
+•	Spare: [speə]: n: dự trữ
+•	Incline: [in'klain]: n,v: nghiêng, dốc
+•	Equator: [i'kweitə]: n: xích đạo
+•	Nominal: ['nɔminl]: n: danh nghĩa
+•	Corresponding: [,kɔris'pɔndiη]: adj: tương ứng, ứng với
+•	Semimajor axis: bán trục lớn
+•	Period: ['piəriəd]: n: thời kì, giai đoạn, chu kì
+•	Pseudo-random: giả ngẫu nhiên
+•	Predict: [pri'dikt]: v: dự báo
+•	Ephemeris: [i'feməris]: n: lịch vệ tinh
+•	Atmospheric: [,ætməs'ferik]: adj: thuộc khí quyển
+•	Propagation: [,prɔpə'gei∫n]: n: truyền bá
+2.	Bài đọc:
+After launching the first test GPS satellite on February 22th, 1978 the engineering development phase came into operation.
+ 
+At present, twenty-six operation satellites in orbits can provide the navigation and positioning service for military and civilian users. According to the original plan, the GPS constellation contains 21 operation satellites plus 3 in-orbit spares (fig.7.2)
+The operation satellites are arrayed in 6 orbit planes inclined 55 degrees to the equator. Each orbit is circular with the nominal altitude of 20,200km, corresponding to about 26,600km for the semimajor axis. The corresponding orbital period is twelve sidereal hour, one half of the Earth’s period of rotation. Each satellite transmits two frequency signals for navigation and positioning: L1 on 1575.42 MHz and L2 on 1227.60 MHz. The carrier signals are modulated by two pseudo-random noise (PRN) codes and a navigation message that includes a predicted satellites ephemeris, atmospheric propagation correction data, satellite clock error information and satellite health data.
+3.	Dịch:
+Sau khi phóng vệ tinh thử nghiệm đầu tiên vào 22/2/1978, thời kì phát triển của việc ứng dụng kĩ thuật đã chính thức đi vào hoạt động.
+Hiện nay, 26 vệ tinh đang hoạt động trên quỹ đạo có thể cung cấp các thông tin đạo hàng và định vị phục vụ cho quân đội và dân sự. Theo kế hoạch ban đầu, vệ tinh GPS bao gồm 21 vệ tinh hoạt động và 3 vệ tinh dự trữ.
+Các vệ tinh hoạt động được phân bố trong 6 mặt phẳng quỹ đạo nghiêng 55 độ so với xích đạo. Mỗi quỹ đạo là một vòng tròn có độ cao danh nghĩa là 20,200km, tương ứng là khoảng 26,600km so với bán trục lớn. Chu kì quỹ đạo tương ứng là 12h thiên văn, tương ứng với một nửa chu kì quay của Trái đất. Mỗi vệ tinh truyền 2 tần số sóng phục vụ đạo hàng và định vị: L1 với tần số 1575.42MHz và L2 với tần số 1227.60MHz. Tín hiệu sóng tải được điều biến bởi 2 mã nhiễu giả ngẫu nhiên và một thông tin đạo hàng bao gồm một lịch vệ tinh dự báo, số hiệu chỉnh dữ liệu lan truyền trong khí quyển, thông tin về sai số đồng hồ vệ tinh và tình trạng vệ tinh.
+7.2.2.	The control segment:
+1.	Từ mới:
+•	Consolidate:[kən'sɔlideit]: v: thống nhất
+•	Behavior: [bi'heivjə]: n: phản ứng, cách hoạt động
+•	Inject: [in'dʒekt]: v: truyền
+ 
+•	Broadcast: ['brɔ:dkɑ:st; 'brɔ:dkæ:st]: n,v: quảng bá
+•	Gather: ['gæđə]: n: tập hợp
+•	Relay: [ri'lei]: v: tiếp âm (một chương trình), truyền
+2.	Bài đọc:
+The control segment includes a master control station (MCS) at the consolidated Space Operation Center at Colorado Spring, and a number of monitor stations, located throughout the world, such as the stations on Diego Garcia, Ascension Island, Kwajalein and Hawaii (Fig. 7.3).
+The purpose of control segment is to monitor the health of GPS satellites, determine their orbits and behavior of their atomic clocks, and inject the broadcast message into GPS satellites. The monitor stations passively track GPS satellites, gather ranging data from GPS signals and relay them to the MCS where they are processed to determine satellite position and signal data accuracy. The MCS updates the navigation message (simplified D-code) of each satellite and relays this information to the ground injecting stations that transmit it to GPS satellites. The Ground injecting stations are also used to transmit and receive satellite control information.
+3.	Dịch:
+Đoạn điều khiển bao gồm một trạm điều khiển trung tâm (MCS) đặt tại Trung tâm hoạt động không gian thống nhất ở Colorado spring, và một số các trạm theo dõi, được đặt ở khắp nơi trên thế giới, như các trạm ở Diego Garcia, Ascension Island, Kwajalein and Hawaii (H.7.3).
+Mục đích của đoạn điều khiển là theo dõi tình trạng vệ tinh, xác định quỹ đạo của chúng và các phản ứng của đồng hồ nguyên tử, và truyền các thông tin đạo hàng đến các vệ tinh GPS. Các trạm quan trắc theo dõi bị động vệ tinh GPS, tập hợp các loại dữ liệu từ tín hiệu vệ tinh và truyền chúng tới trạm điều khiển trung tâm, nơi chúng được xử lí để xác định vị trí vệ tinh và độ chính xác của các dữ liệu của tín hiệu. Trạm điều khiển trung tâm cập nhật thông tin đạo hàng (gọi tắt là D-code) của mỗi vệ tinh và truyền các thông tin này tới trạm thu mặt đất để truyền nó tới vệ tinh GPS. Trạm thu mặt đất cũng được sử dụng để truyền và thu nhận thông tin của đoạn điều khiển vệ tinh.
+7.2.3.	The user segment:
+1.	Từ mới:
+•	Static receiver: máy thu tĩnh
+ 
+•	Kinematic receiver: máy thu động
+•	Respect: [ri'spekt]: n: khía cạnh, chi tiết cụ thể; sự tôn trọng, kính trọng/ v: tôn trọng, kính trọng
+•	Imply: [im'plai]: v: ngụ ý, gợi ý một cách gián tiếp
+•	Vehicle: ['viəkl; 'vi:hikl]: xe cộ
+•	Secretary: ['sekrətri]: n: thư kí
+•	Vital: ['vaitl]: adj: sống còn, cần cho sự sống.
+•	Role: [roul]: n: vai trò
+•	Expect: [iks'pekt]: v: mong chờ, trông đợi
+•	Lack: [læk]: v, n, adj: thiếu
+•	Terrain: ['terein]: n: địa hình (DTM: mô hình số địa hình)
+•	Accomplish: [ə'kɔmpli∫]: v: hoàn thành
+•	Overall: ['ouvərɔ:l]: adj, adv: toàn diện, toàn bộ
+2.	Bài đọc:
+The user segment includes static and kinematic receivers designed to different requirements of all military and civilian users. The static receivers are used to determine fixed point positions where receiver antennas do not move in respect to the Earth. The kinematic receivers are used to determine motional carrier positions and velocities, even attitude parameters, that is, GPS kinematic measurements imply that receiver antennas are motional in spect to the Earth. The bodies build-in with GPS receivers are defined as motional carriers, such as vehicle, ship, and low- orbit spacecrafts. According to a different speed of the motional carrier, the GPS kinematic measurements are divided into 3 modes of low, mid and high states. The speed per second of the low mode is of several meters; one hundred meters to hundreds of meters for the mid mode; and several kilometers for high mode. Since the first commercial GPS receivers for Earth surveying came into being in December 1982, GPS receivers have being fast developed and extensively used by many countries. For example, U.S Forces used 17,000 GPS receivers during the Gulf War in 1991. The U.S Secretary of Defense, Mr. Richard Cheny made the following comment in a report to U.S Congress, “The NAVSTAR GPS played a vital role in the overall operation. The VII corps sweep across the Western Desert was not expected by the Iraqis because of the lack of terrain features and could not have accomplished without GPS”.
+ 
+3.	Dịch:
+Đoạn sử dụng bao gồm máy thu tĩnh và động được thiết kế cho nhiều yêu cầu khác nhau, phục vụ cho quân sự và dân sự. Máy thu tĩnh được sử dụng để xác định vị trí điểm cố định nơi ăngten thu không thể di chuyển trên bề mặt đất. Máy thu động được sử dụng để xác định vị trí của vật thể bạy, vận tốc, thậm chí cả các tham số vị trí, do đó, các trị đo GPS động với danh nghĩa là các máy thu GPS chuyển động trên bề mặt Trái đất. Khối được thiết lập với các máy thu GPS được định nghĩa như các thiết bị chuyển động, như là xe cộ, tàu thuyền và các tàu vũ trụ quỹ đạo thấp. Tùy theo vận tốc khác nhau của các thiết bị chuyển động, trị đo GPS động có thể được chia ra 3 mứa độ chậm, trung bình và nhanh. Tốc độ mỗi giây ở phương thức chậm là vài mét; 1000 tới vài trăm mét với phương thức trung bình; và vài kilomet với phương thức nhanh. Kể từ khi các thiết bị GPS thương mại đầu tiên để đo mặt đất được đưa vào sử dụng vào 12/1982, các máy thu GPS đã có bước phát triển nhaqnh chóng và được sử dụng rộng rãi ở nhiều quốc gia. Ví dụ như quân đội Mĩ đã sử dụng 17,000 máy thu GPS trong suốt cuộc chiến tranh vùng Vịnh năm 1991. Thư kí của Bộ quốc phòng Mĩ, ông Richard Cheny đã đưa ra lời nhận xét sau trong bản báo cáo gửi lên Quốc hội Mĩ: “GPS đóng vai trò sống còn trong toàn bộ hoạt động. Quân đoàn VII đã càn quét dọc theo Sa mạc phía Tây mà không bị người I-rắc phát hiện bởi ở đó thiếu các thông tin địa hình và đã có thể không hoàn thành được nếu không có GPS”.
+
+7.3.	GPS STATIC POSITIONING:
+1.	Từ mới:
+•	Stationary: ['stei∫nəri]: n, adj: không chuyển động
+•	Carrier phase: pha sóng tải
+•	Trend: [trend]: n: hướng
+2.	Bài đọc:
+The static positioning is used to determine the position of a stationary antenna relative to the Earth. GPS positioning bases on simultaneously surveying the distances from the receiver’s antenna to each of several GPS satellites. The measured distances are surveyed by the following methods:
+-	Pseudo range measurements with C/A-code and/or P-code;
+-	Carrier phase measurements;
+ 
+-	Combination with pseudo range and carrier phase measurements (for surveying the distances, not only to use PRN code, but also to use carrier phase).
+-	For Earth surveying, the people do not use alone the pseudo range measurements, but make use of the combination with both the pseudo range and carrier phase measurements, so as to obtain a high accuracy for GPS positioning. At present, there is a developing trend to use the combination of the pseudo range and carrier phase measurements.
+3.	Dịch:
+Phương pháp định vị tĩnh được sử dụng để xác định vị trí tương hỗ của các ăngten thu cố định so với Trái đất. Định vị GPS dựa vào việc đo đồng thời khoảng cách từ các ăng ten thu tới các vệ tinh khác nhau. Khoảng cách đo được được đo theo các phương pháp sau:
+-	Đo khoảng cách giả sử dụng mã C/A và/hoặc mã P.
+-	Đo pha sóng tải
+-	Kết hợp đo khoảng cách giả và pha sóng tải (để đo khoảng cách, không chỉ sử dụng mã PRN mà còn sử dụng pha sóng tải).
+-	Trong đo đạc mặt đất, người ta không sử dụng riêng khoảng cách giả mà người ta sử dụng kết hợp vả khoảng cách giả và pha sóng tải, do đó đạt được độ chính xác cao trong định vị GPS. Hiện nay, có một xu hướng đang phát triển là sử dụng kết hợp giữa khoảng cách giả và trị đo pha sóng tải.
+
+7.4.	GPS KINEMATIC SURVEYING:
+1.	Từ mới:
+•	Navigate: ['nævigeit]: v: lái tàu
+•	Effective: [i'fektiv]: adj: hiệu quả
+•	Reduce: [ri'dju:s]: v: làm giảm
+•	Respectively: [ris'pektivli]: adv: lần lượt
+•	Calibration: [,kæli'brei∫n]: n: đo
+•	Acquire: [ə'kwaiə]: v: thu được.
+2.	Bài đọc:
+So-called GPS kinematic surveying is the real-time measurements in that the position, velocity and attitude of a receiver’s antenna vary with the movement of a motional carrier. Versus the GPS static positioning, the GPS kinematic surveying has the following features:
+ 
+-	Different motional carrier, such as the vehicles driven on the land, the ships navigated on the water-surface, air- and space-craft;
+-	Different navigation speed, such as 800m per minute for truck, 1.5km per minute for train, 30km per minute for aircraft, 440km per minute for satellites at the altitude of 800km.
+-	Different accuracy requirement form tens of meters to a few centimeters;
+-	Fast measurements for real- time positions and velocities, such as updated data rates of 1, 0.5, 0.1 and 0.02 second.
+DGPS with the pseudo range.
+Differential Global Positioning System (DGPS) can be used effectively to reduce the accuracy loss of SA techniques on GPS measurements. When performing DGPS surveying it is necessary to have two GPS receivers installed respectively on a reference station and motional carrier. There are two modes for DGPS surveying:
+-	Real-time calibration by means of a correction transmission from the reference station to kinematic users so as acquire accurately real-time positions of the motional carrier.
+-	Post-processing combination made use of GPS data of simultaneous measurements from the reference station and kinematic user for data processing in an office.
+3.	Dịch:
+Đo GPS động là trị đo xử lí tức thời vị trí, vận tốc và vị trí của ăngten thu khác nhau của thiết bị chuyển động. Khác với định vị GPS tĩnh, đo GPS động có các đặc trưng sau:
+-	Khác về thiết bị chuyển động, như là xe cộ trên mặt đất, tàu thuyền trên mặt nước, thiết bị không gian và vũ trụ;
+-	Khác về tốc độ đạo hàng, như 800m mỗi phút với xe tải, 1.5km mỗi phút với tàu hỏa, 30km mỗi phút với thiết bị không gian và 440km mỗi phút với vệ tinh ở độ cao 800km.
+-	Khác về yêu cầu độ chính xác, từ hàng chục mét tới vài cm.
+-	Đo nhanh phục vụ định vị và xác định vận tốc tức thời, như cập nhật dữ liệu với tần số 1, 0.5, 0.1 và 0.02 s.
+GPS vi phân với khoảng cách giả.
+GPS vi phân có thể được sử dụng hữu hiệu để làm giảm ảnh hưởng của kĩ thuật nhiễu trong trị đo GPS. Khi tiến hành đo vi phân GPS cần phải có
+ 
+2 máy thu được thiết lập đồng thời ở trạm tham chiếu và thiết bị chuyển động. Có 2 phương thức đo GPS vi phân:
+-	Đo thời gian thực bởi phương tiện truyền số hiệu chỉnh từ trạm tham chiếu tới máy thu động để thu được vị trí tức thời chính xác của thiết bị chuyển động.
+-	Kết hợp xử lí sau, sử dụng số liệu đo GPS của các trị đo đồng thời từ trạm tham chiếu và máy thu động để xử lí dữ liệu trong phòng.
+EXERCISE
+1.	Which segment does the GPS system consist of?
+The GPS system consists of three major segments: the space segment, the control segment, and the user segment.
+2.	State constellation and functions of the space segment?
+The space segment includes 24 satellites arrayed in 6 orbit planes incline 55 degrees to the equator. Each orbit is at the altitude of 20,200km. Each satellite transmits 2 frequency signals for navigation and positioning.
+3.	State structure and operations of the control segment?
+The control segment includes a master control station (MCS) at the consolidated Space Operation Center at Colorado Spring, and a number of monitor stations, located throughout the world, such as the stations on Diego Garcia, Ascension Island, Kwajalein and Hawaii. The control segment monitors the health of GPS satellites, determine their orbits and behavior of their atomic clocks, and inject the broadcast message into GPS satellites.
+4.	Mention some applications of GPS receivers?
+The user segment includes static and kinematic receivers. The static receivers are used to determine fixed point positions where receiver antennas do not move in respect to the Earth. The kinematic receivers are used to determine motional carrier positions and velocities, even attitude parameters, that is, GPS kinematic measurements imply that receiver antennas are motional in spect to the Earth.
+5.	Describe the GPS static positioning method?
+The GPS static positioning method is used to determine the position of stationary (fixed) points with respect to the Earth which bases on simultaneously survey ranges from satellites to receiver antennas.
+6.	Describe the GPS kinematic positioning method? 7.4
+ 
+7.	Is there any difference between static and kinematic positioning? Yes. The differences between static and kinematic positioning are:
+-	Different motional carrier.
+-	Different navigation speed.
+-	Different accuracy requirement.
+8.	What’s DGPS?
+ 
+
+Lesson 8: MAP PLOTTING
+1.	Từ mới:
+•	Irrigation: [,iri'gei∫n]: n: sự tưới (đất, ruộng)
+•	Drainage: ['dreinidʒ]: n: sự tiêu nước
+•	Hydrographic: [,haidrou'græfik]: n: thủy văn học
+•	Rural: ['ruərəl]: adj: nông thôn
+2.	Bài đọc:
+The methods of plotting described in this chapter are those employed in mapping areas limited extent where the Earth’s surface is assumed to be plane and all meridians are assumed to be parallel. These methods are applicable to surveys for highways, railroad, and irrigation and drainage system; to many topographic and hydrographic surveys; and to rural and urban land system.
+3.	Dịch:
+Phương pháp vẽ bản đồ được miêu tả trong chương này được tiến hành trong khu vực đo vẽ giới hạn, nơi bề mặt Trái đất được coi là phẳng và các kinh tuyến được xem là song song. Phương pháp này được áp dụng để đo đạc đường cao tốc, đường sắt và hệ thống tưới tiêu trong đo đạc địa hình và thủy văn, và để đo đạc khu vực đô thị và nông thôn.
+
+8.1.	PROCESS OF MAKING MAP:
+1.	Từ mới:
+•	Furnish: ['fə:ni∫]: v: cung cấp
+•	Sense: [sens]: n: hướng, chiều
+•	Reverse: [ri'və:s]: adj: ngược, đảo ngược
+•	Compilation: [,kɔmpi'lei∫n]: n: sự biên soạn
+•	Coordinatograph: máy chuyển tọa độ
+•	Expeditiously: [,ekspi'di∫əsli]: adv: một cách nhanh chóng
+•	Expedite: ['ekspidait]: v: tiến hành, giải quyết
+•	Stereoscopic: [,steriəs'kɔpik]: adj: nổi, lập thể
+•	Principally: ['prinsəpəli]: adv: phần lớn, chủ yếu
+•	Visual: ['vi∫uəl]: adj: sự nhìn, (thuộc) thị giác
+•	Reconstruction: [,ri:kən'strʌk∫n]: n: sự dựng lại, sự tái thiết
+•	Analysis: [ə'næləsis]: n, pl. analyses: sự phân tích; phép phân tích
+•	Aerial: ['eəriəl]: adj: trên không
+ 
+•	Complex: ['kɔmpleks]: adj: phức tạp
+•	Terrestrial: [tə'restriəl]: adj: trên cạn, trên mặt đất
+2.	Bài đọc:
+Regardless of their purpose of kind, maps are usually so plotted features are shown in the same relative location that they occupy on the ground, at a given scale. Hence the data of a survey furnish the information that is necessary to plot the map, and the operations of plotting are in a sense the reverse of the operations of surveying.
+In general, the process of mapping involves the plotting, by more precise method, of points of horizontal control which are generally transmit stations and which may be traverse points, triangulation points, or both, and the plotting, by less precise methods of features to these details being given in the form of angles and distances from the lines and points in the horizontal control system. The map complilation is made on a table called coordinatograph.
+Most maps are plotted wholly in the office from data taken in the fields, but where conditions are favourable and the objects to be shown are numerous, maps are often plotted more expeditiously in the field as the survey progresses. As a general rule, the points of primary horizontal control are plotted in the office, but often when details are mapped in the field, points of secondary horizontal control are fixed on the ground only as it becomes necessary to establish such points to expedite the location of details.
+Today, maps may be also made from photographs owing to the advances made in the application of stereoscopic photography (two pictures of the same area from different viewpoints), principally in vertical photographs taken from an aircraft. This method permits the visual reconstruction of a three-dimensional image of the area viewed. The production of accurate maps from the stereoscopic study and analysis of air photographs is the province of a photogrammetric specialist. Aerial survey and mapping requires the use of very large complex and expensive plotting machines (e.g Autograph – a precision plotter for aerial and terrestrial photographs at all scale), but air survey provides the only possible means of mapping large developed areas of the world.
+3.	Dịch: Quá trình thành lập bản đồ:
+ 
+Bất kể với mục đích nào đi nữa, bản đồ thường để vẽ các đặc trưng được thể hiện ở mối tương quan vị trí điểm trên mặt đất, với một tỉ lệ nhất định. Do đó, các dữ liệu đo đạc cung cấp thông tin cần thiết để đo vẽ bản đồ, và công việc đo vẽ diễn ra theo chiều hướng ngược lại với quá trình đo đạc.
+Thông thường, quá trình thành lập bản đồ bao gồm việc đo vẽ, với các phương pháp chính xác hơn, các điểm khống chế mặt bằng, cái mà thường được truyền từ các trạm và có thể là điểm đường chuyền, lưới tam giác, hoặc cả hai, và việc đo vẽ, với độ chính xác thấp hơn, các điểm chi tiết đặc trưng được đưa ra từ các góc, khoảng cách từ các cạnh và điểm của lưới khống chế mặt bằng. Việc biên tập bản đồ được thực hiện trên một bàn được gọi là máy chuyển tọa độ.
+Phần lớn bản đồ được vẽ toàn bộ trong phòng từ các dữ liệu đo đạc ngoài thực địa, nhưng ở những nơi có điều kiện thuận lợi và đối tượng được thể hiện nhiều, bản đồ thường được vẽ nhanh hơn ở những khu vực tiến hành đo đạc. Nguyên tắc chung, các điểm khống chế mặt bằng cấp I được vẽ ở trong phòng, nhưng thường các chi tiết được vẽ ngoài thực địa, các điểm khống chế mặt bằng cấp II được đánh dấu trên mặt đất chỉ khi nó trở nên cần thiết để thành lập vị trí các điểm chi tiết.
+Ngày nay, bản đồ cũng có thể được thành lập từ các ảnh do những tiến bộ trong việc ứng dụng của phương pháp đo ảnh lập thể (hai ảnh chụp cùng một vùng với hai tâm chụp khác nhau), phần lớn là ảnh thẳng đứng được chụp từ máy bay. Phương pháp này cho phép dựng lại ảnh không gian ba chiều của khu vực chụp. Sản phẩm của bản đồ chính xác từ sự nghiên cứu và phân tích lập thể của ảnh hàng không là lĩnh vực của các chuyên gia ảnh. Đo đạc trên không và thành lập bản đồ yêu cầu việc sử dụng các thiết bị đo vẽ rất phức tạp và đắt tiền (như Autograph – một máy đo vẽ chính xác phục vụ cho đo ảnh trên không và trên mặt đất ở tất cả các tỷ lệ), nhưng đo đạc trên không chỉ có thể đo vẽ các vùng rộng lớn trên thế giới.
+
+8.2.	N	OTES AND LEGENDS:
+1.	Từ mới:
+•	Explanatory: [iks'plænətəri]: adj: có tính giải thích, có tính thanh minh
+•	Interpret: [in'tə:prit]: v: giải thích, làm sang tỏ; dịch
+ 
+•	Brief: [bri:f]: adj: ngắn gọn, vắn tắt; n: bản tóm tắt; v: tóm tắt lại
+•	Circumstance: ['sə:kəmstəns]: n: trường hợp, hoàn cảnh, tình huống; chi tiết; nghi lễ
+•	Conventional: [kən'ven∫ənl]: adj: quy ước, thông thường
+•	Partly: ['pɑ:tli]: adv: phần nào
+•	Astronomical: [,æstrə'nɔmikəl]: adj: thiên văn, vô cùng to lớn
+•	Indicate: ['indikeit]: v: trình bày sơ qua, tỏ ra, ngụ ý, biểu thị
+2.	Bài đọc:
+Explanatory notes or legends are often of assistance in interpreting a drawing. They should be as brief as circumstances will follow, but at the same time should include sufficient information as to leave no doubt in the mind of the person using the drawing. A key to the symbols representing various details ought to be shown unless the symbols are conventional in character: the nature and sources of data upon which the drawing is based ought sometime to be made known. For example, the data for a map may be obtained from several sources, perhaps partly from old maps partly from old survey notes, and partly from new surveys; the meridian has been determined by astronomical observation; and elevations are referred to a certain datum as indicated by a certain bench mark of a previous survey.
+
+3.	Dịch: Chú thích và chú giải
+Chú thích và chú giải thường giúp đỡ trong việc thể hiện một bản vẽ. Chúng nên vắn tắt ở mức độ chi tiết cho phép, nhưng ở cùng một thời điểm bao gồm đủ thông tin để tránh sự nhầm lẫn với người sử dụng bản vẽ. Một biểu tượng trình bày lại các điểm chi tiết một cách đa dạng phải được thể hiện bằng kí hiệu, thông thường là bằng các chữ cái: thông tin tự nhiên và nguồn gốc của các thông tin, cái mà bản vẽ dựa vào, đôi lúc phải được biết. Ví dụ, thông tin của một bản đồ có thể được sử dụng từ một vài nguồn, có thể một phần từ các bản đồ cũ, một phần từ các chú thích trắc địa cũ, và một phần từ việc đo vẽ mới; kinh tuyến được xác định bởi các trị đo thiên văn; và độ cao được chuyển từ một mặt thủy chuẩn nào đó được biểu thị bởi một điểm gốc của việc đo đạc trước đó.
+
+8.3.	CONVENTIONAL SIGNS:
+1.	Bài đọc:
+ 
+Objects are represented on a map by signs or symbols, many of which are conventional. Some of these are shown in fig 8.1.
+2.	Dịch:
+Các đối tượng thường được thể hiện trên bản đồ bằng kí hiệu hay biểu tượng, rất nhiều trong số chúng là quy ước. Một vài ví dụ được thể hiện như ở hình 8.1.
+Đường điện Nhà cao tầng Nhà thờ Sông
+Điểm của lưới tam giác
+EXERCISE:
+1.	Where are the methods of plotting described in this chapter employed?
+The methods of plotting described in this chapter are those employed in mapping areas limited extent where the Earth’s surface is assumed to be plane and all meridians are assumed to be parallel.
+2.	What is assumed in these methods?
+In these methods, the Earth’s surface is assumed to be plane and all meridians are assumed to be parallel.
+3.	Where are these methods applicable?
+These methods are applicable to surveys for highways, railroad, and irrigation and drainage system; to many topographic and hydrographic surveys; and to rural and urban land system.
+4.	How are maps usually plotted?
+Maps are usually so plotted features are shown in the same relative location that they occupy on the ground, at a given scale.
+5.	What is the information necessary to plot a map furnished by?
+The data of a survey furnish the information that is necessary to plot the map.
+6.	What does the process of mapping involve?
+The process of mapping involves the plotting, by more precise method, of points of horizontal control which are generally transmit stations and which may be traverse points, triangulation points, or both, and the plotting, by less precise methods of features to these details being given in the form of angles and distances from the lines and points in the horizontal control system.
+ 
+7.	Where are most map plotted?
+Most maps are plotted wholly in the office from data taken in the fields.
+8.	Is this practice always followed?
+No. Where conditions are favourable and the objects to be shown are numerous, maps are often plotted more expeditiously in the field as the survey progresses.
+9.	How may maps be made today?
+Maps may be also made from photographs owing to the advances made in the application of stereoscopic photography (two pictures of the same area from different viewpoints), principally in vertical photographs taken from an aircraft.
+10.	What does the application of stereoscopic photography permit?
+This method permits the visual reconstruction of a three-dimensional image of the area viewed.
+11.	Whose province if the production of maps from the stereoscopic study?
+The production of accurate maps from the stereoscopic study and analysis of air photographs is the province of a photogrammetric specialist.
+12.	What plotting machines do aerial survey and mapping require?
+Aerial survey and mapping requires the use of very large complex and expensive plotting machines (e.g Autograph – a precision plotter for aerial and terrestrial photographs at all scale).
+13.	When is air survey the only possible means of mapping an area?
+Air survey is the only possible means of mapping large developed areas of the world.
+14.	What is of assistance in interpreting a map?
+Explanatory notes or legends are often of assistance in interpreting a map.
+15.	How should explanatory notes be?
+They should be as brief as circumstances will follow, but at the same time should include sufficient information as to leave no doubt in the mind of the person using the drawing.
+16.	How are objects represented on map?
+Objects are represented on a map by signs or symbols, many of which are conventional.
