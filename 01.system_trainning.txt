@@ -38826,6 +38826,354 @@ Particle size analysis	Phân tích thành phần hạt14
 Dry sieving method	Phương pháp sàng khô15	
 Wet sieving method	Phương pháp sàng ướt15	
 Hydrometer method	Phương pháp tỷ trọng kế15	
+•
+Texture - Kết cấu
+•
+Composition - Thành phần
+•
+Plutonic rocks - Đá xâm nhập
+•
+Phaneritic - Kết tinh thô
+•
+Crystalline - Kết tinh
+•
+Banding - Sự phân lớp
+•
+Foliation - Sự phân phiến
+•
+Lineation - Sự phân tuyến
+•
+Phaneritic - Kết tinh thấy rõ
+•
+Aphanitic - Kết tinh ẩn
+•
+Grain size - Kích thước hạt
+•
+Bedding - Lớp
+•
+Massive - Khối
+•
+Laminated - Phân lớp mỏng
+•
+Weak - Yếu
+•
+Strong - Mạnh
+•
+Weathering - Phong hóa
+•
+Complete - Hoàn toàn
+•
+Partial - Một phần
+•
+Fresh - Tươi
+•
+Infrared linescan (IRLS) - Quét dòng hồng ngoại (IRLS)
+•
+Side-looking airborne radar (SLAR) - Radar trên không nhìn nghiêng (SLAR)
+•
+Multi-spectral scanners - Máy quét đa phổ
+•
+Remote sensing - Viễn thám
+•
+Engineering geological desk study appraisals - Đánh giá nghiên cứu bàn về địa chất công trình
+•
+Engineering geological maps - Bản đồ địa chất công trình
+•
+Cross sections - Mặt cắt ngang
+•
+Geographical information system (GIS) - Hệ thống thông tin địa lý (GIS)
+•
+Data acquisition and verification - Thu thập và xác minh dữ liệu
+•
+Data storage and manipulation - Lưu trữ và xử lý dữ liệu
+•
+Data transformation and analysis - Biến đổi và phân tích dữ liệu
+•
+Data output and presentation - Đầu ra và trình bày dữ liệu
+•
+Field Exploration Request form - Mẫu yêu cầu khảo sát hiện trường
+•
+Transmittal memorandums - Bản ghi nhớ chuyển giao
+•
+Exploratory program - Chương trình thăm dò
+•
+Geologic information - Thông tin địa chất
+•
+Geologic conditions - Điều kiện địa chất
+•
+Specifications - Thông số kỹ thuật
+•
+Principal Geologists - Nhà địa chất chính
+•
+Field Geologists - Nhà địa chất hiện trường
+•
+Geology Division/Branch Chief - Trưởng phòng/ban Địa chất
+•
+Rock Quality Designation (RQD) - Chỉ số chất lượng đá (RQD)
+•
+Shears - Đới trượt
+•
+Faults - Đứt gãy
+•
+Gouge - Bột vụn
+•
+Breccia - Đá vụn
+•
+Striations - Vết rãnh
+•
+Slickensides - Mặt trượt
+•
+International Association for Engineering Geology and the Environment - Hiệp hội Quốc tế về Địa chất Công trình và Môi trường
+•
+Engineering geologists - Nhà địa chất công trình
+•
+Geotechnical engineers - Kỹ sư địa kỹ thuật
+•
+Discontinuities - Sự không liên tục
+•
+Fractures - Vết nứt
+•
+Shear zones - Đới trượt
+•
+Field Log - Nhật ký hiện trường
+•
+Visual Classifications - Phân loại bằng mắt
+•
+Laboratory Classifications - Phân loại trong phòng thí nghiệm
+•
+Soil Classifications - Phân loại đất
+•
+In-Place Density Tests - Thử nghiệm mật độ tại chỗ
+•
+Ground behavior - Hành vi của đất
+•
+Dry strength - Độ bền khô
+•
+Dilatancy - Tính giãn nở
+•
+Toughness - Độ dai
+•
+Plasticity - Độ dẻo
+•
+Cementation - Sự gắn kết
+•
+Structure - Cấu trúc
+•
+Particle sizes - Kích thước hạt
+•
+Rock grain size - Kích thước hạt đá
+•
+Igneous rocks - Đá magma/đá lửa
+•
+Metamorphic rocks - Đá biến chất
+•
+Sedimentary rocks - Đá trầm tích
+•
+Pyroclastic rock - Đá núi lửa phun trào
+•
+Rock discontinuities - Sự không liên tục của đá
+•
+Surficial deposits - Lớp phủ bề mặt
+•
+Exploratory drilling - Khoan thăm dò
+•
+Soil logging - Nhật ký đất
+•
+Core logging - Nhật ký lõi khoan
+•
+Groundwater data - Dữ liệu nước ngầm
+•
+Hazardous waste sites - Các địa điểm chất thải nguy hại
+•
+Geologic terminology - Thuật ngữ địa chất
+•
+Geologic classifications - Phân loại địa chất
+•
+Standard descriptors - Mô tả tiêu chuẩn
+•
+Qualitative and quantitative descriptors - Mô tả định tính và định lượng
+•
+English to metric - Chuyển đổi từ hệ đo Anh sang hệ mét
+•
+North American Stratigraphic Commission (NASC) - Ủy ban Địa tầng Bắc Mỹ (NASC)
+•
+ka (thousand years) - ka (nghìn năm)
+•
+Ma (million years) - Ma (triệu năm)
+•
+Metric and English (U.S. Customary) units - Đơn vị đo hệ mét và hệ đo Anh (Mỹ)
+•
+Soil classification symbol - Ký hiệu phân loại đất
+•
+Group name - Tên nhóm
+•
+Sandy - Cát
+•
+Gravelly - Sỏi
+•
+Percent gravel, sand, and/or fines - Phần trăm sỏi, cát và/hoặc hạt mịn
+•
+Cobbles and boulders - Cuội và đá tảng
+•
+Particle size - Kích thước hạt
+•
+Processed or manmade materials - Vật liệu chế biến hoặc nhân tạo
+•
+Rock foundation conditions - Điều kiện nền đá
+•
+Crystal or particle sizes and shapes - Kích thước và hình dạng tinh thể hoặc hạt
+•
+Textural adjectives - Tính từ mô tả kết cấu
+•
+Porphyritic - Porphyrit
+•
+Vesicular - Có lỗ rỗng
+•
+Scoriaceous - Xỉ
+•
+Pegmatitic - Pegmatit
+•
+Granular - Dạng hạt
+•
+Fissile - Dễ tách lớp
+•
+Slaty - Dạng phiến
+•
+Amorphous - Vô định hình
+•
+Solutioning - Sự hòa tan
+•
+Leaching - Sự rửa trôi
+•
+Bedding joints - Khe nứt lớp
+•
+Joints - Khe nứt
+•
+Zones of crushing - Vùng nghiền nát
+•
+Strength - Cường độ
+•
+Deformation - Biến dạng
+•
+Permeability - Độ thấm
+•
+Bedding planes - Mặt lớp
+•
+Bedding plane partings - Sự phân tách mặt lớp
+•
+Bedding separations - Sự tách lớp
+•
+Continuity - Tính liên tục
+•
+Openness - Độ mở
+•
+Fillings - Vật liệu lấp
+•
+Healing - Sự hàn gắn
+•
+Roughness - Độ nhám
+•
+Waviness - Độ gợn sóng
+•
+Moisture - Độ ẩm
+•
+Attitude - Thế nằm
+•
+Thickness - Bề dày
+•
+Composition - Thành phần
+•
+Conceptual model - Mô hình khái niệm
+•
+Geologic maps - Bản đồ địa chất
+•
+Isopachs - Bản đồ đẳng dày
+•
+Contour maps - Bản đồ đường đồng mức
+•
+Nomenclature - Hệ thống danh pháp
+•
+Map units - Đơn vị bản đồ
+•
+Map symbols - Ký hiệu bản đồ
+•
+American Geologic Institute Glossary of Geology - Bảng chú giải Địa chất của Viện Địa chất Hoa Kỳ
+•
+Trench log - Nhật ký hào đào
+•
+Mappable geologic units - Các đơn vị địa chất có thể lập bản đồ
+•
+Tunnel map - Bản đồ đường hầm
+•
+Drilling specifications - Thông số kỹ thuật khoan
+•
+Drilling methods - Phương pháp khoan
+•
+Drilling conditions - Điều kiện khoan
+•
+Driller's comments - Nhận xét của thợ khoan
+•
+Test pit - Hố thử
+•
+Auger hole logs - Nhật ký lỗ khoan xoắn
+•
+Moist color - Màu sắc khi ẩm
+•
+Odor - Mùi
+•
+Reaction with HCl - Phản ứng với HCl
+•
+Samples Taken - Mẫu được lấy
+•
+Environmental Protection Agency (EPA) - Cơ quan Bảo vệ Môi trường (EPA)
+•
+Field program - Chương trình khảo sát hiện trường
+•
+Field Sampling Plan (FSP) - Kế hoạch Lấy mẫu Hiện trường (FSP)
+•
+Sampling and Analysis Plan (SAP) - Kế hoạch Lấy mẫu và Phân tích (SAP)
+•
+Standard operating procedures (SOPs) - Quy trình vận hành tiêu chuẩn (SOPs)
+•
+Quality Assurance Project Plan (QAPP) - Kế hoạch Đảm bảo Chất lượng Dự án (QAPP)
+•
+Health and Safety Plan (HASP) - Kế hoạch Sức khỏe và An toàn (HASP)
+•
+Piezometer Test - Thử nghiệm áp kế
+•
+Riprap - Đá hộc
+•
+Gradation - Cấp phối
+•
+Durability - Độ bền
+•
+Phase Velocity - Vận tốc pha
+•
+Primacord - Dây nổ
+•
+Profile - Trắc diện
+•
+Moist density - Khối lượng riêng khi ẩm
+•
+Dry density - Khối lượng riêng khô
+•
+Void ratio - Hệ số rỗng
+•
+Porosity - Độ rỗng
+•
+Degree of saturation - Độ bão hòa
+•
+Specific gravity - Tỷ trọng
+•
+N60 - Giá trị SPT hiệu chỉnh
+•
+Hammer type - Loại búa
+•
+Hammer release - Cách thả búa
+•
+Free fall - Thả rơi tự do
+•
+Rope and pulley - Dây thừng và ròng rọc
 
 
 
